@@ -1,0 +1,5684 @@
+{
+  "7gjAu1qr5C2grXeQFFOGeh": {
+    "name": "Passion Pit",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+  },
+  "5juOkIIy18sFw9L30syt1Z": {
+    "name": "Washed Out",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+  },
+  "6Jrxnp0JgqmeUX1veU591p": {
+    "name": "Santigold",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+  },
+  "066X20Nz7iquqkkCW6Jxy6": {
+    "name": "LCD Soundsystem",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+  },
+  "4l1cKWYW591xnwEGxpUg3J": {
+    "name": "Miike Snow",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+  },
+  "5LXEAEGrpKQtpyCu2sZuWu": {
+    "name": "Oingo Boingo",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu"
+  },
+  "0uAjBatvB4ubpd4kCfjmNt": {
+    "name": "A Flock Of Seagulls",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+  },
+  "3daM7asS0gCFvyLemNx2EE": {
+    "name": "The Romantics",
+    "genre": "synthpop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+  },
+  "057gc1fxmJ2vkctjQJ7Tal": {
+    "name": "The Buggles",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+  },
+  "3HJIB8sYPyxrFGuwvKXSLR": {
+    "name": "TV On The Radio",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+  },
+  "2Jv5eshHtLycR6R8KQCdc4": {
+    "name": "Grizzly Bear",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+  },
+  "0UKfenbZb15sqhfPC6zbt3": {
+    "name": "DEVO",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+  },
+  "2mV8aJphiSHYJf43DxL7Gt": {
+    "name": "Chromeo",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+  },
+  "5WWSL6rElJeUk3Uc1S2RyD": {
+    "name": "Dead Or Alive",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+  },
+  "4GLJPBj5Cdr9AgLKvLWM4n": {
+    "name": "Dragonette",
+    "genre": "synthpop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+  },
+  "2mG8HHQ9S9kcbjcrb5N1FE": {
+    "name": "The Go-Go's",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+  },
+  "7Cf73Z3RZQTH4V69GSDxnv": {
+    "name": "Harold Faltermeyer",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+  },
+  "3jOO5nZ2XPmc232rNjzqJy": {
+    "name": "When In Rome",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy"
+  },
+  "0fYPQBOx0vsRMmjUba9HgF": {
+    "name": "Modern English",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+  },
+  "20p5D2KrE8CGuOjHtxsyTp": {
+    "name": "Fine Young Cannibals",
+    "genre": "synthpop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+  },
+  "32lVGr0fSRGT6okLKHiP68": {
+    "name": "Taylor Dayne",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+  },
+  "3C6chBmZ9wzisBhoh8G2nK": {
+    "name": "Naked Eyes",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK"
+  },
+  "34PLzyi7CdXUekiLHYyqXq": {
+    "name": "Men Without Hats",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
+  },
+  "6Jrj26oAY96EEC2lqC6fua": {
+    "name": "Squeeze",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+  },
+  "1G1mX30GpUJqOr1QU2eBSs": {
+    "name": "Yazoo",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+  },
+  "0Z5pcmXDCKTrFWLnDChC37": {
+    "name": "Miami Horror",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+  },
+  "2ueoLVCXQ948OfhVvAy3Nn": {
+    "name": "Perfume Genius",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+  },
+  "6Zh3xrWlA0SA9Fsfj9AVwm": {
+    "name": "Wang Chung",
+    "genre": "synthpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+  },
+  "6oWIS1UZp9dR74eYez74vX": {
+    "name": "Tikkle Me",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX"
+  },
+  "7Fo8TAyGJr4VmhE68QamMf": {
+    "name": "Talk Talk",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+  },
+  "3w4VAlllkAWI6m0AV0Gn6a": {
+    "name": "Hurts",
+    "genre": "synthpop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+  },
+  "5jVeqi3PNaTOajfvBa4uFn": {
+    "name": "Thompson Twins",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+  },
+  "6fLrPFLWLSCrp7gcTZXcKb": {
+    "name": "Twin Shadow",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+  },
+  "1eVEVL20zNLcGrPDOR691N": {
+    "name": "The English Beat",
+    "genre": "synthpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+  },
+  "5WId4o5jdGVhptNU0uqKxu": {
+    "name": "St. Lucia",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+  },
+  "0ucLPotcQNI7AViFytdhBz": {
+    "name": "Ladytron",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+  },
+  "18xgcedCGxFbqLbIQn5R8F": {
+    "name": "Miami Sound Machine",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+  },
+  "7Bah8E0kCETqEpAHI6CPzQ": {
+    "name": "Mr. Mister",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+  },
+  "5KQMtyPE8DCQNUzoNqlEsE": {
+    "name": "Gary Numan",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+  },
+  "4kwxTgCKMipBKhSnEstNKj": {
+    "name": "Animal Collective",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+  },
+  "37uLId6Z5ZXCx19vuruvv5": {
+    "name": "Hot Chip",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+  },
+  "6loBF9iQdE11WSX29fNKqY": {
+    "name": "Howard Jones",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+  },
+  "2eMb96S1ZJ1YQ7FhWAzWJL": {
+    "name": "Pearly Drops",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+  },
+  "7pyhre5oEEFMqcgMEvJY7q": {
+    "name": "Sky Ferreira",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+  },
+  "4tOVIRjlWWfR1RrAxyRqTE": {
+    "name": "Chromatics",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+  },
+  "6Yae9Ia1nq6JLLojBzwN1r": {
+    "name": "HNNY",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+  },
+  "5dcOK4stT4JDkP6Dqhbz5s": {
+    "name": "Sheena Easton",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+  },
+  "6czfQ8MjHVmvJKA4LAnviG": {
+    "name": "Baltimora",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+  },
+  "5hE6NCoobhyEu6TRSbjOJY": {
+    "name": "Fever Ray",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+  },
+  "0KydPQPUUoTNhmiHKOg5Er": {
+    "name": "Neon Indian",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+  },
+  "7pwjGKaqnfkvS7eQbHaqyH": {
+    "name": "Sparks",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+  },
+  "1mZu3rO7qSD09GdDpePHhY": {
+    "name": "Frankie Goes To Hollywood",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+  },
+  "422RLznpwUa5FsQgnTlgUH": {
+    "name": "Great Good Fine Ok",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+  },
+  "0smy8yDrRoI4CnhpOuthg0": {
+    "name": "Corey Hart",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+  },
+  "2QSPrJfYeRXaltEEiriXN9": {
+    "name": "Tove Styrke",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+  },
+  "3qwabfaWewpfli7hMNM3O8": {
+    "name": "R\u00f3is\u00edn Murphy",
+    "genre": "synthpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+  },
+  "3rp4f58JlRHkk8hpdLCer1": {
+    "name": "Videoclub",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+  },
+  "0L9xkvBPcEp1nrhDrodxc5": {
+    "name": "Level 42",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+  },
+  "38zTZcuN7nFvVJ6auhc6V3": {
+    "name": "Deerhunter",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+  },
+  "2yTUYhIf8fxptTIy3KLuJD": {
+    "name": "Mike + The Mechanics",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
+  },
+  "2ZfogSsOWP4mVfEqfpLXCt": {
+    "name": "The Church",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+  },
+  "59pWgeY26Q6yJy37QvJflh": {
+    "name": "Sleigh Bells",
+    "genre": "synthpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+  },
+  "2wpWOzQE5TpA0dVnh5YD08": {
+    "name": "Bronski Beat",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+  },
+  "7eQZTqEMozBcuSubfu52i4": {
+    "name": "The Knife",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+  },
+  "6rqU9HQ57NYGBnBzbrY3a4": {
+    "name": "Paul Young",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+  },
+  "62s5q1tm3UAcRnbGY9CCI9": {
+    "name": "Provoker",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+  },
+  "4EENT7N7rCBwrddM3s0vFS": {
+    "name": "Cut Copy",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+  },
+  "7bKupnlF7XOfR1En3K8oAL": {
+    "name": "Go West",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7bKupnlF7XOfR1En3K8oAL"
+  },
+  "2s79xe5F6eUQkjwjww27Fh": {
+    "name": "ABC",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+  },
+  "0RUEHcBiENFEqxgicqS2ig": {
+    "name": "The Stranglers",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+  },
+  "2fBURuq7FrlH6z5F92mpOl": {
+    "name": "Digitalism",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+  },
+  "0dmPX6ovclgOy8WWJaFEUU": {
+    "name": "Kraftwerk",
+    "genre": "synthpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+  },
+  "6NrkINd80slV25wkBu9mEB": {
+    "name": "Wild Nothing",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+  },
+  "5BKsn7SCN2XmbF7apdCpRS": {
+    "name": "Goldfrapp",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+  },
+  "1L0y9srZMyh9XUnYGv37IP": {
+    "name": "'Til Tuesday",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
+  },
+  "7hAolICGSgXJuM6DUpK5rp": {
+    "name": "Chairlift",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+  },
+  "64NhyHqRKYhV0IZylrElWu": {
+    "name": "TR/ST",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
+  },
+  "7ip3CWlgPZbQHvgJpmcGSS": {
+    "name": "Peter Schilling",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+  },
+  "0Zy4ncr8h1jd7Nzr9946fD": {
+    "name": "Killing Joke",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+  },
+  "1gkSl4XpHIHI4I1WQbfXOE": {
+    "name": "Peaches",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+  },
+  "2jS7I1u7BpgWT9ssG62Zr1": {
+    "name": "Lisa Stansfield",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+  },
+  "51kDu9CfyGBpcgMwy8MlEd": {
+    "name": "Labyrinth Ear",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+  },
+  "6zpPKMhpOoG646kJgZ7RKf": {
+    "name": "Johnny Hates Jazz",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+  },
+  "5CT7RBitS0e0u78T8tRBWQ": {
+    "name": "Missing Persons",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ"
+  },
+  "6GnCucI2uDaYj1j39GFxkn": {
+    "name": "F.R. David",
+    "genre": "synthpop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+  },
+  "04HvbIwBccFmRie5ATX4ft": {
+    "name": "Yeasayer",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
+  },
+  "2Uz58cSxlJgefDaSikxYQ7": {
+    "name": "Thomas Dolby",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+  },
+  "77zrvBORXcnTyysjjKRfBU": {
+    "name": "The Art Of Noise",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+  },
+  "1n0pe6Cx9pCNvXYkX9TTLX": {
+    "name": "Real Life",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
+  },
+  "3AmgGrYHXqgbmZ2yKoIVzO": {
+    "name": "Warpaint",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+  },
+  "1JVoO5bwfU8GNuAZLpBoHe": {
+    "name": "The Dream Academy",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1JVoO5bwfU8GNuAZLpBoHe"
+  },
+  "0f3kLT4wvi2mFHlHJgV8Hl": {
+    "name": "Kajagoogoo",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl"
+  },
+  "2qlAMLpUyBjZgnzuFXXZXI": {
+    "name": "Klaxons",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+  },
+  "3IUisqn0mluZR0LITs8Sqk": {
+    "name": "ICEHOUSE",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+  },
+  "6scOultrkXrQsClcbGKM7e": {
+    "name": "The Motels",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e"
+  },
+  "6bJUzb3mLEYCkTAp7eNJgO": {
+    "name": "Information Society",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO"
+  },
+  "2CSEKlTT9empsZ8vZWsrKO": {
+    "name": "Drab Majesty",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO"
+  },
+  "7hqZBHSgDs1odG9aupMzEI": {
+    "name": "Big Audio Dynamite",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
+  },
+  "2u0gw0uCWBMiqV7h0N8kai": {
+    "name": "Wet Wet Wet",
+    "genre": "synthpop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+  },
+  "166Dz1GX3xonSQ3Z6CQW26": {
+    "name": "The Rapture",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+  },
+  "3iUjRVvYCsMfz7tuAQtBDI": {
+    "name": "Ultravox",
+    "genre": "synthpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+  },
+  "6BZbe6PDrJgxiXZ3cIXA8o": {
+    "name": "General Public",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/6BZbe6PDrJgxiXZ3cIXA8o"
+  },
+  "3wYNAqaozlhaa6Zyqs9vPS": {
+    "name": "PERMSKY KRAY",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/3wYNAqaozlhaa6Zyqs9vPS"
+  },
+  "3xgj17ZsWxxU86S4qlWvOi": {
+    "name": "Yello",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+  },
+  "6eQHjJJa52LUGjBKP5UPos": {
+    "name": "Animotion",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos"
+  },
+  "7zeHJIIfNStVfxlbT72UwY": {
+    "name": "Peter Murphy",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+  },
+  "6l77PmL5iuEEcYjGl8K6s7": {
+    "name": "Bat For Lashes",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+  },
+  "0WbqAlM1WvfUD6dF7omThd": {
+    "name": "Yelle",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+  },
+  "6SXZyMIzYNNfZ3NFQc3vtv": {
+    "name": "Tubeway Army",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
+  },
+  "2mDlFcPtgXtLF1gEshEInh": {
+    "name": "Alaska Y Dinarama",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+  },
+  "5vuIOnOp6NI06rjLgTpYiY": {
+    "name": "Frida Sundemo",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY"
+  },
+  "57anmI1X2hXWPrNagFdzZr": {
+    "name": "YACHT",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+  },
+  "7kCL98rPFsNKjAHDmWrMac": {
+    "name": "Nik Kershaw",
+    "genre": "synthpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+  },
+  "5TfnQ0Ai1cEbKY5katFK14": {
+    "name": "Ladyhawke",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+  },
+  "6zPcUezmkw9aGjoRlBxYxw": {
+    "name": "Wall Of Voodoo",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/6zPcUezmkw9aGjoRlBxYxw"
+  },
+  "7LTzUnZaptYfAFmvqW5M6D": {
+    "name": "Limahl",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
+  },
+  "40enFxfEXXsEXKOt1vgx0k": {
+    "name": "Martika",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
+  },
+  "2K13AVg3bFpHSxDM1vJ0qA": {
+    "name": "CSS",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+  },
+  "4nZbOHYEypqHtWwTPQu8Fl": {
+    "name": "Class Actress",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
+  },
+  "0MoXIHcFwhIWnFgBfdvQ30": {
+    "name": "Little Boots",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+  },
+  "6UOcY6w4K6Ek5Lw5rFDHdP": {
+    "name": "iamamiwhoami",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+  },
+  "1EemADz12kjlGwkpY4EINv": {
+    "name": "The Power Station",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1EemADz12kjlGwkpY4EINv"
+  },
+  "2Vhc7Y0Kc6HzMC6glKM4h6": {
+    "name": "Holy Ghost!",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
+  },
+  "4hiLNlqr4vQdiuo1aQKSXS": {
+    "name": "Niki & The Dove",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+  },
+  "6eforqOxk5mRrgprF7XtYu": {
+    "name": "Clea Vincent",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+  },
+  "1ssulsHf3JrWakLxa8yFad": {
+    "name": "Cold Cave",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad"
+  },
+  "7x3Y6pFeDGLJjv1V5uToHv": {
+    "name": "ionnalee",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+  },
+  "6imyM8T1Xbe8v2iZe41dR7": {
+    "name": "Haircut 100",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+  },
+  "0ow8F3xGkmZWVulTtaiFQo": {
+    "name": "Book Of Love",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
+  },
+  "23ymPLjbtAMzTJS2qRtQ8Z": {
+    "name": "S\u00e9bastien Tellier",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+  },
+  "6ne5YmZH7oCXcZUBsY66sn": {
+    "name": "Phil Oakey",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn"
+  },
+  "40oYPr305MsT2lsiXr9fX9": {
+    "name": "The Boomtown Rats",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
+  },
+  "20kRNjGAzhnBIflemL8JfY": {
+    "name": "Romeo Void",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY"
+  },
+  "2BWfZGPtsjRlRp7JTDqI45": {
+    "name": "Boy George",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+  },
+  "47qTcvYlqJGAEsCI7BcENC": {
+    "name": "T'Pau",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC"
+  },
+  "6OAueBADydAjR5lP5NqTvv": {
+    "name": "And One",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv"
+  },
+  "5STTEE3TlZg9gb3xNC4RHF": {
+    "name": "Malik Djoudi",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+  },
+  "5PW3MLdSbq1ptFI0QTCSID": {
+    "name": "Minuit Machine",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID"
+  },
+  "70MnQHSuHcHizcq5qma5vA": {
+    "name": "Nuovo Testamento",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/70MnQHSuHcHizcq5qma5vA"
+  },
+  "1mmehjf7eHA10uHMisZGJg": {
+    "name": "!!!",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+  },
+  "3rclGaNhwMNMcU2GkN91j9": {
+    "name": "Ashbury Heights",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9"
+  },
+  "3mZqziCJj4pq3P2VBpmK6p": {
+    "name": "Friendly Fires",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+  },
+  "2N4isf5pypyuDVpBofqEN8": {
+    "name": "Midge Ure",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2N4isf5pypyuDVpBofqEN8"
+  },
+  "0TMi4dfaeWLOtRybyX09XW": {
+    "name": "Clio",
+    "genre": "synthpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+  },
+  "31DXlldabwPHwu6dYevuzK": {
+    "name": "Simian Mobile Disco",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK"
+  },
+  "0e04xgVBPU6mE2QkSHlufD": {
+    "name": "Myl\u00e8ne Farmer",
+    "genre": "synthpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+  },
+  "17U2ImH5IyYMvjkCfPhMHT": {
+    "name": "The Communards",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
+  },
+  "0oQLexIBY9SlMhtbSIPFAO": {
+    "name": "The Alarm",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/0oQLexIBY9SlMhtbSIPFAO"
+  },
+  "0EPf9vAXPdFV5Ezp1sMX8B": {
+    "name": "Visage",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+  },
+  "2xZHADRPl17tm8FPthebhR": {
+    "name": "Electroforez",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR"
+  },
+  "5EGOerlVYxwqxaTLEWumBR": {
+    "name": "Synapson",
+    "genre": "synthpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+  },
+  "5ApKaVHAStk5kAuyBW1wG8": {
+    "name": "Yazz",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+  },
+  "1WHoAjAWGx5qLsgzpaOk7W": {
+    "name": "Hercules & Love Affair",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+  },
+  "5PyU5aVBI66v0pkCIvEJfu": {
+    "name": "Flavien Berger",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+  },
+  "2PDepyCtfybWn5UJv0DmKw": {
+    "name": "Molly Nilsson",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw"
+  },
+  "4ZYjW9vY2BTk1er3xomkwI": {
+    "name": "M",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
+  },
+  "1yjAx9cww4f1QuAaN3dUI2": {
+    "name": "Desireless",
+    "genre": "synthpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+  },
+  "0ym94xKp2PIOJtTZKpxbAa": {
+    "name": "Samantha Fox",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa"
+  },
+  "1o43SzzuLoyOxqThmp7s0g": {
+    "name": "Austra",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+  },
+  "7vPXrGlSGukcwpaPxUfKKR": {
+    "name": "Japan",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+  },
+  "0WUphJOGHE5i95IeR87hsO": {
+    "name": "China Crisis",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO"
+  },
+  "77D38RDgCtlYNLpayStftL": {
+    "name": "The Housemartins",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
+  },
+  "7sbwBqdkynNUDgiWU3TQ5J": {
+    "name": "Aztec Camera",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J"
+  },
+  "5aBEGOeWQCJfptic9xyaAb": {
+    "name": "Tones On Tail",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+  },
+  "5R7K1GezC0jy24v1R2n4x3": {
+    "name": "Fischerspooner",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3"
+  },
+  "7EFB09NxZrMi9pGlOnuBpd": {
+    "name": "The Horrors",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+  },
+  "2DfP0hQCCFmZHjstSE8yXC": {
+    "name": "Anoraak",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
+  },
+  "3xYNGCooNIzKMAtJYKSOyq": {
+    "name": "Electronic",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/3xYNGCooNIzKMAtJYKSOyq"
+  },
+  "5PhSiNjHZevtfAj9zmvVkU": {
+    "name": "Hante.",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/5PhSiNjHZevtfAj9zmvVkU"
+  },
+  "78OKNrjc3BvniYTqvpOp6P": {
+    "name": "Zola Jesus",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+  },
+  "39afGThIZjTTMH5enuLXYI": {
+    "name": "The Icicle Works",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/39afGThIZjTTMH5enuLXYI"
+  },
+  "3bpvhFSIErguVNQUiutctF": {
+    "name": "Climie Fisher",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+  },
+  "5PYuBRQMHh7nWmdV076sH9": {
+    "name": "Heaven 17",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9"
+  },
+  "4Egyhh5C7MvfJaWXFx1qc4": {
+    "name": "Gene Loves Jezebel",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
+  },
+  "7atGlyFY5574ph1tGMs6gD": {
+    "name": "Glass Candy",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
+  },
+  "0s0rOb0gT2S9N0SDcjtPC4": {
+    "name": "Alison Moyet",
+    "genre": "synthpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
+  },
+  "6juuiuCv8jRHZOcvP2BqKp": {
+    "name": "Lloyd Cole and the Commotions",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp"
+  },
+  "7DOERbtkx9aTLvWzZSB0qx": {
+    "name": "Rigoberta Bandini",
+    "genre": "synthpop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+  },
+  "2YTbBGa3Tf2rRPhiJxWoUN": {
+    "name": "Camouflage",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN"
+  },
+  "039HWymb5EJiSHhtlJctsi": {
+    "name": "Say Yes Dog",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/039HWymb5EJiSHhtlJctsi"
+  },
+  "3kdrMtLybQIl93rXJlvF3w": {
+    "name": "New Young Pony Club",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w"
+  },
+  "36pk438TUUMdX59j1zbvTu": {
+    "name": "John Foxx",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+  },
+  "46h3caIKtqPlEfRHuSdibg": {
+    "name": "The Beloved",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg"
+  },
+  "39x9e2QDpAxK8xTuJDwRqR": {
+    "name": "Junior Boys",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+  },
+  "2tyMOS8xKREgpEwHnLc6EX": {
+    "name": "Front 242",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+  },
+  "6T6T5RCps6bHzTSDq8pyFj": {
+    "name": "Fiction Factory",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj"
+  },
+  "7nBZYpVAH6bD0QlD7Mpil7": {
+    "name": "Marc Almond",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+  },
+  "4gg8SEqY40Y6ygiwkcQOWD": {
+    "name": "Freezepop",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/4gg8SEqY40Y6ygiwkcQOWD"
+  },
+  "7knmbOGe07k85GmK50vACB": {
+    "name": "Indochine",
+    "genre": "synthpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+  },
+  "4SAdMucvHyws4QTeAUsPtE": {
+    "name": "The Mission",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+  },
+  "5uBdYy8QRabKEL1MtDPXfr": {
+    "name": "Karin Park",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+  },
+  "7zt6Af78CalxaPDqORfw8L": {
+    "name": "Annie",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
+  },
+  "0Xn4iSM6rXebCl4Ub50RFN": {
+    "name": "Taken By Trees",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+  },
+  "06tPmk0aHzCFK0T96YzXnN": {
+    "name": "The Blow Monkeys",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/06tPmk0aHzCFK0T96YzXnN"
+  },
+  "59luKpdal8UwxcuLJNoKwS": {
+    "name": "Scritti Politti",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS"
+  },
+  "7ovuEJn78rNJmBBnLqc1NU": {
+    "name": "Linea Aspera",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/7ovuEJn78rNJmBBnLqc1NU"
+  },
+  "0VSi6lAB9txdaW5VEmIx9b": {
+    "name": "Tesla Boy",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/0VSi6lAB9txdaW5VEmIx9b"
+  },
+  "3LtBdgNHdH0Ix8hCFZ4NJG": {
+    "name": "Blancmange",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG"
+  },
+  "4W2dcPOyD7eSfJCPHCfwoA": {
+    "name": "Living In A Box",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/4W2dcPOyD7eSfJCPHCfwoA"
+  },
+  "07h7JMfYWswTq4qpinC5q4": {
+    "name": "Altered Images",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/07h7JMfYWswTq4qpinC5q4"
+  },
+  "28yIUgPYZqgJoNZjeBvrHn": {
+    "name": "Propaganda",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+  },
+  "00iiLCQzrQfdDg27gus6Ny": {
+    "name": "OBK",
+    "genre": "synthpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/00iiLCQzrQfdDg27gus6Ny"
+  },
+  "7EnAgffrVyerTWH628TJ6f": {
+    "name": "Nitzer Ebb",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f"
+  },
+  "4pooXkYjBxl4t18gUeTQxa": {
+    "name": "Next to Neon",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+  },
+  "5oCq1yafGo6ND2PnmhINPL": {
+    "name": "Mujuice",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5oCq1yafGo6ND2PnmhINPL"
+  },
+  "5kviXqIJ7Rv4BGSSsoCRxn": {
+    "name": "Wolfsheim",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5kviXqIJ7Rv4BGSSsoCRxn"
+  },
+  "1c4WjNh9IM9AlX5FO9dIUc": {
+    "name": "Kon Kan",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1c4WjNh9IM9AlX5FO9dIUc"
+  },
+  "64AV09dDdCGBGv11QlGOJN": {
+    "name": "White Ring",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/64AV09dDdCGBGv11QlGOJN"
+  },
+  "71kSWeYFioviuty6e3aj5k": {
+    "name": "Marsheaux",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/71kSWeYFioviuty6e3aj5k"
+  },
+  "4APg0sb0hq18e3wr2pkEsV": {
+    "name": "Fragrance",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/4APg0sb0hq18e3wr2pkEsV"
+  },
+  "56EBe1vvPPsv7Pk5rAaSck": {
+    "name": "Torul",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/56EBe1vvPPsv7Pk5rAaSck"
+  },
+  "6LQeBFIfD4C22RJVVjQ6S7": {
+    "name": "Jimmy Somerville",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7"
+  },
+  "6ahlwhwCBtwhSeDO5vYMh5": {
+    "name": "Flesh For Lulu",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/6ahlwhwCBtwhSeDO5vYMh5"
+  },
+  "2HMuzFmTtwL4ur1zJNCU7f": {
+    "name": "Arcadia",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2HMuzFmTtwL4ur1zJNCU7f"
+  },
+  "1Jp2BVxy67R0OaudOV9lm1": {
+    "name": "The Pirouettes",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1"
+  },
+  "0AEDwJyvLfojF4iKEmJDMT": {
+    "name": "Anything Box",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/0AEDwJyvLfojF4iKEmJDMT"
+  },
+  "1yFJnlNMiBUBplMaOP5CMX": {
+    "name": "Lene Lovich",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+  },
+  "5aDKJuLDczfmHfRSOmHCJk": {
+    "name": "\u00c9tienne Daho",
+    "genre": "synthpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+  },
+  "1Eqmku5RGosz51zTCZFgDi": {
+    "name": "Frankmusik",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi"
+  },
+  "7ooOn6bokl4mGV4CEaUz6A": {
+    "name": "Shakespears Sister",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/7ooOn6bokl4mGV4CEaUz6A"
+  },
+  "2QzxBZb43cSo7ifPXE4UjO": {
+    "name": "Omnimar",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/2QzxBZb43cSo7ifPXE4UjO"
+  },
+  "6PrEzllTg7wGHJpaRWwwn9": {
+    "name": "Yuri Shatunov",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/6PrEzllTg7wGHJpaRWwwn9"
+  },
+  "6KQQ6ka4Thwww3kjYqrG0F": {
+    "name": "Martin Gore",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
+  },
+  "4Rnbihd9aa3KWygk38BAZL": {
+    "name": "Mansfield.TYA",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/4Rnbihd9aa3KWygk38BAZL"
+  },
+  "1Tzu45aHnn0Xz4msfhHRW1": {
+    "name": "Gazebo",
+    "genre": "synthpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+  },
+  "6a4xrf2tjp1zo2osASzWOQ": {
+    "name": "Glass Spells",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ"
+  },
+  "5IRIVOsIjIch3u8UfWdnBd": {
+    "name": "Fad Gadget",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5IRIVOsIjIch3u8UfWdnBd"
+  },
+  "4BDMkaminPIl2lPHZWOmHg": {
+    "name": "superkomfort",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/4BDMkaminPIl2lPHZWOmHg"
+  },
+  "5jqKIZLB5WA5KquEihB3ND": {
+    "name": "Deacon Blue",
+    "genre": "synthpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/5jqKIZLB5WA5KquEihB3ND"
+  },
+  "6ouPbOWchZ9U2ojCpMF9Vv": {
+    "name": "Zanias",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/6ouPbOWchZ9U2ojCpMF9Vv"
+  },
+  "0FDW3axHactZo8HU0OnNVy": {
+    "name": "Pseudo Echo",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/0FDW3axHactZo8HU0OnNVy"
+  },
+  "2kS4yz85MaZlxp2VaS3BEe": {
+    "name": "Cabaret Voltaire",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe"
+  },
+  "3j2UtVAHwuHZywdk4zU0vX": {
+    "name": "Charlotte Fever",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+  },
+  "0HvUV5FFd0Z9zrhPH3Q4Lf": {
+    "name": "Johnny Dynamite and the Bloodsuckers",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/0HvUV5FFd0Z9zrhPH3Q4Lf"
+  },
+  "7CJiKj8TrQSms0WSCKbHm4": {
+    "name": "Fangoria",
+    "genre": "synthpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
+  },
+  "1DsA0Dbq7WvsNkZZlrRZuz": {
+    "name": "Beborn Beton",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/1DsA0Dbq7WvsNkZZlrRZuz"
+  },
+  "2vaRrv3i7PDOXPEue24qe5": {
+    "name": "Hot Butter",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2vaRrv3i7PDOXPEue24qe5"
+  },
+  "2M45qKMZX16QUyOiKyluI0": {
+    "name": "Glasser",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
+  },
+  "7qHvHD5y98by1dMKGHT1kY": {
+    "name": "Ole Ole",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/7qHvHD5y98by1dMKGHT1kY"
+  },
+  "6QQTD1fhcLGGHtMBHi5n3v": {
+    "name": "Amiture",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/6QQTD1fhcLGGHtMBHi5n3v"
+  },
+  "7zUgfhtNGSNLMl2ydFse4S": {
+    "name": "B-Movie",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7zUgfhtNGSNLMl2ydFse4S"
+  },
+  "6smOYrOT8fGSn5lDC86Jjb": {
+    "name": "Fishbach",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+  },
+  "28oFVU5sNejm6p76RkSwtQ": {
+    "name": "Moya Mishel",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/28oFVU5sNejm6p76RkSwtQ"
+  },
+  "6ECT62UWPniLG7KmWdwk37": {
+    "name": "Pompeya",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/6ECT62UWPniLG7KmWdwk37"
+  },
+  "1bN9idF4rgIhaaKFpwgzoQ": {
+    "name": "De/Vision",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/1bN9idF4rgIhaaKFpwgzoQ"
+  },
+  "7r2lG8Ui6vGHAgsKlE8Hd8": {
+    "name": "Pete Shelley",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8"
+  },
+  "0nhhoDCycjsJVHS8sk4vzW": {
+    "name": "Kite",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
+  },
+  "6lONz9iABy1tb7Nl9FAOZG": {
+    "name": "Jo Boxers",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/6lONz9iABy1tb7Nl9FAOZG"
+  },
+  "1Y53ZUhXBydAzILo4Qa0s1": {
+    "name": "Manizha",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1"
+  },
+  "4k7b3DWqBnYpobDWbNWLdM": {
+    "name": "Mel & Kim",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM"
+  },
+  "2OcQ99wRBq4dRj9bwb6KZ2": {
+    "name": "Mirage",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/2OcQ99wRBq4dRj9bwb6KZ2"
+  },
+  "2Agn1HUbcTPcPHwy7WAfHs": {
+    "name": "Tatiana Bulanova",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/2Agn1HUbcTPcPHwy7WAfHs"
+  },
+  "0Guuvi7P0R6ZuX2DeL1m9M": {
+    "name": "Sally Shapiro",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M"
+  },
+  "5dpwxd7bFEvriaDia1qshM": {
+    "name": "Kombinaciya",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/5dpwxd7bFEvriaDia1qshM"
+  },
+  "62Vu8AC36ARldmNIaJ7f7K": {
+    "name": "Mir\u00e8le",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K"
+  },
+  "3JJykf1FPCxClLzswrKxPr": {
+    "name": "Ofelia",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr"
+  },
+  "0kTwzuquhKPxUxJA5ykVYf": {
+    "name": "Cristoforo Donadi",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0kTwzuquhKPxUxJA5ykVYf"
+  },
+  "0PyyoamnJX4tdrSf8r6dij": {
+    "name": "Maud Geffray",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
+  },
+  "30vPx5TJiQI4kRafT2ACMe": {
+    "name": "GOLD ZEBRA",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/30vPx5TJiQI4kRafT2ACMe"
+  },
+  "0EX1yiXXmblRFdw2pb10NF": {
+    "name": "Belouis Some",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF"
+  },
+  "2tGIh9kwbXuko0z3BTldBx": {
+    "name": "Midnight Juggernauts",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx"
+  },
+  "06Rbwc8jaQ1d5fDPZiasE0": {
+    "name": "The Colourfield",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/06Rbwc8jaQ1d5fDPZiasE0"
+  },
+  "0bnwha8WPTU2sf4Q4P6vE0": {
+    "name": "El Perro del Mar",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0"
+  },
+  "6puqyrpoPdFNxDJ8KPy2pE": {
+    "name": "Kate Boy",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/6puqyrpoPdFNxDJ8KPy2pE"
+  },
+  "5De1ZtOD9ZUyckEjIKFXAi": {
+    "name": "Vicious Pink",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/5De1ZtOD9ZUyckEjIKFXAi"
+  },
+  "1SQ7cLxhwePL6Zxqm3ckEj": {
+    "name": "Opale",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/1SQ7cLxhwePL6Zxqm3ckEj"
+  },
+  "5WbkQCaWeVrT7q3zP6BoXC": {
+    "name": "Vadim Kazachenko",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/5WbkQCaWeVrT7q3zP6BoXC"
+  },
+  "30m0NFP0tHVmxcsUCvEN3K": {
+    "name": "The Bolshoi",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/30m0NFP0tHVmxcsUCvEN3K"
+  },
+  "1OpyZDaOsvR1SAYU4RXB5y": {
+    "name": "Psyche",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/1OpyZDaOsvR1SAYU4RXB5y"
+  },
+  "6yVCJmap0wrEq1d7TNAGJc": {
+    "name": "Cause & Effect",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6yVCJmap0wrEq1d7TNAGJc"
+  },
+  "2UVDKoIEfMZTyHY3kevd1h": {
+    "name": "Juveniles",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/2UVDKoIEfMZTyHY3kevd1h"
+  },
+  "0MiJVAtMX8g494r2i1FDwm": {
+    "name": "Eduard Artemyev",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0MiJVAtMX8g494r2i1FDwm"
+  },
+  "3UII1Rngb21tyjalUCW5ua": {
+    "name": "Julian Brandt",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/3UII1Rngb21tyjalUCW5ua"
+  },
+  "0ZGAYur5k4gJprOffC6LkP": {
+    "name": "Curiosity Killed The Cat",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/0ZGAYur5k4gJprOffC6LkP"
+  },
+  "1m3xxj0iHUjur3yQjVvAD2": {
+    "name": "Red Flag",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/1m3xxj0iHUjur3yQjVvAD2"
+  },
+  "2RR3ftPVbWXhmczgCr0kpX": {
+    "name": "Jeanette",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX"
+  },
+  "7uWMG0Go7YMKqVG1fbsOBO": {
+    "name": "Color Theory",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/7uWMG0Go7YMKqVG1fbsOBO"
+  },
+  "7oTWrSAsrqQnBE1LRUBZPE": {
+    "name": "SRSQ",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/7oTWrSAsrqQnBE1LRUBZPE"
+  },
+  "7JUms0YyWoLQ0ICQvrEgjL": {
+    "name": "Zeigeist",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7JUms0YyWoLQ0ICQvrEgjL"
+  },
+  "79ESPaP6zJhRse6DzRqEhI": {
+    "name": "Komissar",
+    "genre": "synthpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/79ESPaP6zJhRse6DzRqEhI"
+  },
+  "79wmO70wUUWPBtrid6ty6m": {
+    "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0414\u0435\u0440\u0436\u0430\u0432\u0438\u043d",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/79wmO70wUUWPBtrid6ty6m"
+  },
+  "7zOVGL0VYcCqXgN1tEMp9d": {
+    "name": "GENTS",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7zOVGL0VYcCqXgN1tEMp9d"
+  },
+  "4JjNlHkcMlgc9QYEetddoo": {
+    "name": "Gina X Performance",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/4JjNlHkcMlgc9QYEetddoo"
+  },
+  "1H58rS29XotmFJWT3KCnl0": {
+    "name": "I Break Horses",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/1H58rS29XotmFJWT3KCnl0"
+  },
+  "2G5cWvHkX9WSrGv6OnmpWD": {
+    "name": "Stephen Duffy",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD"
+  },
+  "5TEGxYftTkeKmLXkZjHNUE": {
+    "name": "Jeanne Added",
+    "genre": "synthpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
+  },
+  "5ON4u1xPXV7o5j6Spn0MKF": {
+    "name": "Kombi",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5ON4u1xPXV7o5j6Spn0MKF"
+  },
+  "6IDifUtaIPK4yuAiq5W2iG": {
+    "name": "Holly Johnson",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/6IDifUtaIPK4yuAiq5W2iG"
+  },
+  "4R90PNicCsCsEoRm8XwiMS": {
+    "name": "The Beat",
+    "genre": "synthpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+  },
+  "7KowgXcyuRXWJdtZyxIraN": {
+    "name": "Marnie",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/7KowgXcyuRXWJdtZyxIraN"
+  },
+  "2tXXoTykabsZNETr1Sr1zC": {
+    "name": "Nite",
+    "genre": "synthpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/2tXXoTykabsZNETr1Sr1zC"
+  },
+  "2DmyIp3IBWUwRukba22G3n": {
+    "name": "Nick Heyward",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/2DmyIp3IBWUwRukba22G3n"
+  },
+  "79SJOUvbcH85tS57TH1f4H": {
+    "name": "Alain Chamfort",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H"
+  },
+  "3DkTIXFWQF2HWnJCKYQ5E2": {
+    "name": "Forum",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
+  },
+  "3ulf7xARUpgwKu0AH38bGR": {
+    "name": "WINGTIPS",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3ulf7xARUpgwKu0AH38bGR"
+  },
+  "0ltdbIcE1UHTClZFxlodQy": {
+    "name": "Freestyle",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0ltdbIcE1UHTClZFxlodQy"
+  },
+  "56z66XGKLpTcREF5iPitMU": {
+    "name": "Elegant Machinery",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/56z66XGKLpTcREF5iPitMU"
+  },
+  "1Oz3BXrh4KXY76iTVGOcnn": {
+    "name": "Nightspace",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/1Oz3BXrh4KXY76iTVGOcnn"
+  },
+  "3bftc5j1AgTLzDrycR3PLb": {
+    "name": "Easter",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/3bftc5j1AgTLzDrycR3PLb"
+  },
+  "6ys6r2ftzNbWUTSlqlkPO2": {
+    "name": "The Golden Filter",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6ys6r2ftzNbWUTSlqlkPO2"
+  },
+  "1QYA7hFYKc0EuhE2MGpjH7": {
+    "name": "KOMPROMAT",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7"
+  },
+  "0Ii29zDQKo0MN9ULmVgJoI": {
+    "name": "Cetu Javu",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0Ii29zDQKo0MN9ULmVgJoI"
+  },
+  "17ARVtNPCv0Eez5cspCgK6": {
+    "name": "Iris",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/17ARVtNPCv0Eez5cspCgK6"
+  },
+  "1Bywk4guQlRCG1HYib9mTF": {
+    "name": "Electro Spectre",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/1Bywk4guQlRCG1HYib9mTF"
+  },
+  "5LfIyLdBqyQ6dubTemDmr9": {
+    "name": "\u0421\u0442\u0435\u0440\u0435\u043e\u043f\u043e\u043b\u0438\u043d\u0430",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5LfIyLdBqyQ6dubTemDmr9"
+  },
+  "2iVoDxX4iDDXYr2WbMucaw": {
+    "name": "New Musik",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2iVoDxX4iDDXYr2WbMucaw"
+  },
+  "1m3jswEIBazYObuVL9NriQ": {
+    "name": "Ou Est Le Swimming Pool",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/1m3jswEIBazYObuVL9NriQ"
+  },
+  "7GsdZ6T45uXudJ8Wsko9sB": {
+    "name": "The Associates",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7GsdZ6T45uXudJ8Wsko9sB"
+  },
+  "03G8K7HrAuuau7UWOdCI0x": {
+    "name": "Tatiana Ovsienko",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/03G8K7HrAuuau7UWOdCI0x"
+  },
+  "0XB14ZHrZsqaWDJeQGLMem": {
+    "name": "Colony 5",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/0XB14ZHrZsqaWDJeQGLMem"
+  },
+  "58RkdwhynLhht1O50fwDeq": {
+    "name": "Ocean Jet",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/58RkdwhynLhht1O50fwDeq"
+  },
+  "6QNJlkUN2AijdGBQvBwFPj": {
+    "name": "Alice In Videoland",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6QNJlkUN2AijdGBQvBwFPj"
+  },
+  "6woDROgS1cDnpELgvpWYET": {
+    "name": "Biomekkanik",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6woDROgS1cDnpELgvpWYET"
+  },
+  "2fCyvnDEdnRubsGvtQFhMX": {
+    "name": "Zynic",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/2fCyvnDEdnRubsGvtQFhMX"
+  },
+  "6y1jbhyM2QbpU3Bm8Z8fbe": {
+    "name": "The Normal",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/6y1jbhyM2QbpU3Bm8Z8fbe"
+  },
+  "1Yc7wyu2VfROa1hdESfHsi": {
+    "name": "Technology",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/1Yc7wyu2VfROa1hdESfHsi"
+  },
+  "1m5PTRE24aukZ7h4y5ebGF": {
+    "name": "Car-Man",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF"
+  },
+  "3usGffJhXe49BipfB6wLdV": {
+    "name": "Panic Priest",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/3usGffJhXe49BipfB6wLdV"
+  },
+  "1j3eSDACLPhrEDYDkHYF9I": {
+    "name": "Catherine Moan",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/1j3eSDACLPhrEDYDkHYF9I"
+  },
+  "3BKoPALWZy1koDm8DzP1NI": {
+    "name": "Sergey Nagovitsyn",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/3BKoPALWZy1koDm8DzP1NI"
+  },
+  "3Kt34aALAZu5GUd3WRqsrZ": {
+    "name": "The Sound of Arrows",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3Kt34aALAZu5GUd3WRqsrZ"
+  },
+  "2OrWQgeChXJq6nggwOzpun": {
+    "name": "The Twins",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/2OrWQgeChXJq6nggwOzpun"
+  },
+  "53zPVFS5lrh8IAwsr7JdL1": {
+    "name": "Salut C'est Cool",
+    "genre": "synthpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/53zPVFS5lrh8IAwsr7JdL1"
+  },
+  "5D4KhPLXN5auMMJ0jy2N1A": {
+    "name": "\u043f\u043e\u0447\u0442\u0438\u0441\u0447\u0430\u0441\u0442\u044c\u0435",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5D4KhPLXN5auMMJ0jy2N1A"
+  },
+  "4gWwmEIuZFUTKMuYpGwgwg": {
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043c\u0435\u0440",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/4gWwmEIuZFUTKMuYpGwgwg"
+  },
+  "3qGGjhkHJrOlJUnilW1Mzk": {
+    "name": "Rok-Ostrova",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/3qGGjhkHJrOlJUnilW1Mzk"
+  },
+  "2ZWJOWwhxpLZR7LfI7VEAM": {
+    "name": "Aleksey Glyzin",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2ZWJOWwhxpLZR7LfI7VEAM"
+  },
+  "77XbDhsUwtxKbMvQpfEfUy": {
+    "name": "\u0425\u0430\u0434\u043d \u0434\u0430\u0434\u043d",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/77XbDhsUwtxKbMvQpfEfUy"
+  },
+  "6PzO2zYVuLxLwhZJfnP1Wj": {
+    "name": "Telex",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj"
+  },
+  "1IjPJum5sJ6iSr3mBsSYJk": {
+    "name": "Client",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/1IjPJum5sJ6iSr3mBsSYJk"
+  },
+  "0sKQUWhiNgW8KBnnM0O7FL": {
+    "name": "Moto Boy",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL"
+  },
+  "0GPJYkHJm0Fpbhjovpm1h1": {
+    "name": "Felicjan Andrzejczak",
+    "genre": "synthpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/0GPJYkHJm0Fpbhjovpm1h1"
+  },
+  "0rRSVWD5GkKni1ZyZYiExL": {
+    "name": "Mikado",
+    "genre": "synthpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/0rRSVWD5GkKni1ZyZYiExL"
+  },
+  "2RTTomV6iq54PkO0g3KLOO": {
+    "name": "Jennifer Touch",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/2RTTomV6iq54PkO0g3KLOO"
+  },
+  "5X5UPn6eVnwfYcujIQpcfu": {
+    "name": "Sole\u00e1 Morente",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu"
+  },
+  "0r2eQrNWcvAi5VnD14r3I3": {
+    "name": "Syrian",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0r2eQrNWcvAi5VnD14r3I3"
+  },
+  "5jsIYrxcANUkZQPfCdfEWe": {
+    "name": "Partenaire Particulier",
+    "genre": "synthpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/5jsIYrxcANUkZQPfCdfEWe"
+  },
+  "2UIaoezmAoyp2i3wWDwMYk": {
+    "name": "Silicon Teens",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2UIaoezmAoyp2i3wWDwMYk"
+  },
+  "0A4d5Ipok46B1g7zbq8Ya8": {
+    "name": "Tommy Mandel",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/0A4d5Ipok46B1g7zbq8Ya8"
+  },
+  "3nLlBEPxn3tYWg4r9snYTI": {
+    "name": "Bone Symphony",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/3nLlBEPxn3tYWg4r9snYTI"
+  },
+  "1FVde0sblgQ8qHuxKjyWiB": {
+    "name": "The Similou",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/1FVde0sblgQ8qHuxKjyWiB"
+  },
+  "16J0rgRnED2DRbRJkYCZXs": {
+    "name": "Fotonovela",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/16J0rgRnED2DRbRJkYCZXs"
+  },
+  "1dtO67uvP5GSIi0jzxL1wR": {
+    "name": "\u0423\u0448\u043a\u043e",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/1dtO67uvP5GSIi0jzxL1wR"
+  },
+  "5vLvTcyMJ6nc7MRWBLv9fX": {
+    "name": "Covered in Snow",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/5vLvTcyMJ6nc7MRWBLv9fX"
+  },
+  "0mrEy4GWIBTK6Th7HPL4fm": {
+    "name": "Plazma",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/0mrEy4GWIBTK6Th7HPL4fm"
+  },
+  "2xalJuKFgZKeN0J6KI2u3N": {
+    "name": "Boytronic",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2xalJuKFgZKeN0J6KI2u3N"
+  },
+  "6HF6oBtBSHvORTuhUnRGas": {
+    "name": "Minerve",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6HF6oBtBSHvORTuhUnRGas"
+  },
+  "40PsC6cWe7ZQdOUTqF5JgD": {
+    "name": "Classix Nouveaux",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/40PsC6cWe7ZQdOUTqF5JgD"
+  },
+  "5B9MfAU2KZlyvsofev6XXR": {
+    "name": "Kissing The Pink",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5B9MfAU2KZlyvsofev6XXR"
+  },
+  "1BwdRE3agFM87VCeaOFPYY": {
+    "name": "Musia Totibadze",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/1BwdRE3agFM87VCeaOFPYY"
+  },
+  "1gTcxM7ZV6CiFtjIF7TGQ2": {
+    "name": "Mental Discipline",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/1gTcxM7ZV6CiFtjIF7TGQ2"
+  },
+  "4jsrFFKHiiLzinqNyIgGuY": {
+    "name": "Sladkiy Son",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/4jsrFFKHiiLzinqNyIgGuY"
+  },
+  "29IK3xMFyz4R6EgE9uRyAm": {
+    "name": "Dekad",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/29IK3xMFyz4R6EgE9uRyAm"
+  },
+  "4GvMQdzQ8f9u7omVfl8WHJ": {
+    "name": "Papa Dance",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4GvMQdzQ8f9u7omVfl8WHJ"
+  },
+  "3CS5AomOBWpyOMm2r53tDI": {
+    "name": "Sea of Sin",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/3CS5AomOBWpyOMm2r53tDI"
+  },
+  "3CyGpunc019xO6V7Skfmry": {
+    "name": "Pegase",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3CyGpunc019xO6V7Skfmry"
+  },
+  "0y2E5yF4bqo96GAEsk0frq": {
+    "name": "\u0423\u0431\u0438\u0439\u0446\u044b Crystal",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0y2E5yF4bqo96GAEsk0frq"
+  },
+  "4REC2jyoYlvd6C3gLTTilU": {
+    "name": "St. Digue",
+    "genre": "synthpop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/4REC2jyoYlvd6C3gLTTilU"
+  },
+  "4IQ782VL9bK0q2Judy9mIF": {
+    "name": "Chateau Marmont",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/4IQ782VL9bK0q2Judy9mIF"
+  },
+  "7ELjk8iRPbhLku2XB6t6kS": {
+    "name": "Melody Club",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
+  },
+  "0j6w8JsaZsx5Vs3qECKnAx": {
+    "name": "Felix Marc",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/0j6w8JsaZsx5Vs3qECKnAx"
+  },
+  "2ngjeXbS8ZRznZH0EF18Q5": {
+    "name": "Kay Metov",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2ngjeXbS8ZRznZH0EF18Q5"
+  },
+  "6vIPbNGbwdrg7LSpz4V2QX": {
+    "name": "Urszula",
+    "genre": "synthpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
+  },
+  "35evikNPeHg0dD7x69l1u0": {
+    "name": "Code 64",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/35evikNPeHg0dD7x69l1u0"
+  },
+  "3hyFh3a07azAfvMgbZLl6p": {
+    "name": "Les clopes",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/3hyFh3a07azAfvMgbZLl6p"
+  },
+  "6IJwQddRIBzR7fzhav2yUI": {
+    "name": "R\u00e9gina Demina",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/6IJwQddRIBzR7fzhav2yUI"
+  },
+  "6FSre46Msh6Ra6F3A1Y0Jy": {
+    "name": "\u0420\u0443\u0441\u044f",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6FSre46Msh6Ra6F3A1Y0Jy"
+  },
+  "1048abrwjsuNC1QWEnAOSl": {
+    "name": "Parralox",
+    "genre": "synthpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/1048abrwjsuNC1QWEnAOSl"
+  },
+  "2GUPq2sUqFNcvAoFxBsUDR": {
+    "name": "Chew Lips",
+    "genre": "synthpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/2GUPq2sUqFNcvAoFxBsUDR"
+  },
+  "135UnVjvSQVYps8S7iYKPH": {
+    "name": "Echo Image",
+    "genre": "synthpop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/135UnVjvSQVYps8S7iYKPH"
+  },
+  "2fZi9haAj5vDtFy4J4bioD": {
+    "name": "Thermostatic",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/2fZi9haAj5vDtFy4J4bioD"
+  },
+  "6PSVgOovw9aDkBgh2zcyKl": {
+    "name": "Estatuas De Sol",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/6PSVgOovw9aDkBgh2zcyKl"
+  },
+  "3d4s7eLnN9yIBc9W96WwvB": {
+    "name": "16 Bit",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3d4s7eLnN9yIBc9W96WwvB"
+  },
+  "1qHH0kJrUPogAIBlPPnPLa": {
+    "name": "Hue and Cry",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/1qHH0kJrUPogAIBlPPnPLa"
+  },
+  "43QchWzol8d0uyKcpTZj0y": {
+    "name": "Xenia Beliayeva",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/43QchWzol8d0uyKcpTZj0y"
+  },
+  "049vvIfUqBzCXBMBtI8um4": {
+    "name": "Elektroklub",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/049vvIfUqBzCXBMBtI8um4"
+  },
+  "5ovuuljGOuPGQmIwJI2q0T": {
+    "name": "Aviador Dro",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/5ovuuljGOuPGQmIwJI2q0T"
+  },
+  "1wYlTi2vr68Ti8TFlKRSfk": {
+    "name": "Milliken Chamber",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/1wYlTi2vr68Ti8TFlKRSfk"
+  },
+  "4ps52NgTUPV9accMr5TMBw": {
+    "name": "The Tough Alliance",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/4ps52NgTUPV9accMr5TMBw"
+  },
+  "1cxwVW3CiUuZFar8IIPFrh": {
+    "name": "Technomancer",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/1cxwVW3CiUuZFar8IIPFrh"
+  },
+  "0Ylo19ka3IHeArSwlL3D8m": {
+    "name": "Jacno",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m"
+  },
+  "17xleTMStusKOyQrNuK3sQ": {
+    "name": "Toyah",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ"
+  },
+  "4IYkhuY2RwtKdIU2691J1D": {
+    "name": "Celebrate The Nun",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/4IYkhuY2RwtKdIU2691J1D"
+  },
+  "3byKJeOmgCT97RKmJT1htH": {
+    "name": "The Rain Within",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/3byKJeOmgCT97RKmJT1htH"
+  },
+  "1JwhzFROpPDbDbstMTY7cF": {
+    "name": "Ladilla Rusa",
+    "genre": "synthpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
+  },
+  "6dR4Eblj8ydr73kHfaaehM": {
+    "name": "Sapho",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/6dR4Eblj8ydr73kHfaaehM"
+  },
+  "1pTD3KLJ4RRXTsvbHfPqRj": {
+    "name": "Pati Yang",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/1pTD3KLJ4RRXTsvbHfPqRj"
+  },
+  "23sMQdRzLsURKCSyA7Snam": {
+    "name": "Kill Bill G",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/23sMQdRzLsURKCSyA7Snam"
+  },
+  "6viLLEXE8t1R5wBFpCuDu2": {
+    "name": "Figures On A Beach",
+    "genre": "synthpop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/6viLLEXE8t1R5wBFpCuDu2"
+  },
+  "67CGZPeTGUi7xRC5DHFc5P": {
+    "name": "Hard Corps",
+    "genre": "synthpop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/67CGZPeTGUi7xRC5DHFc5P"
+  },
+  "0IR8xlqcSRQShBhCebrdiv": {
+    "name": "Houses of Heaven",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/0IR8xlqcSRQShBhCebrdiv"
+  },
+  "2ZhtjVhvHyJ97zm7BnpY3k": {
+    "name": "Franek Kimono",
+    "genre": "synthpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/2ZhtjVhvHyJ97zm7BnpY3k"
+  },
+  "5MuxhSyL8BYuuWHeKmWSEx": {
+    "name": "Isabelle Adjani",
+    "genre": "synthpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/5MuxhSyL8BYuuWHeKmWSEx"
+  },
+  "0PZbP5Pe0EXCpAbCqQLEv7": {
+    "name": "Roma Zhukov",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/0PZbP5Pe0EXCpAbCqQLEv7"
+  },
+  "5YLwLaB0DHcSeaB6fPP5M8": {
+    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u043e\u0431\u0440\u044b\u043d\u0438\u043d",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/5YLwLaB0DHcSeaB6fPP5M8"
+  },
+  "37Iic1l5ZaBzXqcbQUoXtW": {
+    "name": "The Echoing Green",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/37Iic1l5ZaBzXqcbQUoXtW"
+  },
+  "336h2dtQrcQycozDnwH9GC": {
+    "name": "Kamp!",
+    "genre": "synthpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/336h2dtQrcQycozDnwH9GC"
+  },
+  "56RZYoZM05z29KIlNlAAQX": {
+    "name": "The Lotus Eaters",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/56RZYoZM05z29KIlNlAAQX"
+  },
+  "5QYBoZAoupoPPuFB1KHfx0": {
+    "name": "Little Jinder",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
+  },
+  "7Dwkme6QjRdS4dF4eNNJ5Y": {
+    "name": "Hazel O'Connor",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y"
+  },
+  "5cPYngDFgZ8cOapCBCrs14": {
+    "name": "The Christians",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/5cPYngDFgZ8cOapCBCrs14"
+  },
+  "5MYAn0u2g4d3lRVLyrCC5J": {
+    "name": "This Eternal Decay",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/5MYAn0u2g4d3lRVLyrCC5J"
+  },
+  "4ztbfel6DJq0lL4wmTJN9Y": {
+    "name": "Taxi Girl",
+    "genre": "synthpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/4ztbfel6DJq0lL4wmTJN9Y"
+  },
+  "5Pnb9eXuGqSHlUsneXSdco": {
+    "name": "Anna Jurksztowicz",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/5Pnb9eXuGqSHlUsneXSdco"
+  },
+  "7iEbbArmMhTBPk0YA3oI6b": {
+    "name": "Ghost Cop",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7iEbbArmMhTBPk0YA3oI6b"
+  },
+  "1cVl30A0SREfBU7H7nzmDo": {
+    "name": "Big Ben Tribe",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/1cVl30A0SREfBU7H7nzmDo"
+  },
+  "6gNJmvDhoKa14iEnpt0LtA": {
+    "name": "Carlo Onda",
+    "genre": "synthpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/6gNJmvDhoKa14iEnpt0LtA"
+  },
+  "5Ee6ARQgS0Aa6sTOdrfDuD": {
+    "name": "\u041a\u0423\u0417\u0418\u041d\u0410",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/5Ee6ARQgS0Aa6sTOdrfDuD"
+  },
+  "6K81sfkcLysvYdOjJeflId": {
+    "name": "Fictional",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/6K81sfkcLysvYdOjJeflId"
+  },
+  "6r5DjBbGprhFYiEGTWunHU": {
+    "name": "\u0423\u0431\u0438\u0439\u0446\u044b",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/6r5DjBbGprhFYiEGTWunHU"
+  },
+  "6BBGeGqd7UGLYGUT3jryZZ": {
+    "name": "BlakLight",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6BBGeGqd7UGLYGUT3jryZZ"
+  },
+  "4ky35fBYrjbVpZUgnTcJl8": {
+    "name": "Blume",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/4ky35fBYrjbVpZUgnTcJl8"
+  },
+  "4CwB3q2FWy0SqxMfCSRrJP": {
+    "name": "_juno",
+    "genre": "synthpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+  },
+  "2N7clllhfxnY06STkNwwzd": {
+    "name": "Halina Frackowiak",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2N7clllhfxnY06STkNwwzd"
+  },
+  "1LTi4SuPK0G9juYKxU6AAG": {
+    "name": "Chagrin D'amour",
+    "genre": "synthpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1LTi4SuPK0G9juYKxU6AAG"
+  },
+  "1fFE7m4IQRSnZPpyDSMUp8": {
+    "name": "Then Jerico",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/1fFE7m4IQRSnZPpyDSMUp8"
+  },
+  "1od8B42klc1J4JrIXqzdfB": {
+    "name": "Zodiaks",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/1od8B42klc1J4JrIXqzdfB"
+  },
+  "1FtVMxvR4T0tKA50BmfPQS": {
+    "name": "Naadia",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/1FtVMxvR4T0tKA50BmfPQS"
+  },
+  "3WvUXfAhZSBw2ELfRGhnnP": {
+    "name": "Emmon",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/3WvUXfAhZSBw2ELfRGhnnP"
+  },
+  "2kofXlKOUBVKojjjvEylMe": {
+    "name": "La F\u00e9line",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/2kofXlKOUBVKojjjvEylMe"
+  },
+  "5POkjbRYBWVsN4lDMFGFfM": {
+    "name": "Dead Lights",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/5POkjbRYBWVsN4lDMFGFfM"
+  },
+  "1cWJ8DzPqAGsm97ICZYJLc": {
+    "name": "Mondial Toboggan",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/1cWJ8DzPqAGsm97ICZYJLc"
+  },
+  "5mRRBVuAcuXIpJkqQ6KEOr": {
+    "name": "Majka Je\u017cowska",
+    "genre": "synthpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/5mRRBVuAcuXIpJkqQ6KEOr"
+  },
+  "2XdqP4VR7QbULDR6T53mcw": {
+    "name": "Vacuum",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/2XdqP4VR7QbULDR6T53mcw"
+  },
+  "7GX2gCRXdMjTZCVmt3yr9Q": {
+    "name": "MISTRAL.",
+    "genre": "synthpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/7GX2gCRXdMjTZCVmt3yr9Q"
+  },
+  "0ZOBBURfIZoVEPoIUG6KFe": {
+    "name": "Some Ember",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/0ZOBBURfIZoVEPoIUG6KFe"
+  },
+  "5X6jhpO2DI6gykgt60wbDF": {
+    "name": "Sun's Spectrum",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/5X6jhpO2DI6gykgt60wbDF"
+  },
+  "7bVMGgM5YC8hlw6BYulg8b": {
+    "name": "Neuropa",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/7bVMGgM5YC8hlw6BYulg8b"
+  },
+  "2MFdUyGa1eKDvMT6wCOlhT": {
+    "name": "Marek Bilinski",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/2MFdUyGa1eKDvMT6wCOlhT"
+  },
+  "3KN97dTu2joXqZOrDCmRVp": {
+    "name": "Vogon Poetry",
+    "genre": "synthpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/3KN97dTu2joXqZOrDCmRVp"
+  },
+  "1WXoWDSEUPhNB7SYILjntB": {
+    "name": "Profit Prison",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/1WXoWDSEUPhNB7SYILjntB"
+  },
+  "063D0MKbIbbBjKgtYRGBga": {
+    "name": "Baasch",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+  },
+  "6iuR3ztaEhIASPaKGK3cbo": {
+    "name": "Cloetta Paris",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6iuR3ztaEhIASPaKGK3cbo"
+  },
+  "7ntlRmHlTFId8K07kOsxTY": {
+    "name": "Xxanaxx",
+    "genre": "synthpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/7ntlRmHlTFId8K07kOsxTY"
+  },
+  "2i1bsNQ67uC1t792EZkOo2": {
+    "name": "Marie M\u00f6\u00f6r",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2i1bsNQ67uC1t792EZkOo2"
+  },
+  "1vEt4NXN7Vs9nmYLA7HwyU": {
+    "name": "Kalte Nacht",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/1vEt4NXN7Vs9nmYLA7HwyU"
+  },
+  "4NJgceXSpz4dpCNEBOhzHc": {
+    "name": "Algora",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/4NJgceXSpz4dpCNEBOhzHc"
+  },
+  "30fLO9Dkwb18LCla13Mhuu": {
+    "name": "Henric de la Cour",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/30fLO9Dkwb18LCla13Mhuu"
+  },
+  "4srsajCqa1GEH8yxeIUUo5": {
+    "name": "Cult Of Alia",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4srsajCqa1GEH8yxeIUUo5"
+  },
+  "397thZD98rAlhyqIQJvBjx": {
+    "name": "Los Ganglios",
+    "genre": "synthpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
+  },
+  "2QhDTuCHMlTTezJBZXMGzQ": {
+    "name": "Ringfinger",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/2QhDTuCHMlTTezJBZXMGzQ"
+  },
+  "4PdAgotNlmedI9dJTdWqjA": {
+    "name": "Unity One",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/4PdAgotNlmedI9dJTdWqjA"
+  },
+  "32ovJ67AxXydzmuYbuflOp": {
+    "name": "!Distain",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/32ovJ67AxXydzmuYbuflOp"
+  },
+  "6NbjqapY9YWNG1dcW7ea6R": {
+    "name": "Mondtr\u00e4ume",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/6NbjqapY9YWNG1dcW7ea6R"
+  },
+  "3raNx2mon0PKa8G9zW8mUh": {
+    "name": "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3raNx2mon0PKa8G9zW8mUh"
+  },
+  "3GLAEAmt9FYRZWv8HUYha0": {
+    "name": "La D\u00fcsseldorf",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+  },
+  "6HJpgkOnurRg0TOzIJIsGG": {
+    "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432",
+    "genre": "synthpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/6HJpgkOnurRg0TOzIJIsGG"
+  },
+  "7tow1qmsaOsDqbn7xVQ2A2": {
+    "name": "Synths Versus Me",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7tow1qmsaOsDqbn7xVQ2A2"
+  },
+  "3lfdlzSM4wkcFEwvXyzthk": {
+    "name": "Paul Haig",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3lfdlzSM4wkcFEwvXyzthk"
+  },
+  "1gp5EMu5dY6xTwvJin8mND": {
+    "name": "Rational Youth",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/1gp5EMu5dY6xTwvJin8mND"
+  },
+  "403x0fTWTfDHsV9PYkGFTe": {
+    "name": "Moderne",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/403x0fTWTfDHsV9PYkGFTe"
+  },
+  "55LH7awpWfXkAP6jRQ16IU": {
+    "name": "Universal Poplab",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/55LH7awpWfXkAP6jRQ16IU"
+  },
+  "3g1s283PgjYTrRbtSkFCyG": {
+    "name": "Casino Music",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3g1s283PgjYTrRbtSkFCyG"
+  },
+  "0DSEDhUNnnQchKXKVJ9ScB": {
+    "name": "Cath Carroll",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0DSEDhUNnnQchKXKVJ9ScB"
+  },
+  "3SZrTMcVtCUyiuX3svX0rV": {
+    "name": "The Assembly",
+    "genre": "synthpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/3SZrTMcVtCUyiuX3svX0rV"
+  },
+  "7Fs2X1eAy1G0cMLTzC15pl": {
+    "name": "Our Daughter's Wedding",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/7Fs2X1eAy1G0cMLTzC15pl"
+  },
+  "7gIO0bjRsmNkhuILZAR90k": {
+    "name": "B! Machine",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7gIO0bjRsmNkhuILZAR90k"
+  },
+  "7tGDKN51cYRQHXkckgMWuY": {
+    "name": "Cold Connection",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/7tGDKN51cYRQHXkckgMWuY"
+  },
+  "2jkEEDisTNyfxfkLbez8N0": {
+    "name": "Metroland",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/2jkEEDisTNyfxfkLbez8N0"
+  },
+  "02LrsTMdnHVvKmXxN0epQF": {
+    "name": "Andrzej Korzy\u0144ski",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/02LrsTMdnHVvKmXxN0epQF"
+  },
+  "4NNLkPx08DDuakkxm5E2Br": {
+    "name": "\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4NNLkPx08DDuakkxm5E2Br"
+  },
+  "6r6d3k1aU759E0NP2k3NpG": {
+    "name": "Marble Slave",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/6r6d3k1aU759E0NP2k3NpG"
+  },
+  "401RKKAmr5xOK3FpoXud68": {
+    "name": "Viceversa",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/401RKKAmr5xOK3FpoXud68"
+  },
+  "2mMla6Lcmc5NNUVXWPmWRo": {
+    "name": "Monterrosa",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2mMla6Lcmc5NNUVXWPmWRo"
+  },
+  "1qnUlfRT7PBIfKQvK9Dc1b": {
+    "name": "Los Microwaves",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1qnUlfRT7PBIfKQvK9Dc1b"
+  },
+  "4NQHb10YZUS60O8l9bX7jx": {
+    "name": "Deep Down Wise",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/4NQHb10YZUS60O8l9bX7jx"
+  },
+  "6sNZNThSCAtpTfHD3CyKJ6": {
+    "name": "Ley DJ",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/6sNZNThSCAtpTfHD3CyKJ6"
+  },
+  "5aZ9TEDXjPPvhWPqVGpp1q": {
+    "name": "Alien Delon",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/5aZ9TEDXjPPvhWPqVGpp1q"
+  },
+  "5I9vxeuXG4P9gJkTgI68s7": {
+    "name": "Vicky Larraz",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/5I9vxeuXG4P9gJkTgI68s7"
+  },
+  "25Q58szbh5Crvgi3ckjg3n": {
+    "name": "Liquid Divine",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/25Q58szbh5Crvgi3ckjg3n"
+  },
+  "2sDfbgbPqK8cnEDV5bCyby": {
+    "name": "S.P.O.C.K",
+    "genre": "synthpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/2sDfbgbPqK8cnEDV5bCyby"
+  },
+  "0I4qCIswU603QYlpRXMmpf": {
+    "name": "People Theatre",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/0I4qCIswU603QYlpRXMmpf"
+  },
+  "4TDLFnTINY3fKOX6Bozfzd": {
+    "name": "Daniel Bloom",
+    "genre": "synthpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/4TDLFnTINY3fKOX6Bozfzd"
+  },
+  "0T0rADxhl1CLxhSS3t4FJr": {
+    "name": "Oxford Drama",
+    "genre": "synthpop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
+  },
+  "5oQRVTJZ7PwxOLUzoZKLic": {
+    "name": "Pauline Murray",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/5oQRVTJZ7PwxOLUzoZKLic"
+  },
+  "6BN5KY9yip8QyDwTNh9Dww": {
+    "name": "Wiegand",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/6BN5KY9yip8QyDwTNh9Dww"
+  },
+  "2Fe5Hr8nVwtu1lG5Z7Tbz6": {
+    "name": "Landscape",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2Fe5Hr8nVwtu1lG5Z7Tbz6"
+  },
+  "4tByXk2UfhG9Z5O2hjhXj9": {
+    "name": "Deaf Dance",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/4tByXk2UfhG9Z5O2hjhXj9"
+  },
+  "0QTWspHbvPnCTRwtKELJWC": {
+    "name": "Piston Damp",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0QTWspHbvPnCTRwtKELJWC"
+  },
+  "3cBfgXi4h5RCU8t70kmYXn": {
+    "name": "Mortal Boy",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/3cBfgXi4h5RCU8t70kmYXn"
+  },
+  "0kksH1DrFBzgomfEyAMhyW": {
+    "name": "Nos Miran",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/0kksH1DrFBzgomfEyAMhyW"
+  },
+  "2q8FLnV4G28JDv7OgIO062": {
+    "name": "N\u00f3rdika",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2q8FLnV4G28JDv7OgIO062"
+  },
+  "6d88kdF9N4XWda5sc2yzul": {
+    "name": "Objetivo Birmania",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6d88kdF9N4XWda5sc2yzul"
+  },
+  "2COh4pNzrR9PzGII1tpZoB": {
+    "name": "Midnight Resistance",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/2COh4pNzrR9PzGII1tpZoB"
+  },
+  "3vswomgck89zGqz4kKD8c0": {
+    "name": "X Ray Pop",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/3vswomgck89zGqz4kKD8c0"
+  },
+  "2SLSx5dDC74YTL45mzFJOx": {
+    "name": "Elli & Jacno",
+    "genre": "synthpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/2SLSx5dDC74YTL45mzFJOx"
+  },
+  "3N6luldUvDYLWysSjkCqAN": {
+    "name": "Spektralized",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/3N6luldUvDYLWysSjkCqAN"
+  },
+  "1c3PuwPODldCDIQIuybGHM": {
+    "name": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439 \u043f\u0440\u0438\u043d\u0446",
+    "genre": "synthpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/1c3PuwPODldCDIQIuybGHM"
+  },
+  "6INCGubplcHxkyniHIeJa9": {
+    "name": "Substaat",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/6INCGubplcHxkyniHIeJa9"
+  },
+  "7BMvFBb5L2IcRIRmCCaApn": {
+    "name": "Beyond Border",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/7BMvFBb5L2IcRIRmCCaApn"
+  },
+  "1VQB0XIrSpZj3xR4HQ3yvO": {
+    "name": "Endanger",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/1VQB0XIrSpZj3xR4HQ3yvO"
+  },
+  "4bzs3jM8CJ3m2xfJfemIr6": {
+    "name": "2plus1",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/4bzs3jM8CJ3m2xfJfemIr6"
+  },
+  "37eldcqz0KVutjJGQuoeNo": {
+    "name": "Les avions",
+    "genre": "synthpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/37eldcqz0KVutjJGQuoeNo"
+  },
+  "7KgU3AwBAg5kFaiJpVWVKM": {
+    "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u0438\u043d\u0430\u0435\u0432",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/7KgU3AwBAg5kFaiJpVWVKM"
+  },
+  "5YAyfkBbhMZEMUTAGGvEOT": {
+    "name": "Paul Rein",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/5YAyfkBbhMZEMUTAGGvEOT"
+  },
+  "6i1hHzVl3ZQbdrGuQEmC2S": {
+    "name": "Dupont",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6i1hHzVl3ZQbdrGuQEmC2S"
+  },
+  "6ct0lRj3lcmguLMuAZehoX": {
+    "name": "Omma",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/6ct0lRj3lcmguLMuAZehoX"
+  },
+  "0fiNNq0GEu0tatdHdjpFXy": {
+    "name": "Niemoc",
+    "genre": "synthpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/0fiNNq0GEu0tatdHdjpFXy"
+  },
+  "1IbsT0fpEvCphytEa6HTum": {
+    "name": "Math\u00e9matiques Modernes",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/1IbsT0fpEvCphytEa6HTum"
+  },
+  "5ZFnsgx7UU5prM2HOUzZRQ": {
+    "name": "Aiboforcen",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/5ZFnsgx7UU5prM2HOUzZRQ"
+  },
+  "28li5ILN3Mm2bOHWz0rauW": {
+    "name": "Vaylon",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/28li5ILN3Mm2bOHWz0rauW"
+  },
+  "2T5UkQVK6SUKoBvDJ0LMN9": {
+    "name": "Le Villejuif Underground",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2T5UkQVK6SUKoBvDJ0LMN9"
+  },
+  "5U8xCwpaqQPnLaPnwGM52N": {
+    "name": "Ostrich",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5U8xCwpaqQPnLaPnwGM52N"
+  },
+  "0ZMb3QST2Q7wAndzeUzkCv": {
+    "name": "Fantazja",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0ZMb3QST2Q7wAndzeUzkCv"
+  },
+  "7psxwSoSVcvZWORERTAaM0": {
+    "name": "Quelles Paroles",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7psxwSoSVcvZWORERTAaM0"
+  },
+  "5WeVG0kOl3WkoI4xrkYFah": {
+    "name": "Virtual Server",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5WeVG0kOl3WkoI4xrkYFah"
+  },
+  "088o19Zn5MkTAV10nOZuy3": {
+    "name": "Children Within",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/088o19Zn5MkTAV10nOZuy3"
+  },
+  "5pCZ1cV58o94wCdu4D2D31": {
+    "name": "Univaque",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/5pCZ1cV58o94wCdu4D2D31"
+  },
+  "1LdEabyisOWAqfSPCbPaAQ": {
+    "name": "Tycho Brahe",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1LdEabyisOWAqfSPCbPaAQ"
+  },
+  "6ULzZGLiu3Uu9nh5XvhTKN": {
+    "name": "Raindancer",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/6ULzZGLiu3Uu9nh5XvhTKN"
+  },
+  "7b0jsKNIRJ8xgpwyIrhFl0": {
+    "name": "Sadman",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7b0jsKNIRJ8xgpwyIrhFl0"
+  },
+  "1W4RYXlGQQNxMPgP8fWxqF": {
+    "name": "Kiethevez",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1W4RYXlGQQNxMPgP8fWxqF"
+  },
+  "2CfI4hoLZbxGgMcOYjnnwt": {
+    "name": "Chinese Theatre",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2CfI4hoLZbxGgMcOYjnnwt"
+  },
+  "33O4FXGYkhFkQq9G4FSPk1": {
+    "name": "A Blue Ocean Dream",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/33O4FXGYkhFkQq9G4FSPk1"
+  },
+  "1YXJQqqOzxbfAmx0HE7fVY": {
+    "name": "Moulin Noir",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/1YXJQqqOzxbfAmx0HE7fVY"
+  },
+  "2DN8W39IczbgysUzCnL3hb": {
+    "name": "Mr Jones Machine",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2DN8W39IczbgysUzCnL3hb"
+  },
+  "7mDcQbeY9H6XxIOGUi5OtM": {
+    "name": "Celluloide",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/7mDcQbeY9H6XxIOGUi5OtM"
+  },
+  "7fk3y4smwktbTiP4imKDpt": {
+    "name": "Daybehavior",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7fk3y4smwktbTiP4imKDpt"
+  },
+  "3vXJ1DDG4vBW8hYdHEaf9v": {
+    "name": "Northern Electric",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3vXJ1DDG4vBW8hYdHEaf9v"
+  },
+  "5HmIqpnrdXFVUa1yBLg54e": {
+    "name": "Machine Made Pleasure",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5HmIqpnrdXFVUa1yBLg54e"
+  },
+  "3EOhcMfh7aMn08ZmD8OmUB": {
+    "name": "F.P.",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3EOhcMfh7aMn08ZmD8OmUB"
+  },
+  "3MMm0bv5JY33R329H3xplV": {
+    "name": "Royal Visionaries",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3MMm0bv5JY33R329H3xplV"
+  },
+  "0sEMCo5APgoxH5d7Lp8dK2": {
+    "name": "No Decay",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0sEMCo5APgoxH5d7Lp8dK2"
+  },
+  "0UZXj0hvBmBsE4AIe0GsFe": {
+    "name": "Neutral Lies",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0UZXj0hvBmBsE4AIe0GsFe"
+  },
+  "3AYPQ4bzYG7Qh08kzIVUQL": {
+    "name": "Christopher Anton",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3AYPQ4bzYG7Qh08kzIVUQL"
+  },
+  "4ymreo8AcwJz0Kk7jIJsiv": {
+    "name": "New Modern Angels",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4ymreo8AcwJz0Kk7jIJsiv"
+  },
+  "6eQMuTtJQAzosj3YX6uhBZ": {
+    "name": "Want/Ed",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6eQMuTtJQAzosj3YX6uhBZ"
+  },
+  "6W73ZDCPNBJtcNhrkZ6h5M": {
+    "name": "BlueForge",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6W73ZDCPNBJtcNhrkZ6h5M"
+  },
+  "2oFpKn4dU93984sKQTgfAa": {
+    "name": "Rupesh Cartel",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/2oFpKn4dU93984sKQTgfAa"
+  },
+  "6D5cbGRA9990Vd3XfM7Rfa": {
+    "name": "Sista Mannen P\u00e5 Jorden",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/6D5cbGRA9990Vd3XfM7Rfa"
+  },
+  "0w2PPmqCai0Om6yJXT6jBL": {
+    "name": "Silica Gel",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/0w2PPmqCai0Om6yJXT6jBL"
+  },
+  "3eia59jd3ARWNPiC8vT8IE": {
+    "name": "The Mobile Homes",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/3eia59jd3ARWNPiC8vT8IE"
+  },
+  "43pUCMY9rbXAaW5pAdIdPI": {
+    "name": "Moonlight Cove",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/43pUCMY9rbXAaW5pAdIdPI"
+  },
+  "4MH1RChC40PzV5sDO7NW5X": {
+    "name": "Vision Talk",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4MH1RChC40PzV5sDO7NW5X"
+  },
+  "4WDNNDeqHv5AoZ7j0RXAyE": {
+    "name": "Sharon Next",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/4WDNNDeqHv5AoZ7j0RXAyE"
+  },
+  "5CXJjtJyM27JXUYcTR0HCP": {
+    "name": "Vainerz",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5CXJjtJyM27JXUYcTR0HCP"
+  },
+  "2zLeELE7WsPts8K8Cd8slu": {
+    "name": "Zoon Politicon",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2zLeELE7WsPts8K8Cd8slu"
+  },
+  "2WraSgUQZq1Bv1cmtzG1jW": {
+    "name": "X-Divide",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2WraSgUQZq1Bv1cmtzG1jW"
+  },
+  "0DE7XX0aL4jLI66jT8xgI0": {
+    "name": "Mind Machine",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/0DE7XX0aL4jLI66jT8xgI0"
+  },
+  "6SMrVjW6xh8lssRHiKwGuC": {
+    "name": "Condition One",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/6SMrVjW6xh8lssRHiKwGuC"
+  },
+  "5PQdtbRVhbEW4xnnkS1jFa": {
+    "name": "Avoid-A-Void",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5PQdtbRVhbEW4xnnkS1jFa"
+  },
+  "5jfX2ZAoQiLcqVuBw5c7ko": {
+    "name": "Supercraft",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/5jfX2ZAoQiLcqVuBw5c7ko"
+  },
+  "51VauQMnehpG9uJXmb1lgt": {
+    "name": "Obscenity Trial",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/51VauQMnehpG9uJXmb1lgt"
+  },
+  "7toyLoa4JJppSZmhGYnvbD": {
+    "name": "Moon.74",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7toyLoa4JJppSZmhGYnvbD"
+  },
+  "3VnI3ZVN6qMVv7shxrUGJw": {
+    "name": "Telekon",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3VnI3ZVN6qMVv7shxrUGJw"
+  },
+  "4LXO7kHg92KmAFcr5YUAWp": {
+    "name": "Erotic Elk",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/4LXO7kHg92KmAFcr5YUAWp"
+  },
+  "2LwESm9aqMGOF3vUTWEWlA": {
+    "name": "Dalek I Love You",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/2LwESm9aqMGOF3vUTWEWlA"
+  },
+  "7ww8fNMzr8oGWW2zqV88Zw": {
+    "name": "The Fallout Club",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7ww8fNMzr8oGWW2zqV88Zw"
+  },
+  "1So50uXl02mRNbyBdBwylx": {
+    "name": "Winston Tong",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1So50uXl02mRNbyBdBwylx"
+  },
+  "0QJrZLDutksKmzhvvB0VQr": {
+    "name": "Final Selection",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/0QJrZLDutksKmzhvvB0VQr"
+  },
+  "4o5JfVDOlw3TWmkQ4EpVdJ": {
+    "name": "Endless Shame",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4o5JfVDOlw3TWmkQ4EpVdJ"
+  },
+  "3hbx7uoevWDjQogZUlQHaB": {
+    "name": "Ella Ella",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3hbx7uoevWDjQogZUlQHaB"
+  },
+  "0M9E5RT1BZ3RqpRL4QDZH1": {
+    "name": "Aldo Linares",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0M9E5RT1BZ3RqpRL4QDZH1"
+  },
+  "2Esc3gaU2dm1HK61ph0D3C": {
+    "name": "Breton Armada",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2Esc3gaU2dm1HK61ph0D3C"
+  },
+  "0MNzx5WPlAEs02pY7J0en6": {
+    "name": "Conchita Pelayo",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0MNzx5WPlAEs02pY7J0en6"
+  },
+  "1JOyIp09p2x12pF0gLh5kM": {
+    "name": "Stardu",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1JOyIp09p2x12pF0gLh5kM"
+  },
+  "292NansZnAhQsUWMBXic32": {
+    "name": "The Raros",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/292NansZnAhQsUWMBXic32"
+  },
+  "6GDvFB9HZGYFSD7l9OI2a2": {
+    "name": "Toy Gun Preachment",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6GDvFB9HZGYFSD7l9OI2a2"
+  },
+  "6I9k0uglnr3XwLItEZp0I4": {
+    "name": "Destino Plut\u00f3n",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6I9k0uglnr3XwLItEZp0I4"
+  },
+  "6uLuW5ZVwVHrgumPBfYxKT": {
+    "name": "Puntapi\u00e9",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6uLuW5ZVwVHrgumPBfYxKT"
+  },
+  "57eQnHzQ75Z4SoTYIfETw1": {
+    "name": "Postura 69",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/57eQnHzQ75Z4SoTYIfETw1"
+  },
+  "6LMYNIrNNqdI6f0SeYznGl": {
+    "name": "Fox Hunting",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6LMYNIrNNqdI6f0SeYznGl"
+  },
+  "2pF3U7evP0F4XiW62psVfi": {
+    "name": "Me Dais Poca",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2pF3U7evP0F4XiW62psVfi"
+  },
+  "4Yh7Zqq8RCTp67cgzr1Hqk": {
+    "name": "Eddie and Sunshine",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4Yh7Zqq8RCTp67cgzr1Hqk"
+  },
+  "7lhCltMZ6Fa6XiGvK6ZwlG": {
+    "name": "Pepino y Cardamomo",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7lhCltMZ6Fa6XiGvK6ZwlG"
+  },
+  "2QLlcrSne3vb805rznxGg7": {
+    "name": "Troika",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2QLlcrSne3vb805rznxGg7"
+  },
+  "4AsjTkJS0fa7iWmdHTFbKy": {
+    "name": "Uziel 33",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4AsjTkJS0fa7iWmdHTFbKy"
+  },
+  "0WkTj71xP3eVelMzwPxfNf": {
+    "name": "Provision",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0WkTj71xP3eVelMzwPxfNf"
+  },
+  "6XCR29NViLJuKvvwzD7XyT": {
+    "name": "Arachnophobias",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6XCR29NViLJuKvvwzD7XyT"
+  },
+  "191EmQ7mhcL8cawcvd9KDP": {
+    "name": "Simona Buja",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/191EmQ7mhcL8cawcvd9KDP"
+  },
+  "3OZEY4PVRPAuBtsQChIwvr": {
+    "name": "Christinita Percances",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3OZEY4PVRPAuBtsQChIwvr"
+  },
+  "02BB24tPDGHcBkyL2Owd5l": {
+    "name": "Magik Brite",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/02BB24tPDGHcBkyL2Owd5l"
+  },
+  "7LpyVgf7e2EtQG8mS9bHC6": {
+    "name": "P\u00e9talos",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7LpyVgf7e2EtQG8mS9bHC6"
+  },
+  "562jvqcbBaFzFM6tgShlEV": {
+    "name": "Atari Cowboy",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/562jvqcbBaFzFM6tgShlEV"
+  },
+  "7zeAM7dEBWdX0JvXi4gTHs": {
+    "name": "The selfcentered spacecadet",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7zeAM7dEBWdX0JvXi4gTHs"
+  },
+  "5Cfz0DTuzlzKkJ1G4uom9F": {
+    "name": "The Tapeaters",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5Cfz0DTuzlzKkJ1G4uom9F"
+  },
+  "0bsKf0vwgsSqN38ja3bdvR": {
+    "name": "HumanET",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0bsKf0vwgsSqN38ja3bdvR"
+  },
+  "4afUV1cISJJtX27BJ2S3Lg": {
+    "name": "Boris Michael",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4afUV1cISJJtX27BJ2S3Lg"
+  },
+  "2viw9jpneQ08kuQMq8xLA0": {
+    "name": "Zoo Boutique",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2viw9jpneQ08kuQMq8xLA0"
+  },
+  "3MlBBbNdHMG8rp8CMTSBnE": {
+    "name": "Proxies",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3MlBBbNdHMG8rp8CMTSBnE"
+  },
+  "4jUUtPt7z3VRBpkpyZjQkd": {
+    "name": "Ritmika",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4jUUtPt7z3VRBpkpyZjQkd"
+  },
+  "3YDDpsriFUu95ZoDOXg0tQ": {
+    "name": "This Fish Needs A Bike",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3YDDpsriFUu95ZoDOXg0tQ"
+  },
+  "54yhV6UEmSVYhjaHTEoaxv": {
+    "name": "Fiber Optic Friends",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/54yhV6UEmSVYhjaHTEoaxv"
+  },
+  "787KgMDcNNMDTt7BBhXUaq": {
+    "name": "Ultima Bleep",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/787KgMDcNNMDTt7BBhXUaq"
+  },
+  "3ZUepQ4BzOOkyctIzfsXMa": {
+    "name": "Marina Siertis",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3ZUepQ4BzOOkyctIzfsXMa"
+  },
+  "2t1BUDyP4RJSlQg2okw4Gr": {
+    "name": "Native Europe",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2t1BUDyP4RJSlQg2okw4Gr"
+  },
+  "2ylmFKikTMCZSnNBz5c6X2": {
+    "name": "Polaroid Kiss",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2ylmFKikTMCZSnNBz5c6X2"
+  },
+  "2tKpxAvTPvG0nPaddEB4fq": {
+    "name": "Grupo Elsa Bcn",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2tKpxAvTPvG0nPaddEB4fq"
+  },
+  "1q86wSDI5Y772nGEJT27OS": {
+    "name": "Kitty & the K",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1q86wSDI5Y772nGEJT27OS"
+  },
+  "02ESuuto8Jwyo4PeiJ1Xim": {
+    "name": "Polpo Motel",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/02ESuuto8Jwyo4PeiJ1Xim"
+  },
+  "0LT96hnOGujjSRGjfWd4uK": {
+    "name": "Basswood Dollies",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0LT96hnOGujjSRGjfWd4uK"
+  },
+  "65bCu9YAqXmpPTqt0WPfME": {
+    "name": "Ljus\u00e5r",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/65bCu9YAqXmpPTqt0WPfME"
+  },
+  "4dOW0vYDQDXfPeNjI1Qr6V": {
+    "name": "Stygg Sylt",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4dOW0vYDQDXfPeNjI1Qr6V"
+  },
+  "1JW1W1sXTKw73omLQ4sdWa": {
+    "name": "Stormakten",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1JW1W1sXTKw73omLQ4sdWa"
+  },
+  "5gcxRm4VGWMXUNmBExDdlL": {
+    "name": "Megaafon\u00eda",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5gcxRm4VGWMXUNmBExDdlL"
+  },
+  "0WADlsyupmWmBMEWjVIVzg": {
+    "name": "Sult\u00e1n Para\u00edso",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0WADlsyupmWmBMEWjVIVzg"
+  },
+  "4YYLhOhlb7pPLuJddQpTwD": {
+    "name": "Wolf Dragonard",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4YYLhOhlb7pPLuJddQpTwD"
+  },
+  "08VbmvzxsnROLtXOmM4arC": {
+    "name": "Dixybait",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/08VbmvzxsnROLtXOmM4arC"
+  },
+  "1rebBHAYAZ3PjHE4qj0Bj3": {
+    "name": "A Million Machines",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1rebBHAYAZ3PjHE4qj0Bj3"
+  },
+  "1eKEUR4jSjpp8T5x9lTVEL": {
+    "name": "Mikrowafle",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1eKEUR4jSjpp8T5x9lTVEL"
+  },
+  "1yaLyLsh9mhDmb0tmXmQOj": {
+    "name": "Space Age Baby Jane",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1yaLyLsh9mhDmb0tmXmQOj"
+  },
+  "52377Ymeia3Tr4lLiSKRWN": {
+    "name": "Missex",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/52377Ymeia3Tr4lLiSKRWN"
+  },
+  "3xe0hMjfhb2VHuWjkbXxtD": {
+    "name": "Mesalina Cry",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3xe0hMjfhb2VHuWjkbXxtD"
+  },
+  "53mynADyRyxRres8E390Ee": {
+    "name": "Jermook",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/53mynADyRyxRres8E390Ee"
+  },
+  "0YptG6QUVOYv6TpqumZmf9": {
+    "name": "Leslie & Betsie",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0YptG6QUVOYv6TpqumZmf9"
+  },
+  "6qxs6TNoeMxvgMswSVqMtK": {
+    "name": "Monostrip",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6qxs6TNoeMxvgMswSVqMtK"
+  },
+  "0pkOeBUJrEDluiAtBckejr": {
+    "name": "Logic Division",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0pkOeBUJrEDluiAtBckejr"
+  },
+  "1duKFsvhlX4VmBMawxQHOh": {
+    "name": "Los Koplowitz",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1duKFsvhlX4VmBMawxQHOh"
+  },
+  "4rwkC0dZynT8bCswUcP6eD": {
+    "name": "Las Tope Dram\u00e1ticas",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/4rwkC0dZynT8bCswUcP6eD"
+  },
+  "5cJwI56PnhDrPqjXfPofAv": {
+    "name": "Unarmed Enemies",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5cJwI56PnhDrPqjXfPofAv"
+  },
+  "2LYq9SQ6sfDsHl2PwN1PFh": {
+    "name": "Arek Jakubik",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+  },
+  "26tRFX2hmrnvAXkcdUrQNy": {
+    "name": "Marigold",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/26tRFX2hmrnvAXkcdUrQNy"
+  },
+  "0YA1z1jHANw9Ul6Lhghsqp": {
+    "name": "Dial M.",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0YA1z1jHANw9Ul6Lhghsqp"
+  },
+  "2XcLiEYT6kAWnTfxNj4jtD": {
+    "name": "Inner Conflict",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2XcLiEYT6kAWnTfxNj4jtD"
+  },
+  "4C3K39m0ciLMcglqnIMmau": {
+    "name": "Common Dream",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4C3K39m0ciLMcglqnIMmau"
+  },
+  "3R2IxBbYz93gprWdNtc0du": {
+    "name": "Sombre View",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3R2IxBbYz93gprWdNtc0du"
+  },
+  "6QLm2ROfLGaQfufeVZq02f": {
+    "name": "BELL",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6QLm2ROfLGaQfufeVZq02f"
+  },
+  "6GBkJbZbXAfnqtIXO137cI": {
+    "name": "Berl\u00edn",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6GBkJbZbXAfnqtIXO137cI"
+  },
+  "0Otqs9D2OZsnxXR8bZit5e": {
+    "name": "Marilyn and the Rouge",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0Otqs9D2OZsnxXR8bZit5e"
+  },
+  "2TT7B8wiiWe0VloEk86zy3": {
+    "name": "Nul Telexes",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2TT7B8wiiWe0VloEk86zy3"
+  },
+  "5PlE6uNO0JZD3X5h2kH9IJ": {
+    "name": "Mosqitoo",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5PlE6uNO0JZD3X5h2kH9IJ"
+  },
+  "5SV7SmFDjFN12ho2ksce5G": {
+    "name": "Melnyk",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5SV7SmFDjFN12ho2ksce5G"
+  },
+  "08Dj5mDrVrZtAIj6gKCJJZ": {
+    "name": "The Crashlanders",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/08Dj5mDrVrZtAIj6gKCJJZ"
+  },
+  "4frUNABAEA2e9i4YupTAeW": {
+    "name": "Christof Glowalla",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4frUNABAEA2e9i4YupTAeW"
+  },
+  "7IT4cvGuInCNqZIxSSX6sJ": {
+    "name": "Lorelei de Lux",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7IT4cvGuInCNqZIxSSX6sJ"
+  },
+  "7D2tdLBcSkxQNpTS3q8FR4": {
+    "name": "Stum",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7D2tdLBcSkxQNpTS3q8FR4"
+  },
+  "22VyBVMqAuGHIRHFWqSv0I": {
+    "name": "Pop Electronique",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/22VyBVMqAuGHIRHFWqSv0I"
+  },
+  "0GiwxCA0cHtWbOHXkq3iNK": {
+    "name": "End Of Your Garden",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0GiwxCA0cHtWbOHXkq3iNK"
+  },
+  "1OlaN7wjPqSfj5zwzUgcaL": {
+    "name": "Elegance",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1OlaN7wjPqSfj5zwzUgcaL"
+  },
+  "4cggmxEQTBAVZRCYdP9wgL": {
+    "name": "Ruido Para\u00edso",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4cggmxEQTBAVZRCYdP9wgL"
+  },
+  "73KpPxNuz1DCfYBQqv0QKP": {
+    "name": "Parab\u00f3lica",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/73KpPxNuz1DCfYBQqv0QKP"
+  },
+  "3XmI8rgRlPaVb8KIRQ731o": {
+    "name": "Tripnaha",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3XmI8rgRlPaVb8KIRQ731o"
+  },
+  "1YuFedrMZRnS7N1PAk6g5O": {
+    "name": "Duty",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/1YuFedrMZRnS7N1PAk6g5O"
+  },
+  "73T9J6ZzoTQ5FZt0dfc1Ll": {
+    "name": "Tenderlash",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/73T9J6ZzoTQ5FZt0dfc1Ll"
+  },
+  "0e3JhHef9mrLSetLvdbJxf": {
+    "name": "Cudowne Lata",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+  },
+  "4dFI5A2gbocyzjfTTrZFhw": {
+    "name": "Decency",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4dFI5A2gbocyzjfTTrZFhw"
+  },
+  "7mcsfm9kx33YT0R0aVoRi8": {
+    "name": "Joy Serene",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7mcsfm9kx33YT0R0aVoRi8"
+  },
+  "2Uf3thOvvf0zzLPMH2tan9": {
+    "name": "Suburbia",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2Uf3thOvvf0zzLPMH2tan9"
+  },
+  "4nyuc87jGuYI9qcfOcOYDs": {
+    "name": "S\u00f6derut",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4nyuc87jGuYI9qcfOcOYDs"
+  },
+  "0wKTcsJxi7JHzKxzMlKwy9": {
+    "name": "Surowa Kara Za Grzechy",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/0wKTcsJxi7JHzKxzMlKwy9"
+  },
+  "3bpeJgqkug5i2zb5gXv7HG": {
+    "name": "Mikael Landby",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3bpeJgqkug5i2zb5gXv7HG"
+  },
+  "1eBYq9wL0YN5bd7GHLlVL6": {
+    "name": "Dreamgale",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1eBYq9wL0YN5bd7GHLlVL6"
+  },
+  "0DVkzOdETCnZlBMIfRWSt7": {
+    "name": "Babylonia",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0DVkzOdETCnZlBMIfRWSt7"
+  },
+  "03l89e936vq9pFaf0JIXlF": {
+    "name": "Those Attractive Magnets",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/03l89e936vq9pFaf0JIXlF"
+  },
+  "1vP2qQmxCjymuBOrfjQIMn": {
+    "name": "Teleskop",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1vP2qQmxCjymuBOrfjQIMn"
+  },
+  "5g9ySfkMBJevhFnHytIVe5": {
+    "name": "Black Plastic",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/5g9ySfkMBJevhFnHytIVe5"
+  },
+  "0OUt8EuoPheplJl2ZseKRh": {
+    "name": "Garbo STHLM",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0OUt8EuoPheplJl2ZseKRh"
+  },
+  "0ni8gpimsTG2STFx9QkAHU": {
+    "name": "Wulkan",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0ni8gpimsTG2STFx9QkAHU"
+  },
+  "4IjU135KirhamPTKP4r81r": {
+    "name": "\u0422\u0430\u043d\u0446\u044b \u041d\u0430 \u0412\u043e\u043b\u0435",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4IjU135KirhamPTKP4r81r"
+  },
+  "4BV8b3qLESs1d6sORkYzxR": {
+    "name": "Statemachine",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4BV8b3qLESs1d6sORkYzxR"
+  },
+  "6YAvebo9BIh1fEuw9pH8vj": {
+    "name": "Monsieur Cactus",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6YAvebo9BIh1fEuw9pH8vj"
+  },
+  "2LghmQbUm4tJhteA59HivC": {
+    "name": "Dark Distant Spaces",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2LghmQbUm4tJhteA59HivC"
+  },
+  "7wg5HwNMofPWupTvJTe4WV": {
+    "name": "New Concept",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7wg5HwNMofPWupTvJTe4WV"
+  },
+  "0mmUZCODWgrVxc7dRnWrH7": {
+    "name": "Killed To Death",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0mmUZCODWgrVxc7dRnWrH7"
+  },
+  "32REtbRkbxB5vx26QWMVOm": {
+    "name": "Orze\u0142 i Reszka",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/32REtbRkbxB5vx26QWMVOm"
+  },
+  "4Q6A1NlBouVdnmBWK8Lnji": {
+    "name": "Verkeren",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4Q6A1NlBouVdnmBWK8Lnji"
+  },
+  "4esuEpassqDfTbo8kKPMas": {
+    "name": "Ljung",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/4esuEpassqDfTbo8kKPMas"
+  },
+  "6zax046dXcVSOCKUCAWUfi": {
+    "name": "Santuario",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/6zax046dXcVSOCKUCAWUfi"
+  },
+  "4duqnOGWIRO9IeK3lXBSQo": {
+    "name": "Vargpakten",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4duqnOGWIRO9IeK3lXBSQo"
+  },
+  "5AsOXs9X5NwLxaApulRvV6": {
+    "name": "W\u0142adys\u0142aw Komendarek",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6"
+  },
+  "5fbmkaxocOLV4aXQOOCQzQ": {
+    "name": "moremoney",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5fbmkaxocOLV4aXQOOCQzQ"
+  },
+  "5Yuhd0lYzsbU2NjlLZRdvJ": {
+    "name": "Cinemascape",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5Yuhd0lYzsbU2NjlLZRdvJ"
+  },
+  "4JhoDNmtC04dhypl3bBxcV": {
+    "name": "Feria",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4JhoDNmtC04dhypl3bBxcV"
+  },
+  "3PE7uJ3XQf5SbzvYKK848A": {
+    "name": "Nervk\u00e5llaps",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3PE7uJ3XQf5SbzvYKK848A"
+  },
+  "0lGoYo9CCYltrXTySgzuNd": {
+    "name": "Super-G",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0lGoYo9CCYltrXTySgzuNd"
+  },
+  "2ynEHhy6duzATmlOZdBXXm": {
+    "name": "Indians in Moscow",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2ynEHhy6duzATmlOZdBXXm"
+  },
+  "1MnSfCwhFW7hXJp2CzJkxh": {
+    "name": "Agu Lukke",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1MnSfCwhFW7hXJp2CzJkxh"
+  },
+  "0UyijPCmnJKOmEPGeIhuw9": {
+    "name": "Social Ambitions",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0UyijPCmnJKOmEPGeIhuw9"
+  },
+  "2YseTKte1f1JyNJM7OdRvG": {
+    "name": "\u041a\u0410\u0418\u0420",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2YseTKte1f1JyNJM7OdRvG"
+  },
+  "3e8N9d109Mww0uJVQtyqrT": {
+    "name": "Laugh Clown Laugh",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3e8N9d109Mww0uJVQtyqrT"
+  },
+  "3eSrwoEQHqPEeIoBVYYXaE": {
+    "name": "Glass Museum",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3eSrwoEQHqPEeIoBVYYXaE"
+  },
+  "6H33Q3X3mOnHYPf11CygLr": {
+    "name": "Klipsy Panda",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6H33Q3X3mOnHYPf11CygLr"
+  },
+  "3K1iB0XVfcKmbjxmmdK4qg": {
+    "name": "Niklas Krig",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3K1iB0XVfcKmbjxmmdK4qg"
+  },
+  "0lWMoGahcPdPQHXtiUVEtx": {
+    "name": "Diskodiktator",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/0lWMoGahcPdPQHXtiUVEtx"
+  },
+  "3TZApHlSKOp6sa87rnUZVn": {
+    "name": "Altera Forma",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3TZApHlSKOp6sa87rnUZVn"
+  },
+  "3kZhs0pEsCHXOOgwwVNjQh": {
+    "name": "VH X RR",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3kZhs0pEsCHXOOgwwVNjQh"
+  },
+  "4FqhH1SsaPr5hoMrdgYzI0": {
+    "name": "Analog Angel",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4FqhH1SsaPr5hoMrdgYzI0"
+  },
+  "2SToghk79YPwBYa9Je6xAD": {
+    "name": "Vostok Setras",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2SToghk79YPwBYa9Je6xAD"
+  },
+  "4g9pbqdaCWnkFhoCcx5NWF": {
+    "name": "[\u0432\u0438\u0430] \u0433\u0430\u0433\u0430\u0440\u0438\u043d",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4g9pbqdaCWnkFhoCcx5NWF"
+  },
+  "6bUIuzR4dxrBr8r8aJGuJo": {
+    "name": "Salvador T\u00f3xico",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6bUIuzR4dxrBr8r8aJGuJo"
+  },
+  "2sr8nkgBvfkPxk6wYLaSvv": {
+    "name": "Lolita Express",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2sr8nkgBvfkPxk6wYLaSvv"
+  },
+  "182PKAIFpzrfmiWVcuf4Uy": {
+    "name": "Santi Capote",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/182PKAIFpzrfmiWVcuf4Uy"
+  },
+  "1z11OJeA6eXmfRVUHRPfFt": {
+    "name": "Matthias Schuster",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1z11OJeA6eXmfRVUHRPfFt"
+  },
+  "2k6XtsomQYIOxrKLyCK1Vp": {
+    "name": "Baby Horror",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/2k6XtsomQYIOxrKLyCK1Vp"
+  },
+  "3Fsi1kTX2UAzibZU67Nyrr": {
+    "name": "Half Light",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3Fsi1kTX2UAzibZU67Nyrr"
+  },
+  "7H184mmoywMXUKyBgimlBT": {
+    "name": "Beso",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7H184mmoywMXUKyBgimlBT"
+  },
+  "757k4wrf9N8SVH7mnYsOX7": {
+    "name": "Full Of Keys",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/757k4wrf9N8SVH7mnYsOX7"
+  },
+  "6HMWTGUOvPmaVqnDiHwLHQ": {
+    "name": "Sinestar",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6HMWTGUOvPmaVqnDiHwLHQ"
+  },
+  "4NnHyT8Ui9fcke8twWrUCs": {
+    "name": "Ambra Red",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4NnHyT8Ui9fcke8twWrUCs"
+  },
+  "0h4hvFqyNlceaQl3ZOmO9M": {
+    "name": "Centauros",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0h4hvFqyNlceaQl3ZOmO9M"
+  },
+  "1ECjsIh6SoNETKgO8vgD3u": {
+    "name": "Children Within",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1ECjsIh6SoNETKgO8vgD3u"
+  },
+  "3zDb8n5cpRuMFAkvSf66fG": {
+    "name": "Wave in head",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3zDb8n5cpRuMFAkvSf66fG"
+  },
+  "0x9BLQ9LhAnz7J5bEoV9QV": {
+    "name": "Malachi Est\u00e9reo",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0x9BLQ9LhAnz7J5bEoV9QV"
+  },
+  "22mePOepV9XAapbBaUnv1J": {
+    "name": "Dasaev",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/22mePOepV9XAapbBaUnv1J"
+  },
+  "0xjKQuOm5vHxEvcHSmkPml": {
+    "name": "Leiahdorus",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0xjKQuOm5vHxEvcHSmkPml"
+  },
+  "58zEgBuEvB4kLJrIts4UPu": {
+    "name": "El Deux",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/58zEgBuEvB4kLJrIts4UPu"
+  },
+  "4lDp55jvHnkNtch1EI07g5": {
+    "name": "This Vision",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4lDp55jvHnkNtch1EI07g5"
+  },
+  "6AwJVvbGDd8jwqstWbZGcA": {
+    "name": "Auto-Auto",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6AwJVvbGDd8jwqstWbZGcA"
+  },
+  "19DkQxRAdicbirgFCG7Ttf": {
+    "name": "Jacques C",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/19DkQxRAdicbirgFCG7Ttf"
+  },
+  "4aNOeTjwcGKvG9Tl8svdiG": {
+    "name": "Metropakt",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/4aNOeTjwcGKvG9Tl8svdiG"
+  },
+  "0Ycvv9JfoLpdpRWTzs4wDh": {
+    "name": "Visions In Clouds",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/0Ycvv9JfoLpdpRWTzs4wDh"
+  },
+  "36udU5hA8bKanLAu0Nn9bS": {
+    "name": "\u041d\u0435\u0441\u043c\u0435\u044f\u043d\u0430",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/36udU5hA8bKanLAu0Nn9bS"
+  },
+  "09VNiSxEZVBnshsrj7MlfC": {
+    "name": "Javelynn",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/09VNiSxEZVBnshsrj7MlfC"
+  },
+  "2ORnIh0wbtnq5pQ5qMabp3": {
+    "name": "For BDK",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/2ORnIh0wbtnq5pQ5qMabp3"
+  },
+  "0VgCLluaR54vKj6ikJBLR8": {
+    "name": "Race to Space",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0VgCLluaR54vKj6ikJBLR8"
+  },
+  "0KEN4p1MANYeP8WHJGavPB": {
+    "name": "Elisa Point",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0KEN4p1MANYeP8WHJGavPB"
+  },
+  "7M5ADAWMrkmYOF8yGcuiUA": {
+    "name": "Rename",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7M5ADAWMrkmYOF8yGcuiUA"
+  },
+  "6MWhwxksLsyO7X1XCzf9KE": {
+    "name": "Future Perfect",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6MWhwxksLsyO7X1XCzf9KE"
+  },
+  "3IYiN4B4gc9iUfacjGHqkF": {
+    "name": "Anne Pigalle",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3IYiN4B4gc9iUfacjGHqkF"
+  },
+  "7b7Uxm0nFshmcLZSBzHpCa": {
+    "name": "2 Plus 1",
+    "genre": "synthpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/7b7Uxm0nFshmcLZSBzHpCa"
+  },
+  "5cD7tRj775oMdCykMrRnLa": {
+    "name": "Marc Seberg",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/5cD7tRj775oMdCykMrRnLa"
+  },
+  "4TC1ZmppLvi6TQEEdP3f5U": {
+    "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041c\u0443\u0440\u043e\u043c\u043e\u0432",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/4TC1ZmppLvi6TQEEdP3f5U"
+  },
+  "5RBQpvejdJqnviW3K88aqX": {
+    "name": "Mobiles",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/5RBQpvejdJqnviW3K88aqX"
+  },
+  "7MsJL1MozqrFhBQWLW7hCI": {
+    "name": "Lari Lu",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/7MsJL1MozqrFhBQWLW7hCI"
+  },
+  "5GBxmGC8Tm7v1W95cUfjK5": {
+    "name": "\u041d\u0435\u043e\u043d\u0430\u0432\u0442",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5GBxmGC8Tm7v1W95cUfjK5"
+  },
+  "0LNWCg7UbISwhs02IpRVu7": {
+    "name": "dimbodius",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0LNWCg7UbISwhs02IpRVu7"
+  },
+  "7ykb4Jn1I5OY4n8F2cBRb2": {
+    "name": "Vid\u00e9o L'Eclipse",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7ykb4Jn1I5OY4n8F2cBRb2"
+  },
+  "5TfXvHN60lOLjarRZgqI1l": {
+    "name": "Arne Vinzon",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/5TfXvHN60lOLjarRZgqI1l"
+  },
+  "6CfquMtHv25uu6YGZD3NQb": {
+    "name": "The April Tears",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6CfquMtHv25uu6YGZD3NQb"
+  },
+  "1LOV9sTxy273nC95HA1rKu": {
+    "name": "Ganymede",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1LOV9sTxy273nC95HA1rKu"
+  },
+  "1UbMj4wG1Mu9Aow0jxclpU": {
+    "name": "Masonier\u00eda",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/1UbMj4wG1Mu9Aow0jxclpU"
+  },
+  "00OiOUXvRCYSesMIiapK8n": {
+    "name": "Oviformia SCI",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/00OiOUXvRCYSesMIiapK8n"
+  },
+  "0P1Reib7muU8WMztwyTzwS": {
+    "name": "Das Moon",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0P1Reib7muU8WMztwyTzwS"
+  },
+  "2OwS7Rhr0pApzxMm1ZM8j8": {
+    "name": "\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2OwS7Rhr0pApzxMm1ZM8j8"
+  },
+  "7Ec19Te2J5fG27daz5ZpKK": {
+    "name": "\u041a\u043b\u0435\u043e\u043f\u0430\u0442\u0440\u0430",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/7Ec19Te2J5fG27daz5ZpKK"
+  },
+  "6CXuIbBwMR9uRI519ZACsj": {
+    "name": "Fortune",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6CXuIbBwMR9uRI519ZACsj"
+  },
+  "2Le7Ut4xhYLkF9tZugELTX": {
+    "name": "Shayla 007",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2Le7Ut4xhYLkF9tZugELTX"
+  },
+  "0ra3tcfcgPOnGzDoVdfuws": {
+    "name": "Teenage",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0ra3tcfcgPOnGzDoVdfuws"
+  },
+  "0t0eQZAlWUzmXk9yAD169q": {
+    "name": "Shiny Two Shiny",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/0t0eQZAlWUzmXk9yAD169q"
+  },
+  "2vxhYDcCrE14CeddB6eMvp": {
+    "name": "Kevin Harrison",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/2vxhYDcCrE14CeddB6eMvp"
+  },
+  "4RMCsbITavlN68NgrzwjBg": {
+    "name": "A trois dans les WC",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4RMCsbITavlN68NgrzwjBg"
+  },
+  "4SLI8e8FRrLJXTSdmjJPRA": {
+    "name": "\u041c\u0435\u0445\u0440\u0434\u0430\u0434 \u0411\u0430\u0434\u0438",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4SLI8e8FRrLJXTSdmjJPRA"
+  },
+  "72MmmQJccckGijuruZ6Spb": {
+    "name": "Michigan",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/72MmmQJccckGijuruZ6Spb"
+  },
+  "6KoUf1nXkqR0Ssby7aaiOH": {
+    "name": "Naked Lunch",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6KoUf1nXkqR0Ssby7aaiOH"
+  },
+  "3A3M1uWPnDNtaEvxu8tW20": {
+    "name": "Eternity Range",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3A3M1uWPnDNtaEvxu8tW20"
+  },
+  "2ioj1MvELm0EyoR5Faa2dj": {
+    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0417\u0430\u043b\u0443\u043f\u0438\u043d",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2ioj1MvELm0EyoR5Faa2dj"
+  },
+  "5nMpQ9tTgWkMASZ743Jaiu": {
+    "name": "Foretaste",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/5nMpQ9tTgWkMASZ743Jaiu"
+  },
+  "7dgQhecM519z8teDqxJv9n": {
+    "name": "Qun Qun",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/7dgQhecM519z8teDqxJv9n"
+  },
+  "6h8VwslMQAvK1nfJLU2hVJ": {
+    "name": "Svetla V",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6h8VwslMQAvK1nfJLU2hVJ"
+  },
+  "7axzXBSzrIv7HalyRwZrZd": {
+    "name": "Lisa Pedersen",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7axzXBSzrIv7HalyRwZrZd"
+  },
+  "5nDbivjnpds6YhiPu8UY61": {
+    "name": "Fulkultur",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/5nDbivjnpds6YhiPu8UY61"
+  },
+  "5SHhwLU1p9w64fd1VAOWr4": {
+    "name": "Cosmicity",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5SHhwLU1p9w64fd1VAOWr4"
+  },
+  "45NtTWo5S4ASwQREqvZf2M": {
+    "name": "Ballady I Romanse",
+    "genre": "synthpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/45NtTWo5S4ASwQREqvZf2M"
+  },
+  "1Z1IQZpA7AjUxz4hZRb4me": {
+    "name": "E-Gens",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1Z1IQZpA7AjUxz4hZRb4me"
+  },
+  "4vAuh0ifJRTcAxGeGNULIb": {
+    "name": "Die Katapult",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/4vAuh0ifJRTcAxGeGNULIb"
+  },
+  "4EGWQ2oAMQTvu1G2zbhDus": {
+    "name": "Mohini Geisweiller",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/4EGWQ2oAMQTvu1G2zbhDus"
+  },
+  "55CBgMbNZEE9P3V2jxLOsE": {
+    "name": "L\u00e1szl\u00f3 Benk\u00f6",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/55CBgMbNZEE9P3V2jxLOsE"
+  },
+  "41MUW6XVs27gea7pmhj1nQ": {
+    "name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/41MUW6XVs27gea7pmhj1nQ"
+  },
+  "32b1gbsyIrGA4TbOqgRcAd": {
+    "name": "Violet Elegy",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/32b1gbsyIrGA4TbOqgRcAd"
+  },
+  "5Dj9JNInwX9anxzgiYx2u4": {
+    "name": "Eliasson",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5Dj9JNInwX9anxzgiYx2u4"
+  },
+  "3va5R7Txc4fmXHkqU6swEW": {
+    "name": "Celebrine",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3va5R7Txc4fmXHkqU6swEW"
+  },
+  "03wM7NxmoQeVAlypTo0NFO": {
+    "name": "Frozen Ducks",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/03wM7NxmoQeVAlypTo0NFO"
+  },
+  "622npgpbeV4qVEn9CNwpKM": {
+    "name": "Somegirl",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/622npgpbeV4qVEn9CNwpKM"
+  },
+  "4WpvF0jIrlY83U5eR9TlvI": {
+    "name": "The Wibbley Brothers",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4WpvF0jIrlY83U5eR9TlvI"
+  },
+  "5f4QXUKgp11PrkYGztcfGy": {
+    "name": "Twice A Man",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/5f4QXUKgp11PrkYGztcfGy"
+  },
+  "4NJWntDVTL1y0ggj1aTsVW": {
+    "name": "Klincz",
+    "genre": "synthpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/4NJWntDVTL1y0ggj1aTsVW"
+  },
+  "0fIbM6bp8K3QDqsHidPTSN": {
+    "name": "Plastic",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/0fIbM6bp8K3QDqsHidPTSN"
+  },
+  "4jGdZgPkdFj1I345p4iZYL": {
+    "name": "Robodrom",
+    "genre": "synthpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/4jGdZgPkdFj1I345p4iZYL"
+  },
+  "6wOCusvYEGOHO3ARyyQ20P": {
+    "name": "Husky",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6wOCusvYEGOHO3ARyyQ20P"
+  },
+  "3RrnxDOvQ3xT8FSNaFVJnt": {
+    "name": "Joe Crow",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3RrnxDOvQ3xT8FSNaFVJnt"
+  },
+  "6FPamV3tkyoMVnCBPejBVy": {
+    "name": "Administratorr Electro",
+    "genre": "synthpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/6FPamV3tkyoMVnCBPejBVy"
+  },
+  "0j8hN8LjQGxTozJxFt9Ptr": {
+    "name": "DELAYKLINIKEN",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0j8hN8LjQGxTozJxFt9Ptr"
+  },
+  "3PNCTCCaqNq2uMsoH7XgPZ": {
+    "name": "Conetik",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3PNCTCCaqNq2uMsoH7XgPZ"
+  },
+  "7gUEUsyCpULJL0PJUcDUKf": {
+    "name": "Lowe",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7gUEUsyCpULJL0PJUcDUKf"
+  },
+  "57xmfewv9dbDc89pqjRIxg": {
+    "name": "Equatronic",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/57xmfewv9dbDc89pqjRIxg"
+  },
+  "4QKY4aogpMDqS3LkrdFg6R": {
+    "name": "Digital Machine",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4QKY4aogpMDqS3LkrdFg6R"
+  },
+  "2Xl07XyVikgF1xltW2q0Fd": {
+    "name": "Deutsche Bank",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2Xl07XyVikgF1xltW2q0Fd"
+  },
+  "6GWioyOw0A6d3RIRmGiSw4": {
+    "name": "Sexy Suicide",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/6GWioyOw0A6d3RIRmGiSw4"
+  },
+  "7bkvdn9zkk81R8xkATLLOZ": {
+    "name": "Berlin Express",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/7bkvdn9zkk81R8xkATLLOZ"
+  },
+  "34vkpeQLbMmXLqvDO7GVnm": {
+    "name": "Kamera",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/34vkpeQLbMmXLqvDO7GVnm"
+  },
+  "145KP8LlZMAJeKlqojxVNe": {
+    "name": "Lesnikov-16",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/145KP8LlZMAJeKlqojxVNe"
+  },
+  "4wUmojZNRElsjdlmxjrEDB": {
+    "name": "\u0422\u0432\u043e\u0439 \u0434\u0435\u043d\u044c",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/4wUmojZNRElsjdlmxjrEDB"
+  },
+  "1KEbyFN1vKHrs7iR75uuVS": {
+    "name": "Fairlight Children",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/1KEbyFN1vKHrs7iR75uuVS"
+  },
+  "1uFqEN4SFHKheRhcjKBxSK": {
+    "name": "Eurasianeyes",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1uFqEN4SFHKheRhcjKBxSK"
+  },
+  "7BSKl5tW5q0iCXKEpS5Vtp": {
+    "name": "Blunda",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7BSKl5tW5q0iCXKEpS5Vtp"
+  },
+  "4kyKxuY3ma1ySm028A8J22": {
+    "name": "Empire State Human",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/4kyKxuY3ma1ySm028A8J22"
+  },
+  "3Zk9vv4KWDra2KGwsSkPjn": {
+    "name": "Marlena Drozdowska",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/3Zk9vv4KWDra2KGwsSkPjn"
+  },
+  "3MDgSaQghUO3KaSMs9nBS9": {
+    "name": "Super Girl & Romantic Boys",
+    "genre": "synthpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3MDgSaQghUO3KaSMs9nBS9"
+  },
+  "6kIsBal7VYlm23aOxFPWbb": {
+    "name": "\u0421\u0443\u0440\u043e\u0432\u044b\u0439 \u0444\u0435\u0432\u0440\u0430\u043b\u044c",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/6kIsBal7VYlm23aOxFPWbb"
+  },
+  "39h5IlP7C3ZRi145C5gKPO": {
+    "name": "\u0417\u0432\u0451\u0437\u0434\u044b",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/39h5IlP7C3ZRi145C5gKPO"
+  },
+  "0srsxDykOjd0kwblt5Pmfe": {
+    "name": "Moment",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/0srsxDykOjd0kwblt5Pmfe"
+  },
+  "0zdWU6CpCGxh9DyWV8SQAA": {
+    "name": "Northern Kind",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/0zdWU6CpCGxh9DyWV8SQAA"
+  },
+  "6kJvRrZLjngIfPIafUxsFI": {
+    "name": "Lunapark",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6kJvRrZLjngIfPIafUxsFI"
+  },
+  "0Y826bzJUZptGQraJK8OBt": {
+    "name": "Meneo",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0Y826bzJUZptGQraJK8OBt"
+  },
+  "2xJWJyvAyaExge8bHrnPzG": {
+    "name": "Be The Bear",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/2xJWJyvAyaExge8bHrnPzG"
+  },
+  "0Dh2x2DRpy8w8XCHDL9wcY": {
+    "name": "\u0412\u0438\u0445\u0440\u0438\u044f",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0Dh2x2DRpy8w8XCHDL9wcY"
+  },
+  "5gnUmMun01JomjVeFsFJrt": {
+    "name": "\u0411\u0438\u043e\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/5gnUmMun01JomjVeFsFJrt"
+  },
+  "0HqG4CHmhGQESW3Y5rucjC": {
+    "name": "Alan Burnham",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0HqG4CHmhGQESW3Y5rucjC"
+  },
+  "2qkCYeaZy5QlVFS9mx3thN": {
+    "name": "Norator",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2qkCYeaZy5QlVFS9mx3thN"
+  },
+  "1mQcQdhnAGrEWI46TuoD5A": {
+    "name": "\u0418\u0433\u043e\u0440\u044c \u0421\u0435\u043b\u0438\u0432\u0451\u0440\u0441\u0442\u043e\u0432",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1mQcQdhnAGrEWI46TuoD5A"
+  },
+  "4upNNIOYoiFOWyd8llHiul": {
+    "name": "Inconsciencia Artificial",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4upNNIOYoiFOWyd8llHiul"
+  },
+  "0bOgp2s8mNVuduinkyMJU4": {
+    "name": "Andermay",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/0bOgp2s8mNVuduinkyMJU4"
+  },
+  "2eVLkO9bBzfM6qVeFIzlpM": {
+    "name": "Purple Fog Side",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/2eVLkO9bBzfM6qVeFIzlpM"
+  },
+  "5iSfh4ArWLtiuXIQtcF3tR": {
+    "name": "Neon Lights",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5iSfh4ArWLtiuXIQtcF3tR"
+  },
+  "0g7Wlsyr3GX6b62bx3GfEn": {
+    "name": "Museum of Bellas Artes",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0g7Wlsyr3GX6b62bx3GfEn"
+  },
+  "7si7N5XIsIH6PyGhamfF8e": {
+    "name": "Faith Assembly",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/7si7N5XIsIH6PyGhamfF8e"
+  },
+  "3hVShagbzM9xXVjJwa4uro": {
+    "name": "Caerulea",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3hVShagbzM9xXVjJwa4uro"
+  },
+  "1FNafvHhs9VpxWoUmsNAKj": {
+    "name": "Morthem Vlade Art",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1FNafvHhs9VpxWoUmsNAKj"
+  },
+  "3DUnujgz8nKAqN8vwrQTuf": {
+    "name": "\u0422\u0435\u0440\u043f\u0435\u043d\u0438\u0435",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3DUnujgz8nKAqN8vwrQTuf"
+  },
+  "26B3LTR0T4jC0uqybGfeky": {
+    "name": "Astrocowboys",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/26B3LTR0T4jC0uqybGfeky"
+  },
+  "4ciCoU6DgMsnO6kYhI36kh": {
+    "name": "Barcelona 82",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/4ciCoU6DgMsnO6kYhI36kh"
+  },
+  "5xQ5x5SPbehR38a92VvtYB": {
+    "name": "S\u00edbaris",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5xQ5x5SPbehR38a92VvtYB"
+  },
+  "3dQDun7XFu8vzgT3kBlw2S": {
+    "name": "Ecrite",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3dQDun7XFu8vzgT3kBlw2S"
+  },
+  "4LRQGYm9FeRYG87aPl9zGk": {
+    "name": "Die Partei",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4LRQGYm9FeRYG87aPl9zGk"
+  },
+  "2lDHWbD7UvHPYaIeMyqjja": {
+    "name": "Fleece Flower",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2lDHWbD7UvHPYaIeMyqjja"
+  },
+  "7nyhSrnoxuUYi17k4WyM0C": {
+    "name": "The Dignity of Labour",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7nyhSrnoxuUYi17k4WyM0C"
+  },
+  "6lU3nlShCfzSEtdE8YJFtB": {
+    "name": "\u0417\u0430\u0431\u044b\u0442\u044b\u0439 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6lU3nlShCfzSEtdE8YJFtB"
+  },
+  "3aCs1G6pzqfRCVhBdEoPBZ": {
+    "name": "Jauntix",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/3aCs1G6pzqfRCVhBdEoPBZ"
+  },
+  "0TbxAXI6lvDSjFst0OHe9X": {
+    "name": "Niels Nielsen",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/0TbxAXI6lvDSjFst0OHe9X"
+  },
+  "3b0LUehV4LvAQ58kxRXVll": {
+    "name": "Roos",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3b0LUehV4LvAQ58kxRXVll"
+  },
+  "0DkUlUOzFcGfWVYD6M5IO2": {
+    "name": "Agonised By Love",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0DkUlUOzFcGfWVYD6M5IO2"
+  },
+  "4GZF7yXGXphA7F1XQbqVjm": {
+    "name": "Neurobash",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4GZF7yXGXphA7F1XQbqVjm"
+  },
+  "6cY62ToNTOCfRlbetiBkvY": {
+    "name": "Com.pulsion",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6cY62ToNTOCfRlbetiBkvY"
+  },
+  "76hN8mH2S97sy4OjjzVs6W": {
+    "name": "Elevated Sins",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/76hN8mH2S97sy4OjjzVs6W"
+  },
+  "33wKWGpkHJHYEwDh4JTIaQ": {
+    "name": "101sonic",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/33wKWGpkHJHYEwDh4JTIaQ"
+  },
+  "3QEUFOxp0TL9hNZSwga5wS": {
+    "name": "Econic",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3QEUFOxp0TL9hNZSwga5wS"
+  },
+  "4cYMvjEKJZHAfcmonKIui3": {
+    "name": "Electraset",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4cYMvjEKJZHAfcmonKIui3"
+  },
+  "3pCPzNBe5ULO572cAlvRBT": {
+    "name": "Gary Flanagan",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3pCPzNBe5ULO572cAlvRBT"
+  },
+  "42UX27rf2g2wHiARMWfO8c": {
+    "name": "Pleasant Fiction",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/42UX27rf2g2wHiARMWfO8c"
+  },
+  "3TNxQnixmRnIOr1jV8ghsJ": {
+    "name": "Orpheus in red velvet",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3TNxQnixmRnIOr1jV8ghsJ"
+  },
+  "01pCFJYyhUfbPpVPHuHr0P": {
+    "name": "Umilenie",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/01pCFJYyhUfbPpVPHuHr0P"
+  },
+  "0yeziwMFXSkXFFNwjgXEyS": {
+    "name": "Moodorgan",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0yeziwMFXSkXFFNwjgXEyS"
+  },
+  "7LImz6eMX8OIgI7fIKX5qB": {
+    "name": "Simulator",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7LImz6eMX8OIgI7fIKX5qB"
+  },
+  "6sfa8xmTQlAYAIALdbMwe3": {
+    "name": "Brand New Idol",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6sfa8xmTQlAYAIALdbMwe3"
+  },
+  "6lvSbA7qMiXfSyLVmGOMrA": {
+    "name": "Sell System",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6lvSbA7qMiXfSyLVmGOMrA"
+  },
+  "6gCLPPXQWYyzj5n3epgswx": {
+    "name": "Polytune",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6gCLPPXQWYyzj5n3epgswx"
+  },
+  "1pwe2xKeZCu9MoZLEGYRu0": {
+    "name": "New Clear Sky",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1pwe2xKeZCu9MoZLEGYRu0"
+  },
+  "6N4047NDKvUNLaL7j0S3Ae": {
+    "name": "Jens Bader",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6N4047NDKvUNLaL7j0S3Ae"
+  },
+  "06uVDaXEaXEPTYQEOUbpzB": {
+    "name": "Monody",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/06uVDaXEaXEPTYQEOUbpzB"
+  },
+  "0PfyZ9RUyDx5Xg8WeY8Jqj": {
+    "name": "NukleoN",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0PfyZ9RUyDx5Xg8WeY8Jqj"
+  },
+  "290i9UDf2Tw0wKUNzK8DZ0": {
+    "name": "Heliophile",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/290i9UDf2Tw0wKUNzK8DZ0"
+  },
+  "2ZywfCoSjLhlyR8uOXFYyv": {
+    "name": "Nadia Sohaei",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2ZywfCoSjLhlyR8uOXFYyv"
+  },
+  "52ERtBB2q1GVZD1f0Op0Ea": {
+    "name": "Page Of Quire",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/52ERtBB2q1GVZD1f0Op0Ea"
+  },
+  "129rlOqdwKRBwbEU5gcQJq": {
+    "name": "Kites With Lights",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/129rlOqdwKRBwbEU5gcQJq"
+  },
+  "511tq72cxTElLqrbQDvu89": {
+    "name": "Nouvelle Culture",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/511tq72cxTElLqrbQDvu89"
+  },
+  "6rl4OmLw2eKnXyXw3Zko2F": {
+    "name": "Phase Theory",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6rl4OmLw2eKnXyXw3Zko2F"
+  },
+  "0JSkuLwd7gFRo3eQRXT7iy": {
+    "name": "Intricated",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0JSkuLwd7gFRo3eQRXT7iy"
+  },
+  "3K23fswaajUsPV8Fz7ayuO": {
+    "name": "Inter-Connection",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3K23fswaajUsPV8Fz7ayuO"
+  },
+  "7CZB43q8ajdb5zUiCazkIx": {
+    "name": "Waiting For Words",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7CZB43q8ajdb5zUiCazkIx"
+  },
+  "0kPsO89WK7wejCO86yGoKG": {
+    "name": "halovox",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0kPsO89WK7wejCO86yGoKG"
+  },
+  "5tUYqMn7b1liNQAFR5ufV8": {
+    "name": "Tenek",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/5tUYqMn7b1liNQAFR5ufV8"
+  },
+  "0pJylJJxz3CAT37gBtFcjj": {
+    "name": "Neuroactive",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0pJylJJxz3CAT37gBtFcjj"
+  },
+  "4sZvyyYHR2xy7SN8Srf5H9": {
+    "name": "Lost Signal",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4sZvyyYHR2xy7SN8Srf5H9"
+  },
+  "0daWrsmu0IB81htCVFBHJX": {
+    "name": "Technoir",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0daWrsmu0IB81htCVFBHJX"
+  },
+  "7CzZ3KjFXlUkvbOnZcgD9O": {
+    "name": "Iioioioii",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7CzZ3KjFXlUkvbOnZcgD9O"
+  },
+  "0KaGqRKSsLZBeDnY3Z8YzB": {
+    "name": "The Parallel Project",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0KaGqRKSsLZBeDnY3Z8YzB"
+  },
+  "5vd6LsybGjYQrKMe1QSdix": {
+    "name": "Lavantgarde",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/5vd6LsybGjYQrKMe1QSdix"
+  },
+  "4QAb4rESLS1giPtlpXnziG": {
+    "name": "Digital Energy",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/4QAb4rESLS1giPtlpXnziG"
+  },
+  "7hImDpF2QnNNi78yQJAu91": {
+    "name": "Artymove",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/7hImDpF2QnNNi78yQJAu91"
+  },
+  "6tAD7fyVXKk3bNclGV1FEs": {
+    "name": "Les Visiteurs Du Soir",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6tAD7fyVXKk3bNclGV1FEs"
+  },
+  "4LeQ0H8RpKfq5fPdzfx9o9": {
+    "name": "Dust Of Basement",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4LeQ0H8RpKfq5fPdzfx9o9"
+  },
+  "26D4q8i3GXqReYpkkugzrN": {
+    "name": "Space March",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/26D4q8i3GXqReYpkkugzrN"
+  },
+  "6MtOpoxEOshj3sjISdxg9Z": {
+    "name": "Perfidious Words",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/6MtOpoxEOshj3sjISdxg9Z"
+  },
+  "4TtStBvGAx7KKcSm605i2w": {
+    "name": "The (Hypothetical) Prophets",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4TtStBvGAx7KKcSm605i2w"
+  },
+  "3lu1GCkRCJix61ZyulKr8l": {
+    "name": "Presumido",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3lu1GCkRCJix61ZyulKr8l"
+  },
+  "5VipimMDXGo3TFGaDL39WC": {
+    "name": "The Dark Villager",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5VipimMDXGo3TFGaDL39WC"
+  },
+  "4YSG8kuMGPNPu9g68Qip24": {
+    "name": "Modiga Agenter",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4YSG8kuMGPNPu9g68Qip24"
+  },
+  "564agEgxnPpw3r6MDAcJSk": {
+    "name": "Alpino",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/564agEgxnPpw3r6MDAcJSk"
+  },
+  "5o62RTKm0eA9pLdXzw0DKv": {
+    "name": "Mano de Santo",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5o62RTKm0eA9pLdXzw0DKv"
+  },
+  "20VtqNfLGmw8DoFlHlakh5": {
+    "name": "Vitamin Z",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/20VtqNfLGmw8DoFlHlakh5"
+  },
+  "5U1Q0ePXiCx4LwUWUSgHx4": {
+    "name": "The Mourning After",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5U1Q0ePXiCx4LwUWUSgHx4"
+  },
+  "66tKExCHsbfCzoFzq9gztY": {
+    "name": "Dreams Divide",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/66tKExCHsbfCzoFzq9gztY"
+  },
+  "46vPl8gImarVUu3mJ399iZ": {
+    "name": "Klizaljka",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/46vPl8gImarVUu3mJ399iZ"
+  },
+  "547vNQF6r7RgfUYa0BR18e": {
+    "name": "Exotic Birds",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/547vNQF6r7RgfUYa0BR18e"
+  },
+  "0b5iaw7brThnF0kGHEKlSN": {
+    "name": "Lorena C",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0b5iaw7brThnF0kGHEKlSN"
+  },
+  "2u1P9N6o3xzyHyr10VkSwM": {
+    "name": "Legacy Of Music",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2u1P9N6o3xzyHyr10VkSwM"
+  },
+  "5FcR6rRBd31xdTy1kMoMgS": {
+    "name": "Monovibes",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5FcR6rRBd31xdTy1kMoMgS"
+  },
+  "0VHixggOseIV1KI4awWOsp": {
+    "name": "Arctic Sunrise",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0VHixggOseIV1KI4awWOsp"
+  },
+  "0LoTca0hXCrgYsAn8X2Ojx": {
+    "name": "Destin Fragile",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0LoTca0hXCrgYsAn8X2Ojx"
+  },
+  "21WM2ahfpJRJ4ybhrmlUUO": {
+    "name": "Gore Gore Gays",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/21WM2ahfpJRJ4ybhrmlUUO"
+  },
+  "6p7wniCYUH4cfWSfvXjqJC": {
+    "name": "Maj Monet",
+    "genre": "synthpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6p7wniCYUH4cfWSfvXjqJC"
+  },
+  "5gxQbtNcYkmZxURsjTQZgI": {
+    "name": "Perfect Son",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5gxQbtNcYkmZxURsjTQZgI"
+  },
+  "6R7BZaR1HZriz31FhLAdQh": {
+    "name": "Merge",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6R7BZaR1HZriz31FhLAdQh"
+  },
+  "5VjtKURYU9IyyZpYVhz1ka": {
+    "name": "Channel-East",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/5VjtKURYU9IyyZpYVhz1ka"
+  },
+  "7lTsPKRcBt6D50x76kagTN": {
+    "name": "This Is Head",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7lTsPKRcBt6D50x76kagTN"
+  },
+  "6BDiO1I42GxlebVRu5g47r": {
+    "name": "Les Biscuits Sal\u00e9s",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6BDiO1I42GxlebVRu5g47r"
+  },
+  "44g4lI3D7PWNoLUQhN43EP": {
+    "name": "Sonic Reunion",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/44g4lI3D7PWNoLUQhN43EP"
+  },
+  "1oabJNX7lCOSH8mQdIbLz1": {
+    "name": "N-Frequency",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1oabJNX7lCOSH8mQdIbLz1"
+  },
+  "2xheUdI5RNWrpwR8iuINj5": {
+    "name": "Logic & Olivia",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/2xheUdI5RNWrpwR8iuINj5"
+  },
+  "3BERcu2QoSKGXSx7Sleita": {
+    "name": "Alma-X",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3BERcu2QoSKGXSx7Sleita"
+  },
+  "7kbsJt7rlZXraC2i7HSNoj": {
+    "name": "Nira K",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/7kbsJt7rlZXraC2i7HSNoj"
+  },
+  "0bNB5N6QDcUxunqvvXvyOY": {
+    "name": "Fake The Envy",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0bNB5N6QDcUxunqvvXvyOY"
+  },
+  "6dOIjFrFfkhUTdAgjVm9AW": {
+    "name": "Comix",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6dOIjFrFfkhUTdAgjVm9AW"
+  },
+  "5DP1O2E2VeWpAeDslexqws": {
+    "name": "Backlash",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5DP1O2E2VeWpAeDslexqws"
+  },
+  "4RlI9gEahykseYPut1Cssh": {
+    "name": "Skinny Patrini",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4RlI9gEahykseYPut1Cssh"
+  },
+  "3GE9JZmytatDhDhfVnimOp": {
+    "name": "Lutea",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3GE9JZmytatDhDhfVnimOp"
+  },
+  "6ciHOuomEgzI2gAig6Is6H": {
+    "name": "Eurotix",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/6ciHOuomEgzI2gAig6Is6H"
+  },
+  "5441nqOH4evDBl4IISiadm": {
+    "name": "Rebeka",
+    "genre": "synthpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm"
+  },
+  "3mhqnK87sBw1nzHLuvOTQo": {
+    "name": "Compute",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3mhqnK87sBw1nzHLuvOTQo"
+  },
+  "4p1uJorxRAxeIg6CRjfhxD": {
+    "name": "Daily Planet",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/4p1uJorxRAxeIg6CRjfhxD"
+  },
+  "3nV9bKTXqVjo897Ph9g7nM": {
+    "name": "Normal Echo",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3nV9bKTXqVjo897Ph9g7nM"
+  },
+  "3QCV2zd1aZFdimGS3DfU89": {
+    "name": "Glis",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3QCV2zd1aZFdimGS3DfU89"
+  },
+  "7wSZPlUKCrQcpLjN2U44c2": {
+    "name": "Gentle Touch",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/7wSZPlUKCrQcpLjN2U44c2"
+  },
+  "3JF6hq3WmiadHDgoqRuZSl": {
+    "name": "\u0411\u0430\u0431\u0431\u0430",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3JF6hq3WmiadHDgoqRuZSl"
+  },
+  "7GEloje3Q81bWM0MBBNIOD": {
+    "name": "Sero.Overdose",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7GEloje3Q81bWM0MBBNIOD"
+  },
+  "3jEHW4PASwcxAiMmog7JhI": {
+    "name": "Seppuku",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3jEHW4PASwcxAiMmog7JhI"
+  },
+  "3JzyTIVWJfEcwQySk4cmhk": {
+    "name": "Voice Of Authority",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3JzyTIVWJfEcwQySk4cmhk"
+  },
+  "5qN4ls3kU2aBB4skdIcewE": {
+    "name": "John Alexander Ericson",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5qN4ls3kU2aBB4skdIcewE"
+  },
+  "3XWDa6sNlKADEYRI1mDvWs": {
+    "name": "MIN t",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3XWDa6sNlKADEYRI1mDvWs"
+  },
+  "0YBmNY1huASEf2xtXLSo8c": {
+    "name": "Leda",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0YBmNY1huASEf2xtXLSo8c"
+  },
+  "3VNlfZRReg1Hho7NIDEfch": {
+    "name": "Magnetic Poetry",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/3VNlfZRReg1Hho7NIDEfch"
+  },
+  "434P1cNCv8k3F668Q3EW5R": {
+    "name": "Obsession of Time",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/434P1cNCv8k3F668Q3EW5R"
+  },
+  "1klVhzLqpRrRmKJhZgQKBF": {
+    "name": "Cukierki",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1klVhzLqpRrRmKJhZgQKBF"
+  },
+  "2LY6OW6vsGocNKOsnjPkIl": {
+    "name": "Espermachine",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2LY6OW6vsGocNKOsnjPkIl"
+  },
+  "187lWYH25eCHMOMw6ZEp1l": {
+    "name": "Grands Boulevards",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/187lWYH25eCHMOMw6ZEp1l"
+  },
+  "2GWUGNyNtx8Ng09hRibLKS": {
+    "name": "Monofader",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2GWUGNyNtx8Ng09hRibLKS"
+  },
+  "4kpxozCsfHA1i3cOlwxn6y": {
+    "name": "Synthetic Division",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4kpxozCsfHA1i3cOlwxn6y"
+  },
+  "0DcRMjrZ632sC9Od6wrZnY": {
+    "name": "Days Of Fate",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0DcRMjrZ632sC9Od6wrZnY"
+  },
+  "6KK4IApPdBRetEiRCristd": {
+    "name": "Edenfeld",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6KK4IApPdBRetEiRCristd"
+  },
+  "6CTxL0lPCkCRdnpOH5AKjj": {
+    "name": "Perapert\u00fa",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6CTxL0lPCkCRdnpOH5AKjj"
+  },
+  "6Dj3duHi3860XUVgCuEXGs": {
+    "name": "Arista Fiera",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6Dj3duHi3860XUVgCuEXGs"
+  },
+  "1Mph5fmhA2i5VUgLcVhSCa": {
+    "name": "Voicecoil",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1Mph5fmhA2i5VUgLcVhSCa"
+  },
+  "0mStgO4irjXPjp5vlbay4C": {
+    "name": "Hyperbubble",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0mStgO4irjXPjp5vlbay4C"
+  },
+  "4FPA6KMDgC2UA9W92VD5OU": {
+    "name": "\u0410\u043d\u043d\u0435 \u0412\u0435\u0441\u043a\u0438",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4FPA6KMDgC2UA9W92VD5OU"
+  },
+  "0TzaHjcLavIpy1JXy4ao68": {
+    "name": "Caisaron",
+    "genre": "synthpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/0TzaHjcLavIpy1JXy4ao68"
+  },
+  "4fY30VmU6LzXSUZ2z7keud": {
+    "name": "Radioaktivists",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/4fY30VmU6LzXSUZ2z7keud"
+  },
+  "1cavcpLFiZy0jOmKakoE0a": {
+    "name": "Alpha Point",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/1cavcpLFiZy0jOmKakoE0a"
+  },
+  "3hL5AjzFkfSpr3l5cxPN3O": {
+    "name": "Kik\u00ed d'Ak\u00ed",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/3hL5AjzFkfSpr3l5cxPN3O"
+  },
+  "65KgWbEiWnhB4sPb5VYl7x": {
+    "name": "Loewenhertz",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/65KgWbEiWnhB4sPb5VYl7x"
+  },
+  "4bx9lkHPIKy7FDsf7C6a9K": {
+    "name": "For All the Emptiness",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4bx9lkHPIKy7FDsf7C6a9K"
+  },
+  "1UvHiSGuGW2qenVe4TTvKA": {
+    "name": "Syntec",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1UvHiSGuGW2qenVe4TTvKA"
+  },
+  "1yLBEXfJjZxL2ttN5c0nRk": {
+    "name": "Pulcher Femina",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/1yLBEXfJjZxL2ttN5c0nRk"
+  },
+  "6MblysTZSkUomnJivFDjuw": {
+    "name": "Carved Souls",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/6MblysTZSkUomnJivFDjuw"
+  },
+  "3BZLhdjshG4wo2uoNm14Fv": {
+    "name": "Ravenous",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3BZLhdjshG4wo2uoNm14Fv"
+  },
+  "0rwpbs2Jd8ZOmnDNBSlxGo": {
+    "name": "Judah Warsky",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0rwpbs2Jd8ZOmnDNBSlxGo"
+  },
+  "2MiTRt7Is82KaHrCl31R6N": {
+    "name": "M.I.N.E",
+    "genre": "synthpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/2MiTRt7Is82KaHrCl31R6N"
+  },
+  "5UUETMH2dKFUYYgIR5Jfvl": {
+    "name": "Kapitan Nemo",
+    "genre": "synthpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/5UUETMH2dKFUYYgIR5Jfvl"
+  },
+  "2Q3G6QH742CWVrhNEOdUzo": {
+    "name": "A Spell Inside",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/2Q3G6QH742CWVrhNEOdUzo"
+  },
+  "66Rzcz1QWbE0ghHm18K0G2": {
+    "name": "Tyskarna Fr\u00e5n Lund",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/66Rzcz1QWbE0ghHm18K0G2"
+  },
+  "0NVnzJK5c5xk7KUN1QIZUX": {
+    "name": "Lost Messages",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/0NVnzJK5c5xk7KUN1QIZUX"
+  },
+  "6ulZf0dGE7VOtCkC5FIO1W": {
+    "name": "Elektrostaub",
+    "genre": "synthpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6ulZf0dGE7VOtCkC5FIO1W"
+  },
+  "3NQs3bcEfzNnZsaTafHSo8": {
+    "name": "Harmjoy",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3NQs3bcEfzNnZsaTafHSo8"
+  },
+  "4IpH8mDSgu4OxHXIT5989m": {
+    "name": "La M\u00e9canique",
+    "genre": "synthpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/4IpH8mDSgu4OxHXIT5989m"
+  },
+  "6HzXWSJKSGLFsHIzTEJ0PL": {
+    "name": "Beyond Obsession",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/6HzXWSJKSGLFsHIzTEJ0PL"
+  },
+  "6ifGMfMluKns8Y9MU0J3CS": {
+    "name": "Electrovot",
+    "genre": "synthpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6ifGMfMluKns8Y9MU0J3CS"
+  },
+  "6cTHUvgLPScdIs7tGBXVcn": {
+    "name": "Les Anges de la Nuit",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/6cTHUvgLPScdIs7tGBXVcn"
+  },
+  "4HQMII0VJGl2aEHJMd1G8b": {
+    "name": "Lemon^Fly",
+    "genre": "synthpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4HQMII0VJGl2aEHJMd1G8b"
+  },
+  "63EgCHxVX4GJ6SVbiAIsfx": {
+    "name": "Artefact",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/63EgCHxVX4GJ6SVbiAIsfx"
+  },
+  "3alLVmjCpZjimiuKWZfzBb": {
+    "name": "Ellos",
+    "genre": "synthpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3alLVmjCpZjimiuKWZfzBb"
+  },
+  "6eayoEH8C2XPwQNTfXQgW3": {
+    "name": "L Kan",
+    "genre": "synthpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/6eayoEH8C2XPwQNTfXQgW3"
+  },
+  "6W40ZCbVRDCEa9NqDwAc85": {
+    "name": "Perfect Human",
+    "genre": "synthpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6W40ZCbVRDCEa9NqDwAc85"
+  },
+  "2cA4dqrQXj6nMjjBwrmSI4": {
+    "name": "Dpoint",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2cA4dqrQXj6nMjjBwrmSI4"
+  },
+  "76ESfXUMD2KXRn6PvO1kW6": {
+    "name": "Chikiss",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/76ESfXUMD2KXRn6PvO1kW6"
+  },
+  "2yUrmSd5W9lNHIIEFauKlw": {
+    "name": "Gypsy and the Acid Queen",
+    "genre": "synthpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2yUrmSd5W9lNHIIEFauKlw"
+  },
+  "2YUKyyQJWfmIUwzqsmrZnw": {
+    "name": "Ultranoire",
+    "genre": "synthpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/2YUKyyQJWfmIUwzqsmrZnw"
+  },
+  "7CPK3vRcIukg4cGVze151v": {
+    "name": "Eight To Infinity",
+    "genre": "synthpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7CPK3vRcIukg4cGVze151v"
+  },
+  "6CrjeGkrK5n8dOXgKzimGJ": {
+    "name": "Fair Weather Friends",
+    "genre": "synthpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/6CrjeGkrK5n8dOXgKzimGJ"
+  }
+}

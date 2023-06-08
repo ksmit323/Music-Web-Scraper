@@ -1,0 +1,1622 @@
+{
+  "47Z8LEl3LnQkcpva0xSthT": {
+    "name": "The La's",
+    "genre": "britpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+  },
+  "0sHeX8oQ6o7xic3wMf4NBU": {
+    "name": "Supergrass",
+    "genre": "britpop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+  },
+  "0qLNsNKm8bQcMoRFkR8Hmh": {
+    "name": "James",
+    "genre": "britpop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+  },
+  "6xnvNmSzmeOE1bLKnYXKW3": {
+    "name": "The Specials",
+    "genre": "britpop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+  },
+  "2Q4FnG5T6NTUcAAZwuMV5K": {
+    "name": "Del Amitri",
+    "genre": "britpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K"
+  },
+  "6hl5k4gLl1p3sjhHcb57t2": {
+    "name": "Circa Waves",
+    "genre": "britpop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+  },
+  "3bUwxJgNakzYKkqAVgZLlh": {
+    "name": "Travis",
+    "genre": "britpop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+  },
+  "2DxlS3lTLFIq70S7ap5H3y": {
+    "name": "Buzzcocks",
+    "genre": "britpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+  },
+  "3ysp8GwsheDcBxP9q65lBg": {
+    "name": "Lush",
+    "genre": "britpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+  },
+  "2bA2YuQk2ID3PWNXUhQrWS": {
+    "name": "Johnny Marr",
+    "genre": "britpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+  },
+  "6Hd3xhv1sj3rlojjvGLkGR": {
+    "name": "Black Box Recorder",
+    "genre": "britpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR"
+  },
+  "39oSLGo3HkaeYXzUEGgAGQ": {
+    "name": "EMF",
+    "genre": "britpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
+  },
+  "3l14gV4hIMAjmo7KUvEWTx": {
+    "name": "Elastica",
+    "genre": "britpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+  },
+  "3wury2nd8idV4GecUg5xze": {
+    "name": "Primal Scream",
+    "genre": "britpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+  },
+  "5zhn89Em2jWUUWdpcLO3YL": {
+    "name": "Sea Power",
+    "genre": "britpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/5zhn89Em2jWUUWdpcLO3YL"
+  },
+  "6sN51vEARnAAdBw1IKZ8Q9": {
+    "name": "Liam Gallagher",
+    "genre": "britpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+  },
+  "0TJB3EE2efClsYIDQ8V2Jk": {
+    "name": "Elbow",
+    "genre": "britpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+  },
+  "4fSPtBgFPZzygkY6MehwQ7": {
+    "name": "The Libertines",
+    "genre": "britpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+  },
+  "1N2FgBLehaq77UEdJhCt7f": {
+    "name": "Saint Etienne",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+  },
+  "5Qlt3zQ63Z99mNhuun0JAT": {
+    "name": "Edwyn Collins",
+    "genre": "britpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+  },
+  "0roeI3yPusDWwWRzAqTopw": {
+    "name": "Jesus Jones",
+    "genre": "britpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
+  },
+  "6DKmuXxXASTF6xaJwcTfjv": {
+    "name": "Spiritualized",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+  },
+  "0dLSQG3IV62UNVhWUe6mx6": {
+    "name": "Gruff Rhys",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
+  },
+  "3Kf7VEIRWquxrNIuyJZnfF": {
+    "name": "Cornershop",
+    "genre": "britpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+  },
+  "0WPY9nnBy01s5QOt4o4oQX": {
+    "name": "Ride",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+  },
+  "0LVrQUinPUBFvVD5pLqmWY": {
+    "name": "Doves",
+    "genre": "britpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+  },
+  "4AzAfQNuAyKOFG4DZMsdAo": {
+    "name": "The Snuts",
+    "genre": "britpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+  },
+  "2LMR8u7DOMF0FBseDpTsRa": {
+    "name": "The Beta Band",
+    "genre": "britpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+  },
+  "70MMkLXtue3Edj3RJhJkYp": {
+    "name": "Public Image Ltd.",
+    "genre": "britpop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+  },
+  "06YQ6XwCdPUn8rAXV70gge": {
+    "name": "Republica",
+    "genre": "britpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+  },
+  "6OiHleP2bHM18dXq4aZQWt": {
+    "name": "The Coral",
+    "genre": "britpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+  },
+  "6GuRYj1MEnu1WZhDA2Xy0t": {
+    "name": "The London Suede",
+    "genre": "britpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+  },
+  "450iujbtN6XgiA9pv6fVZz": {
+    "name": "Razorlight",
+    "genre": "britpop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+  },
+  "2uH0RyPcX7fnCcT90HFDQX": {
+    "name": "Manic Street Preachers",
+    "genre": "britpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+  },
+  "13W7XLRXdWeLmIu9vacE1w": {
+    "name": "Jarvis Cocker",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+  },
+  "4zPGlyitRvJo7iz6OKlETa": {
+    "name": "Gomez",
+    "genre": "britpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/4zPGlyitRvJo7iz6OKlETa"
+  },
+  "0ZZr6Y49NZWRJc0uCwqpMR": {
+    "name": "Feeder",
+    "genre": "britpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+  },
+  "7Lf3LOZp3U3u2f6cWMd3AH": {
+    "name": "Paul Weller",
+    "genre": "britpop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+  },
+  "244fcyNSuyhbRlMGfMbYrO": {
+    "name": "Badly Drawn Boy",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+  },
+  "2evydP72Z45DouM4uMGsIE": {
+    "name": "Ash",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+  },
+  "7ueZp29tCNwjIj4yAMTEaC": {
+    "name": "Graham Coxon",
+    "genre": "britpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+  },
+  "5fScAXreYFnuqwOgBsJgSd": {
+    "name": "The Charlatans",
+    "genre": "britpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+  },
+  "67YNiSqhrx1P8oPvIIvbP5": {
+    "name": "The Lightning Seeds",
+    "genre": "britpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+  },
+  "51Eq6WMVEOjjx9KQMAnneG": {
+    "name": "The Cribs",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+  },
+  "4FPmAi3p4T3p0AsthfqHMA": {
+    "name": "The Primitives",
+    "genre": "britpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
+  },
+  "339DNkQkuhHKEcHw6oK8f0": {
+    "name": "Happy Mondays",
+    "genre": "britpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+  },
+  "77D38RDgCtlYNLpayStftL": {
+    "name": "The Housemartins",
+    "genre": "britpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
+  },
+  "4fomCZiFUMX73KJ0YQ0V90": {
+    "name": "The Beautiful South",
+    "genre": "britpop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90"
+  },
+  "1HGTHrRQkw0BtevSo1jucU": {
+    "name": "Richard Ashcroft",
+    "genre": "britpop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+  },
+  "6fHETUBbKmdmgybtFOFQuc": {
+    "name": "Dirty Pretty Things",
+    "genre": "britpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/6fHETUBbKmdmgybtFOFQuc"
+  },
+  "3xYNGCooNIzKMAtJYKSOyq": {
+    "name": "Electronic",
+    "genre": "britpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/3xYNGCooNIzKMAtJYKSOyq"
+  },
+  "048FBwXjFYBWxSggPDipic": {
+    "name": "Maximo Park",
+    "genre": "britpop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+  },
+  "6bGcpvHbRHg8s0wiNyIZK1": {
+    "name": "Kula Shaker",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+  },
+  "5BEYGWk6aPdNXxBx9pwU8S": {
+    "name": "The Soup Dragons",
+    "genre": "britpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/5BEYGWk6aPdNXxBx9pwU8S"
+  },
+  "1zrBQvkTNhFFby4V5UiK2L": {
+    "name": "Turin Brakes",
+    "genre": "britpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/1zrBQvkTNhFFby4V5UiK2L"
+  },
+  "0G8zjE6SsFTlbglCkU8pm3": {
+    "name": "Starsailor",
+    "genre": "britpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+  },
+  "5AX02tEFl85gnqkvzqeltP": {
+    "name": "Ned's Atomic Dustbin",
+    "genre": "britpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5AX02tEFl85gnqkvzqeltP"
+  },
+  "15QhuBSLfDNECfF8wvxj0M": {
+    "name": "The Mysterines",
+    "genre": "britpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+  },
+  "66nOkPJTFgK25NMmojG04V": {
+    "name": "The Bluetones",
+    "genre": "britpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V"
+  },
+  "6C0JkmxU2cgkVzotHJgfW7": {
+    "name": "Athlete",
+    "genre": "britpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/6C0JkmxU2cgkVzotHJgfW7"
+  },
+  "14Gi3Uph96lpNB3utkoVAD": {
+    "name": "Hard-FI",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+  },
+  "7EV6jW6dotBdvsHj6xPixi": {
+    "name": "The Divine Comedy",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/7EV6jW6dotBdvsHj6xPixi"
+  },
+  "1NfJU4hy56Z4UM4iyIa1B2": {
+    "name": "Courteeners",
+    "genre": "britpop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+  },
+  "191Koh7PSIi28IrGAGoINO": {
+    "name": "Reef",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
+  },
+  "0FOcXqJgJ1oq9XfzYTDZmZ": {
+    "name": "Super Furry Animals",
+    "genre": "britpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+  },
+  "6UYwzZChuolxsylHcZcBBP": {
+    "name": "The Boo Radleys",
+    "genre": "britpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP"
+  },
+  "3s398TKZNahAURRacx7oIT": {
+    "name": "Ian Brown",
+    "genre": "britpop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT"
+  },
+  "3TBfn8PtXr42OrTPaoC3E8": {
+    "name": "The Futureheads",
+    "genre": "britpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8"
+  },
+  "5vIOGcdmx1eIkq3ZtuS12U": {
+    "name": "Ocean Colour Scene",
+    "genre": "britpop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+  },
+  "7FPkZue0zzjHaOPJb4WCw3": {
+    "name": "The Pigeon Detectives",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+  },
+  "0IBAqjHG8DSaD7PPCGnGiZ": {
+    "name": "Babyshambles",
+    "genre": "britpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ"
+  },
+  "6ho33Vt1tjZyf8m7Z5NZhx": {
+    "name": "Gaz Coombes",
+    "genre": "britpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx"
+  },
+  "1dekSPU23UC5hw5b8Uxk9W": {
+    "name": "Dodgy",
+    "genre": "britpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+  },
+  "6PXYvMeTixxDzYAYugMlbg": {
+    "name": "The Lathums",
+    "genre": "britpop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+  },
+  "6IRQd80VHepXiTXdmBzk6l": {
+    "name": "Noel Gallagher",
+    "genre": "britpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l"
+  },
+  "4tfyTbsNNN5xfxKDwG4VfP": {
+    "name": "The House of Love",
+    "genre": "britpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP"
+  },
+  "76vZk3TWaVcNiP7H7in9fu": {
+    "name": "Space",
+    "genre": "britpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/76vZk3TWaVcNiP7H7in9fu"
+  },
+  "74K7bX12L8GBAWvPuyIgJ7": {
+    "name": "Embrace",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+  },
+  "5E704N5StxMVKpalhaJ5L3": {
+    "name": "The Shamen",
+    "genre": "britpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+  },
+  "0vBDEQ1aLZpe4zgn2fPH6Z": {
+    "name": "Cast",
+    "genre": "britpop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+  },
+  "0tYc0gVOzssZmLpVO6wh7L": {
+    "name": "The Thrills",
+    "genre": "britpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L"
+  },
+  "5yBDILLJyNFAjFpECkk7ys": {
+    "name": "Beady Eye",
+    "genre": "britpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/5yBDILLJyNFAjFpECkk7ys"
+  },
+  "2KB6LGMBaOYYYdvvgyptFH": {
+    "name": "Utah Saints",
+    "genre": "britpop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH"
+  },
+  "66GWpx9iLxrvvfhDsG9STP": {
+    "name": "Inspiral Carpets",
+    "genre": "britpop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
+  },
+  "0Uo1d5A6BR1I155GlD9WYo": {
+    "name": "The Wonder Stuff",
+    "genre": "britpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/0Uo1d5A6BR1I155GlD9WYo"
+  },
+  "147FGf3bdxV1L0mmVtgaJR": {
+    "name": "Black Grape",
+    "genre": "britpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/147FGf3bdxV1L0mmVtgaJR"
+  },
+  "1xdB9gS1NrKEYgZUEfoqIw": {
+    "name": "Idlewild",
+    "genre": "britpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw"
+  },
+  "1fy3AQc7grjf5LnCd7snSg": {
+    "name": "The View",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg"
+  },
+  "0NAPmlw3oOKJ3BD7qcjLdQ": {
+    "name": "Delays",
+    "genre": "britpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
+  },
+  "3iejrAcqxYoVgyxp6zkWgs": {
+    "name": "Shed Seven",
+    "genre": "britpop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+  },
+  "4Bgfzia8wyaGaTn42egzTv": {
+    "name": "Catatonia",
+    "genre": "britpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
+  },
+  "1o7zIbVAgDDHKijLVuLASg": {
+    "name": "Longpigs",
+    "genre": "britpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg"
+  },
+  "01ZP85CNi7Y9t1e0one46k": {
+    "name": "The Enemy",
+    "genre": "britpop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k"
+  },
+  "14GEKKALFIO2oB9IdGXg2e": {
+    "name": "Reverend And The Makers",
+    "genre": "britpop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e"
+  },
+  "3wChfsJPsUnjVHXc79wRN1": {
+    "name": "Shampoo",
+    "genre": "britpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/3wChfsJPsUnjVHXc79wRN1"
+  },
+  "7rqRuB0wgUaStDN73PlV4U": {
+    "name": "Mansun",
+    "genre": "britpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U"
+  },
+  "5Rsu72e1qrjIUtxH6Zmy9K": {
+    "name": "Gene",
+    "genre": "britpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/5Rsu72e1qrjIUtxH6Zmy9K"
+  },
+  "4IT7CS5foj1DTNHT7fjFx2": {
+    "name": "The Music",
+    "genre": "britpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2"
+  },
+  "6bEiU0j4lC3yh2D1kHzFpb": {
+    "name": "Echobelly",
+    "genre": "britpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/6bEiU0j4lC3yh2D1kHzFpb"
+  },
+  "0NbfEPYRgMczimdfM3skmH": {
+    "name": "Sleeper",
+    "genre": "britpop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH"
+  },
+  "1QCANeffsBIHjzhMqUIxBh": {
+    "name": "Babybird",
+    "genre": "britpop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+  },
+  "0uuWKORLosOJB3L6D7zplX": {
+    "name": "THE GOA EXPRESS",
+    "genre": "britpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX"
+  },
+  "3mbVe260Kgvs1P8YFcCyY7": {
+    "name": "The Seahorses",
+    "genre": "britpop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/3mbVe260Kgvs1P8YFcCyY7"
+  },
+  "3Sr1muUE6DYihFufoHpnfc": {
+    "name": "The Rifles",
+    "genre": "britpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/3Sr1muUE6DYihFufoHpnfc"
+  },
+  "0mUufv9jrIi9BPpN9VHduc": {
+    "name": "Andrew Cushin",
+    "genre": "britpop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/0mUufv9jrIi9BPpN9VHduc"
+  },
+  "5ShFRZUGJZL1qMkIPtYV5M": {
+    "name": "Gorky's Zygotic Mynci",
+    "genre": "britpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5ShFRZUGJZL1qMkIPtYV5M"
+  },
+  "5ya7iEj2gouDgi5aFiA1e8": {
+    "name": "Voodoos",
+    "genre": "britpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/5ya7iEj2gouDgi5aFiA1e8"
+  },
+  "5EtBXjUUyPJmiljpRdN6RJ": {
+    "name": "The Auteurs",
+    "genre": "britpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+  },
+  "6PHIK3kjWggLtVygsOtpqS": {
+    "name": "Suede",
+    "genre": "britpop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+  },
+  "5RFBPz01PqvSQ1QhEgaxOp": {
+    "name": "Carter The Unstoppable Sex Machine",
+    "genre": "britpop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/5RFBPz01PqvSQ1QhEgaxOp"
+  },
+  "1FyWJKlJcfIpr2By1X4ydv": {
+    "name": "Breezer",
+    "genre": "britpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/1FyWJKlJcfIpr2By1X4ydv"
+  },
+  "6e9SSxr2JLtmWJ5eZTiTUk": {
+    "name": "The Public Eye",
+    "genre": "britpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6e9SSxr2JLtmWJ5eZTiTUk"
+  },
+  "2xPxXPgmZFs7x6xRFpHwkq": {
+    "name": "The Ordinary Boys",
+    "genre": "britpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2xPxXPgmZFs7x6xRFpHwkq"
+  },
+  "1bBOtBckF5NVFqM28isBa2": {
+    "name": "PleasureInc.",
+    "genre": "britpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/1bBOtBckF5NVFqM28isBa2"
+  },
+  "28pqwEjm2WDueRWP4AjA1x": {
+    "name": "Bernard Butler",
+    "genre": "britpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/28pqwEjm2WDueRWP4AjA1x"
+  },
+  "5OTjkVz0Cc9IuaQC3U1Pqq": {
+    "name": "The Mock Turtles",
+    "genre": "britpop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5OTjkVz0Cc9IuaQC3U1Pqq"
+  },
+  "1ZR0dcIadRVG1CUKoYkc7p": {
+    "name": "Public Order",
+    "genre": "britpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/1ZR0dcIadRVG1CUKoYkc7p"
+  },
+  "4XXPISOGgSdxCSQjK0XOBP": {
+    "name": "Blackbirds",
+    "genre": "britpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/4XXPISOGgSdxCSQjK0XOBP"
+  },
+  "3SRTWBeGhX3o5DCQ2zzTdI": {
+    "name": "Dubstar",
+    "genre": "britpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/3SRTWBeGhX3o5DCQ2zzTdI"
+  },
+  "6B6d0AGSEYsweJ1siqwyZb": {
+    "name": "The Sway",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb"
+  },
+  "2f7VJ37O9YUj6kpMKph9YC": {
+    "name": "Cherry Ghost",
+    "genre": "britpop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/2f7VJ37O9YUj6kpMKph9YC"
+  },
+  "4IPPxhNko81s8pZsgyYhYW": {
+    "name": "Afflecks Palace",
+    "genre": "britpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW"
+  },
+  "1aIozCeQrpKipbEdkGtr0j": {
+    "name": "Paul Heaton",
+    "genre": "britpop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j"
+  },
+  "3pUiNPLwDNM46B8BdRspFW": {
+    "name": "Shack",
+    "genre": "britpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/3pUiNPLwDNM46B8BdRspFW"
+  },
+  "6aVs7hKSqbqwzojU6D7vVY": {
+    "name": "Steve Cradock",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6aVs7hKSqbqwzojU6D7vVY"
+  },
+  "1goerABWhGQPWKhMCZeJ68": {
+    "name": "Tim Burgess",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/1goerABWhGQPWKhMCZeJ68"
+  },
+  "69EITyRImp22fWpGYQa7Fn": {
+    "name": "The Sheratons",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/69EITyRImp22fWpGYQa7Fn"
+  },
+  "19t4krGrwyr10giUMdv8BK": {
+    "name": "The Twang",
+    "genre": "britpop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/19t4krGrwyr10giUMdv8BK"
+  },
+  "7uhNprgXG8aaMqUP256QTM": {
+    "name": "The Crooks",
+    "genre": "britpop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7uhNprgXG8aaMqUP256QTM"
+  },
+  "3jNwnthjUjHYvjyvRGfWuQ": {
+    "name": "Terrorvision",
+    "genre": "britpop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/3jNwnthjUjHYvjyvRGfWuQ"
+  },
+  "0BV7lpkyFTbzzML7DuUnpZ": {
+    "name": "McAlmont & Butler",
+    "genre": "britpop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/0BV7lpkyFTbzzML7DuUnpZ"
+  },
+  "5KZSVZ1Y6B0D1vamrn8IGm": {
+    "name": "New Fast Automatic Daffodils",
+    "genre": "britpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/5KZSVZ1Y6B0D1vamrn8IGm"
+  },
+  "0AzjiMoCvzOmUCPX7944dZ": {
+    "name": "Apollo Junction",
+    "genre": "britpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ"
+  },
+  "2g8z9TAhdTAgdvv5LQgmah": {
+    "name": "The Real People",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/2g8z9TAhdTAgdvv5LQgmah"
+  },
+  "2gv2g5svhtzsUQhtNZW7Xr": {
+    "name": "Northside",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/2gv2g5svhtzsUQhtNZW7Xr"
+  },
+  "0ndVVO80abvgGgjv2ICzct": {
+    "name": "Brett Anderson",
+    "genre": "britpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0ndVVO80abvgGgjv2ICzct"
+  },
+  "6vMDsKUbY5Rs1oG27dAUIi": {
+    "name": "Hurricane #1",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6vMDsKUbY5Rs1oG27dAUIi"
+  },
+  "45Tlc11sM7ZCtAkCA9Nrx9": {
+    "name": "Pastel",
+    "genre": "britpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/45Tlc11sM7ZCtAkCA9Nrx9"
+  },
+  "1arQYOWtxuQW27WR299gT3": {
+    "name": "James Dean Bradfield",
+    "genre": "britpop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/1arQYOWtxuQW27WR299gT3"
+  },
+  "2Zy8a1P2tEwHdQK56s0v8T": {
+    "name": "Cucamaras",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T"
+  },
+  "5Zxk4WkmkKRjPyjmmCRAUR": {
+    "name": "Shambolics",
+    "genre": "britpop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR"
+  },
+  "5eTZsi8vuwdtA0SLEe3GZl": {
+    "name": "The Tears",
+    "genre": "britpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/5eTZsi8vuwdtA0SLEe3GZl"
+  },
+  "414ztMLgMt8KAC6Ap5IZtN": {
+    "name": "Menswear",
+    "genre": "britpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/414ztMLgMt8KAC6Ap5IZtN"
+  },
+  "3JEZFF5iZhEtpeTTGSzWid": {
+    "name": "Rialto",
+    "genre": "britpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/3JEZFF5iZhEtpeTTGSzWid"
+  },
+  "3TUs2HFbbIXkbmH8Sb0SMm": {
+    "name": "Rosellas",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/3TUs2HFbbIXkbmH8Sb0SMm"
+  },
+  "2ngmfPvH3LUeSGOX0kXIgi": {
+    "name": "The Dream Machine",
+    "genre": "britpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2ngmfPvH3LUeSGOX0kXIgi"
+  },
+  "11AkBmwCjqWISY2MRhlhhM": {
+    "name": "Kingmaker",
+    "genre": "britpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/11AkBmwCjqWISY2MRhlhhM"
+  },
+  "40L8nrRncQJuunJJ0sEfOz": {
+    "name": "Coco and the Lost",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/40L8nrRncQJuunJJ0sEfOz"
+  },
+  "7aK3HPZsL7YboqDz7EB2uy": {
+    "name": "Denim",
+    "genre": "britpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/7aK3HPZsL7YboqDz7EB2uy"
+  },
+  "5JpCpVY5QQa9oAhJMpu7FJ": {
+    "name": "The Electric Soft Parade",
+    "genre": "britpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/5JpCpVY5QQa9oAhJMpu7FJ"
+  },
+  "6kKfc2LmGIhmARkBTyWhQE": {
+    "name": "Cud",
+    "genre": "britpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/6kKfc2LmGIhmARkBTyWhQE"
+  },
+  "6mn6Zo1UCpIj2Hx4DgESkK": {
+    "name": "The Institutes",
+    "genre": "britpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6mn6Zo1UCpIj2Hx4DgESkK"
+  },
+  "34fqmmrMAXDKVJrqHA6MlK": {
+    "name": "Parliamo",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/34fqmmrMAXDKVJrqHA6MlK"
+  },
+  "35JKNvUq0psVOfTM7f9vrh": {
+    "name": "Marion",
+    "genre": "britpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/35JKNvUq0psVOfTM7f9vrh"
+  },
+  "12mJ3cmu4esPp9L3CYMQhd": {
+    "name": "The Supernaturals",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/12mJ3cmu4esPp9L3CYMQhd"
+  },
+  "4n5EAJdyYoV39m98N4lgWr": {
+    "name": "Thousand Yard Stare",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4n5EAJdyYoV39m98N4lgWr"
+  },
+  "0Eys3lkbll8zQSoem1gxvf": {
+    "name": "Silver Sun",
+    "genre": "britpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/0Eys3lkbll8zQSoem1gxvf"
+  },
+  "1VtneCNqtX2GoZB9S7Ne0r": {
+    "name": "Salad",
+    "genre": "britpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/1VtneCNqtX2GoZB9S7Ne0r"
+  },
+  "6ZHfuZhV3q15jxpOY8S1m6": {
+    "name": "Balancing Act",
+    "genre": "britpop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+  },
+  "6zEu8fRL48KCcp63YVG3qR": {
+    "name": "The Kairos",
+    "genre": "britpop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6zEu8fRL48KCcp63YVG3qR"
+  },
+  "0rcNMmBMbi0aBCalbO4lPB": {
+    "name": "Flowered Up",
+    "genre": "britpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/0rcNMmBMbi0aBCalbO4lPB"
+  },
+  "1MYFjuZCeaLHDnT5iTy4Q5": {
+    "name": "SRC",
+    "genre": "britpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1MYFjuZCeaLHDnT5iTy4Q5"
+  },
+  "27TZ3PeOHJ6y6iiRqZsiGW": {
+    "name": "Spangled",
+    "genre": "britpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/27TZ3PeOHJ6y6iiRqZsiGW"
+  },
+  "4H3WhTcIQZlHHBXQxWKFYa": {
+    "name": "Stanleys",
+    "genre": "britpop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/4H3WhTcIQZlHHBXQxWKFYa"
+  },
+  "0Hx2nIHDcfguu4VAZWdzTa": {
+    "name": "3 Colours Red",
+    "genre": "britpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/0Hx2nIHDcfguu4VAZWdzTa"
+  },
+  "3lEdEHlb1g3ru9TY2bhBcM": {
+    "name": "Creeping Jean",
+    "genre": "britpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/3lEdEHlb1g3ru9TY2bhBcM"
+  },
+  "60gR4kbjzGaf89kmk2l1wU": {
+    "name": "The Peach Fuzz",
+    "genre": "britpop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/60gR4kbjzGaf89kmk2l1wU"
+  },
+  "0ZcFPVW9Pyqh1VSK0w38Sv": {
+    "name": "The Chase",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/0ZcFPVW9Pyqh1VSK0w38Sv"
+  },
+  "42T2AYtDajSQNqgtF52zXA": {
+    "name": "Big Image",
+    "genre": "britpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/42T2AYtDajSQNqgtF52zXA"
+  },
+  "6yG0k5r13th34248rCB8Bz": {
+    "name": "Kenickie",
+    "genre": "britpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6yG0k5r13th34248rCB8Bz"
+  },
+  "2Ib4DzlsYtSdCYGgmkLQvk": {
+    "name": "Thur-Man",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2Ib4DzlsYtSdCYGgmkLQvk"
+  },
+  "2tRKM0EEvpWTlC1JnJiKyA": {
+    "name": "Dawn Of The Replicants",
+    "genre": "britpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2tRKM0EEvpWTlC1JnJiKyA"
+  },
+  "4gQKDy8VP8afrFyive5ore": {
+    "name": "Northern Uproar",
+    "genre": "britpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/4gQKDy8VP8afrFyive5ore"
+  },
+  "1cFIgop2t8jZzlM7TVePLY": {
+    "name": "Puressence",
+    "genre": "britpop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/1cFIgop2t8jZzlM7TVePLY"
+  },
+  "4QCR8SHwFZ3ecGZww4Gq3g": {
+    "name": "HEAVY STEREO",
+    "genre": "britpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/4QCR8SHwFZ3ecGZww4Gq3g"
+  },
+  "5yXYOFjsnlYnPXWUHFWqdM": {
+    "name": "Geneva",
+    "genre": "britpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/5yXYOFjsnlYnPXWUHFWqdM"
+  },
+  "6arQFFRjYKcJzEsULbKnzD": {
+    "name": "Strangelove",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/6arQFFRjYKcJzEsULbKnzD"
+  },
+  "7EvHlnAU8rIQ9v1cilzh5P": {
+    "name": "These Animal Men",
+    "genre": "britpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/7EvHlnAU8rIQ9v1cilzh5P"
+  },
+  "5Z3XPzd6Bo6Zn0rpI15e2F": {
+    "name": "Seabirds",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5Z3XPzd6Bo6Zn0rpI15e2F"
+  },
+  "4jTo45pAloDDTz4O6K8nJp": {
+    "name": "The Mood",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4jTo45pAloDDTz4O6K8nJp"
+  },
+  "385r1oV3CrnIt7CvF5GOoy": {
+    "name": "SILK",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/385r1oV3CrnIt7CvF5GOoy"
+  },
+  "2Btlqb6kL4COXziVBaDcDz": {
+    "name": "Stellar",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2Btlqb6kL4COXziVBaDcDz"
+  },
+  "3mVbUuiMer3s4bz8Mhr7AL": {
+    "name": "Wilde",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3mVbUuiMer3s4bz8Mhr7AL"
+  },
+  "2pLEr3j0uwou44phfE7dTD": {
+    "name": "Watermark",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2pLEr3j0uwou44phfE7dTD"
+  },
+  "62EQw8sTODqKLF0y2XRBUy": {
+    "name": "The Drift",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/62EQw8sTODqKLF0y2XRBUy"
+  },
+  "27FQGNAnR4VwbXJjdQaymN": {
+    "name": "Maystones",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/27FQGNAnR4VwbXJjdQaymN"
+  },
+  "3uJmqToktLkZakgKhjjz68": {
+    "name": "The Young",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3uJmqToktLkZakgKhjjz68"
+  },
+  "2N83BKSDnHCfcNiWbr1F82": {
+    "name": "The Kendos",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2N83BKSDnHCfcNiWbr1F82"
+  },
+  "4KtfoFpb39qGMFnCyhc31F": {
+    "name": "Painted Places",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4KtfoFpb39qGMFnCyhc31F"
+  },
+  "1c9wYXBILUxLOHrioRzofb": {
+    "name": "Yakumama",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1c9wYXBILUxLOHrioRzofb"
+  },
+  "3Y5aQPQDvrbE5SLH0xYS0A": {
+    "name": "SWAN",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3Y5aQPQDvrbE5SLH0xYS0A"
+  },
+  "0fryBrDpOWoAvEpDrYvQQI": {
+    "name": "The Establishment",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0fryBrDpOWoAvEpDrYvQQI"
+  },
+  "02p0GLfDKY7sIjoEYvTvDo": {
+    "name": "Peach St",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/02p0GLfDKY7sIjoEYvTvDo"
+  },
+  "4KjwR5m5GUyquXMZ9mPrar": {
+    "name": "The Dukes",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4KjwR5m5GUyquXMZ9mPrar"
+  },
+  "6YNNwsYxanoAwz4VBsaeql": {
+    "name": "WISDOMTRIP",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6YNNwsYxanoAwz4VBsaeql"
+  },
+  "4hKxQAHZQ8GVdaNWVBZ9oQ": {
+    "name": "Republic",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4hKxQAHZQ8GVdaNWVBZ9oQ"
+  },
+  "3lJJDJKLFCnRwOq62r6wo7": {
+    "name": "Juvenal",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3lJJDJKLFCnRwOq62r6wo7"
+  },
+  "2WOc5DHCGcbpvzjtH34jnf": {
+    "name": "Balado",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2WOc5DHCGcbpvzjtH34jnf"
+  },
+  "60YOJN4IDaiksBzXsSOLTH": {
+    "name": "The Superlatives",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/60YOJN4IDaiksBzXsSOLTH"
+  },
+  "6KgyCMml1YUeYHiJJfnLG3": {
+    "name": "The Wraiths",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6KgyCMml1YUeYHiJJfnLG3"
+  },
+  "3rr4jNViICgom7zvtenHko": {
+    "name": "Intervene",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3rr4jNViICgom7zvtenHko"
+  },
+  "3KSwwKD3zLrIRcaaP5vmvM": {
+    "name": "The Baines",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3KSwwKD3zLrIRcaaP5vmvM"
+  },
+  "0x524xAuAtyguOmK9XTW98": {
+    "name": "The Marbellas",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0x524xAuAtyguOmK9XTW98"
+  },
+  "4me9fo0POf5vklfZAewUey": {
+    "name": "Riviera",
+    "genre": "britpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4me9fo0POf5vklfZAewUey"
+  },
+  "7CJZXjvzbBqTju9tA8SalB": {
+    "name": "The Thieves",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7CJZXjvzbBqTju9tA8SalB"
+  },
+  "6sXLJfH5OQaSNNvkeF8PLU": {
+    "name": "Strines",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6sXLJfH5OQaSNNvkeF8PLU"
+  },
+  "1PRiHUCe9uk8PKSGG9TkWq": {
+    "name": "Plain Navy",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1PRiHUCe9uk8PKSGG9TkWq"
+  },
+  "0hzwozNdZq4Ra8d7P8sCh3": {
+    "name": "Usual Affairs",
+    "genre": "britpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/0hzwozNdZq4Ra8d7P8sCh3"
+  },
+  "2SpbDOWO76qyvwZRcd3dk1": {
+    "name": "The Dots",
+    "genre": "britpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2SpbDOWO76qyvwZRcd3dk1"
+  },
+  "3kA0sTsJImQSkMSWpuaPJI": {
+    "name": "Cressa",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3kA0sTsJImQSkMSWpuaPJI"
+  },
+  "0rhyqxlFuUGEZBv7aNU5Rc": {
+    "name": "Lapels",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0rhyqxlFuUGEZBv7aNU5Rc"
+  },
+  "4H2GpfekweNFvjQx4ioYYs": {
+    "name": "The Flitz",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4H2GpfekweNFvjQx4ioYYs"
+  },
+  "7IAFQIKeKGEiLyKPH69QUM": {
+    "name": "Segarra",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7IAFQIKeKGEiLyKPH69QUM"
+  },
+  "1Vb6uZYC5xi0FTG4cmkc3T": {
+    "name": "The Stride",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1Vb6uZYC5xi0FTG4cmkc3T"
+  },
+  "6dG9G66s5y7ykCoNiasYhh": {
+    "name": "Shackites",
+    "genre": "britpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/6dG9G66s5y7ykCoNiasYhh"
+  },
+  "5st59Nv9wngpXupbYqpMc1": {
+    "name": "The Continental Phase",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5st59Nv9wngpXupbYqpMc1"
+  },
+  "4C2DB5h8S3poJiM4YYDEjU": {
+    "name": "The Voyd",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4C2DB5h8S3poJiM4YYDEjU"
+  },
+  "5XjiWPmRGgU6FdRoHYHA90": {
+    "name": "Vela Incident",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5XjiWPmRGgU6FdRoHYHA90"
+  },
+  "4yHEA2FCCDrt8qp13mie2v": {
+    "name": "The Malakites",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/4yHEA2FCCDrt8qp13mie2v"
+  },
+  "1W8IEZPIlu9bDleZhxbEZQ": {
+    "name": "Garden Party",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/1W8IEZPIlu9bDleZhxbEZQ"
+  },
+  "6RNanQa9a1mAzB31n0DoNX": {
+    "name": "BLOOM",
+    "genre": "britpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6RNanQa9a1mAzB31n0DoNX"
+  },
+  "6wSP0pMJYDu0xbdtBn6Po1": {
+    "name": "The Silver Bars",
+    "genre": "britpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/6wSP0pMJYDu0xbdtBn6Po1"
+  },
+  "4Z8P84mFYvWBXkeL2qFpcg": {
+    "name": "Vega Rally",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4Z8P84mFYvWBXkeL2qFpcg"
+  },
+  "4hZ656S1AjXiDPN19f4Bim": {
+    "name": "The Collectors",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4hZ656S1AjXiDPN19f4Bim"
+  },
+  "474ToGtB6fq9h94HDCGVDd": {
+    "name": "The Dulvertons",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/474ToGtB6fq9h94HDCGVDd"
+  },
+  "6EuOHKKHN8mLHVwlKli6zE": {
+    "name": "Shadows Of A Silhouette",
+    "genre": "britpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/6EuOHKKHN8mLHVwlKli6zE"
+  },
+  "0JXui43zkrVOWUwYVHTOHa": {
+    "name": "Jonny Ash",
+    "genre": "britpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0JXui43zkrVOWUwYVHTOHa"
+  },
+  "3PASAtwBkcXpUDw6CxjKMZ": {
+    "name": "The Rafters",
+    "genre": "britpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3PASAtwBkcXpUDw6CxjKMZ"
+  },
+  "3hDHh6cKfOoXDRShFJiyBT": {
+    "name": "The Utopiates",
+    "genre": "britpop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3hDHh6cKfOoXDRShFJiyBT"
+  },
+  "4NJT8WEtohHoAqhdzSxdNv": {
+    "name": "The Underclass",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4NJT8WEtohHoAqhdzSxdNv"
+  },
+  "3RhvmOR4XRxcjjKLur19EB": {
+    "name": "Nile Marr",
+    "genre": "britpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/3RhvmOR4XRxcjjKLur19EB"
+  },
+  "4bZPVDKzqdn3KLykXrj00P": {
+    "name": "Senseless Things",
+    "genre": "britpop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/4bZPVDKzqdn3KLykXrj00P"
+  },
+  "53gi1kqCARDlWxsHc644uy": {
+    "name": "Greedy Soul",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/53gi1kqCARDlWxsHc644uy"
+  },
+  "1g24vMdo0pCcRhUpHuw9ah": {
+    "name": "Rosa Caelum",
+    "genre": "britpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1g24vMdo0pCcRhUpHuw9ah"
+  },
+  "1a321Fa7q83uNrOMhNsNtV": {
+    "name": "The Cavs",
+    "genre": "britpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/1a321Fa7q83uNrOMhNsNtV"
+  },
+  "5mWyDL5KhYDAQf08gPqwpy": {
+    "name": "The Bracknall",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/5mWyDL5KhYDAQf08gPqwpy"
+  },
+  "3RcRQvnGYuY8dyIROokwNi": {
+    "name": "Apostles",
+    "genre": "britpop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3RcRQvnGYuY8dyIROokwNi"
+  },
+  "1uLjBnFTDWAEVwhxZ4TKxu": {
+    "name": "ROLLA",
+    "genre": "britpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/1uLjBnFTDWAEVwhxZ4TKxu"
+  },
+  "0CKzwR7ixevIfFPRD9NnbM": {
+    "name": "Marseille",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/0CKzwR7ixevIfFPRD9NnbM"
+  },
+  "2v7aah3jXxswDFbHS1W2yX": {
+    "name": "The Sprats",
+    "genre": "britpop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2v7aah3jXxswDFbHS1W2yX"
+  },
+  "6a8ZPkxrrt7j2JZG03MjMM": {
+    "name": "The Silver Lines",
+    "genre": "britpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/6a8ZPkxrrt7j2JZG03MjMM"
+  },
+  "3qVzrto6VShlfsO1eZIr30": {
+    "name": "Civic Green",
+    "genre": "britpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/3qVzrto6VShlfsO1eZIr30"
+  },
+  "3zyWUjbOrxSWOryyDVKdWr": {
+    "name": "Columbia",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/3zyWUjbOrxSWOryyDVKdWr"
+  },
+  "6JYSuMhap1mXgByUXxEHb7": {
+    "name": "The Ruby Tuesdays",
+    "genre": "britpop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/6JYSuMhap1mXgByUXxEHb7"
+  },
+  "7haDPJHWbvWwhYGKDa7GP0": {
+    "name": "SHADE",
+    "genre": "britpop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/7haDPJHWbvWwhYGKDa7GP0"
+  },
+  "2dbMpEt3a7Max3VNxhtY13": {
+    "name": "Flechettes",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/2dbMpEt3a7Max3VNxhtY13"
+  },
+  "5mNQ5IIvwRhcLKP0QSZNOq": {
+    "name": "The Rah's",
+    "genre": "britpop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/5mNQ5IIvwRhcLKP0QSZNOq"
+  },
+  "0mwb8D8fSvEQiEzpOIbRDR": {
+    "name": "The Denabys",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/0mwb8D8fSvEQiEzpOIbRDR"
+  },
+  "68SAbVZTOYyugZjBsLqDOf": {
+    "name": "The Shakes",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/68SAbVZTOYyugZjBsLqDOf"
+  },
+  "13nU6zjpGcgtEfvYP2W1Cl": {
+    "name": "The Orders",
+    "genre": "britpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/13nU6zjpGcgtEfvYP2W1Cl"
+  },
+  "6wsLLtTC30cVoWIpjFX8xx": {
+    "name": "ALRIGHT",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx"
+  },
+  "6sqc5lrCbcsjjpTAp6m6cH": {
+    "name": "FEVER",
+    "genre": "britpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6sqc5lrCbcsjjpTAp6m6cH"
+  },
+  "1yeyjcs7EzTRmZNJo7HNTr": {
+    "name": "The Dirty English",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/1yeyjcs7EzTRmZNJo7HNTr"
+  },
+  "2KH02FBsMyI9CwOtZEaLpV": {
+    "name": "Theaudience",
+    "genre": "britpop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/2KH02FBsMyI9CwOtZEaLpV"
+  },
+  "6PbCYw3l3rl6r0jHyy5OaN": {
+    "name": "60 Ft Dolls",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6PbCYw3l3rl6r0jHyy5OaN"
+  },
+  "3veCPp8rK1z3KSwQQcxzRC": {
+    "name": "My Life Story",
+    "genre": "britpop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3veCPp8rK1z3KSwQQcxzRC"
+  },
+  "50NFbAjuFMVLCdr6GN21vE": {
+    "name": "Motel Thieves",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/50NFbAjuFMVLCdr6GN21vE"
+  },
+  "2hqiN72qqxLCWxAOqsxNoP": {
+    "name": "The Rosadocs",
+    "genre": "britpop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/2hqiN72qqxLCWxAOqsxNoP"
+  },
+  "3353dBzQgdXG2Vs6etnnPn": {
+    "name": "Ruvellas",
+    "genre": "britpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3353dBzQgdXG2Vs6etnnPn"
+  },
+  "27Nd3Cc5myGAchCaru52Uz": {
+    "name": "Rolling Thunder",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/27Nd3Cc5myGAchCaru52Uz"
+  },
+  "5NZgJp5cw4hWH50sqZXcLj": {
+    "name": "Shader",
+    "genre": "britpop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/5NZgJp5cw4hWH50sqZXcLj"
+  },
+  "49uNJcvMErNzm3cQ6rbdGw": {
+    "name": "Serotones",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/49uNJcvMErNzm3cQ6rbdGw"
+  },
+  "1FJcfoNiQ047d9somuf2cq": {
+    "name": "The Juice",
+    "genre": "britpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1FJcfoNiQ047d9somuf2cq"
+  },
+  "1cmJ1Wa8DKeF9cEv791SFs": {
+    "name": "The Asuras",
+    "genre": "britpop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/1cmJ1Wa8DKeF9cEv791SFs"
+  },
+  "6yu8SxKRrRPVCGrY4xk3sD": {
+    "name": "Cleargreen",
+    "genre": "britpop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6yu8SxKRrRPVCGrY4xk3sD"
+  },
+  "2p7JPLCajRCHRoYgD7gvxy": {
+    "name": "Dirty Laces",
+    "genre": "britpop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/2p7JPLCajRCHRoYgD7gvxy"
+  },
+  "6gtC2kWfwUgJf1FL8fnwnb": {
+    "name": "The Illicits",
+    "genre": "britpop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/6gtC2kWfwUgJf1FL8fnwnb"
+  },
+  "4ZM9oq4jFXFnBpAfoC3xBa": {
+    "name": "The Outcharms",
+    "genre": "britpop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/4ZM9oq4jFXFnBpAfoC3xBa"
+  },
+  "7uO6bPS0yAUPm3jjm1aitC": {
+    "name": "The Assist",
+    "genre": "britpop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7uO6bPS0yAUPm3jjm1aitC"
+  },
+  "24s02YIeoztDshwkv7XcRu": {
+    "name": "The Rotanas",
+    "genre": "britpop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/24s02YIeoztDshwkv7XcRu"
+  }
+}

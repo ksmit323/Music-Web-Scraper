@@ -1,0 +1,11 @@
+- Need to address country code validity. Maybe find a way to get rid of this altogether.
+
+- Need to look into eliminating the country parameter in has_recent_track function
+
+- Combine post processing and main.py files
+
+- Investigate the tag:hipster filter for searching artists.  Can only be used to search for albums
+but it searches the lower level popularity
+
+- Put in a condition to prevent email duplicates
+

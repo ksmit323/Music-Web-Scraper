@@ -1,0 +1,1 @@
+04/06/2023 - Changed scrape_urls.py to setup and close the Selenium driver after looping through all the links instead of each time. 

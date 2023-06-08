@@ -1,0 +1,4538 @@
+{
+  "4xnMDfgEmXZEEDdITKcGuE": {
+    "name": "Audien",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+  },
+  "5wugb0kaq0J6nyQ5Xgd17i": {
+    "name": "Aly & AJ",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+  },
+  "2Hjj68yyUPiC0HKEOigcEp": {
+    "name": "Jesse McCartney",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
+  },
+  "066X20Nz7iquqkkCW6Jxy6": {
+    "name": "LCD Soundsystem",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+  },
+  "7352aRY2mqSxBZwzUb6LmA": {
+    "name": "Bow Wow",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+  },
+  "3hyEbRtp617pNCuuQjyOmc": {
+    "name": "Lost Kings",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+  },
+  "0jNDKefhfSbLR9sFvcPLHo": {
+    "name": "San Holo",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+  },
+  "6jTnHxhb6cDCaCu4rdvsQ0": {
+    "name": "Hot Chelle Rae",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0"
+  },
+  "6Jrxnp0JgqmeUX1veU591p": {
+    "name": "Santigold",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+  },
+  "6u11Qbko2N2hP4lTBYjX86": {
+    "name": "Peter Bjorn and John",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+  },
+  "0DdDnziut7wOo6cAYWVZC5": {
+    "name": "KREAM",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+  },
+  "2S9W9aSAd7e5mp8WqWxN2h": {
+    "name": "Hilary Duff",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+  },
+  "4pb4rqWSoGUgxm63xmJ8xc": {
+    "name": "Madeon",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+  },
+  "0Cd6nHYwecCNM1sVEXKlYr": {
+    "name": "Krewella",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+  },
+  "1KpCi9BOfviCVhmpI4G2sY": {
+    "name": "Tchami",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+  },
+  "1HxJeLhIuegM3KgvPn8sTa": {
+    "name": "Jack \u00dc",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+  },
+  "5vQfv3s2Z2SRdPZKr82ABw": {
+    "name": "Dzeko",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+  },
+  "5CdJjUi9f0cVgo9nFuJrFa": {
+    "name": "Adventure Club",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+  },
+  "5xeBMeW0YzWIXSVzAxhM8O": {
+    "name": "of Montreal",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+  },
+  "1N9n8MSxrr4Emhb566493b": {
+    "name": "Morgan Page",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+  },
+  "0t3QQl52F463sxGXb1ckhB": {
+    "name": "Betty Who",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+  },
+  "35GL8Cu2GKTcHzKGi75xl5": {
+    "name": "Jennifer Hudson",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+  },
+  "4l1cKWYW591xnwEGxpUg3J": {
+    "name": "Miike Snow",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+  },
+  "3HJIB8sYPyxrFGuwvKXSLR": {
+    "name": "TV On The Radio",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+  },
+  "3C8RpaI3Go0yFF9whvKoED": {
+    "name": "The Avalanches",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+  },
+  "1BhWF9W2PngtPSyobKg0rP": {
+    "name": "Pia Mia",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+  },
+  "530Sdm7eqqzWBdDmILMgnu": {
+    "name": "Robert Palmer",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+  },
+  "41rVuRHYAiH7ltBTHVR9We": {
+    "name": "Slushii",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+  },
+  "0UKfenbZb15sqhfPC6zbt3": {
+    "name": "DEVO",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+  },
+  "4PpmBoqphQusNFsxuVKb6j": {
+    "name": "Paula Abdul",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+  },
+  "4YLQaW1UU3mrVetC8gNkg5": {
+    "name": "3LAU",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+  },
+  "4GLJPBj5Cdr9AgLKvLWM4n": {
+    "name": "Dragonette",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+  },
+  "6roDXEmZ6AARdOUv6x5U2v": {
+    "name": "Felix Cartal",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+  },
+  "521qvhdobR0GzhvU6TFw76": {
+    "name": "Tritonal",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+  },
+  "4FCzCS0KEgb0rgySWINItO": {
+    "name": "CID",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+  },
+  "2XiiUuK68XNdHaHOAF5hnT": {
+    "name": "Curbi",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+  },
+  "0hprEC0nsWuQPSHag1O2Vi": {
+    "name": "Gareth Emery",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+  },
+  "20p5D2KrE8CGuOjHtxsyTp": {
+    "name": "Fine Young Cannibals",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+  },
+  "3bwENxqj9nhaAI3fsAwmv9": {
+    "name": "Tokyo Machine",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+  },
+  "2DuJi13MWHjRHrqRUwk8vH": {
+    "name": "Knife Party",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
+  },
+  "05KjvP5zdwtEIgEazqblZw": {
+    "name": "Marc Benjamin",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+  },
+  "1dIdBZaaHRW2bDTkHNfWln": {
+    "name": "The Veronicas",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+  },
+  "4kwxTgCKMipBKhSnEstNKj": {
+    "name": "Animal Collective",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+  },
+  "1QOHbhVRpDoNtRkz79si6b": {
+    "name": "Karen Harding",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+  },
+  "4M6Z1wubeKtwPqbjJygTOc": {
+    "name": "Shontelle",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
+  },
+  "1vkJFCwstOoJO7yQ4lTtLK": {
+    "name": "Paris Hilton",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+  },
+  "2ddxtfC0oS8LoktXUHE7YL": {
+    "name": "Ashley Tisdale",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL"
+  },
+  "1l0mKo96Jh9HVYONcRl3Yp": {
+    "name": "2NE1",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+  },
+  "4aEnNH9PuU1HF3TsZTru54": {
+    "name": "Caribou",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+  },
+  "6M7RdR9ZP52h2mfNLmiHtU": {
+    "name": "Good Times Ahead",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+  },
+  "4tOVIRjlWWfR1RrAxyRqTE": {
+    "name": "Chromatics",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+  },
+  "7GMot9WvBYqhhJz92vhBp6": {
+    "name": "EDX",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+  },
+  "3FD9VAd0ppjmKbfxF4LzUh": {
+    "name": "Danity Kane",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+  },
+  "4eAOcbAXIF4BmbN6E1QIlw": {
+    "name": "Christina Milian",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+  },
+  "3IpvVrP3VLhruTmnququq7": {
+    "name": "Mike Williams",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+  },
+  "31Eea8xaK1xAMyJy2iWE0z": {
+    "name": "Eden Prince",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+  },
+  "4VivsO1n4n2Mi2Btyb5gfL": {
+    "name": "Cosmo's Midnight",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+  },
+  "2tFN9ubMXEhdAQvdQxcsma": {
+    "name": "Jessica Simpson",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+  },
+  "4hqDqHtBlgxXpLXVYf7c8L": {
+    "name": "Ashlee Simpson",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L"
+  },
+  "0uRdK8gy7fXJGRywrlmPM7": {
+    "name": "GoldFish",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+  },
+  "2ayt5jDUuTCpoTG7sHSvuq": {
+    "name": "Stonebwoy",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+  },
+  "2zJ8chFLjiBHRNchfevMRI": {
+    "name": "SNBRN",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+  },
+  "0L9xkvBPcEp1nrhDrodxc5": {
+    "name": "Level 42",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+  },
+  "4mHAu7NX2UNsnGXjviBD9e": {
+    "name": "Brooks",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+  },
+  "4j5KBTO4tk7up54ZirNGvK": {
+    "name": "NERVO",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+  },
+  "53cQZtWDwDJwVCNZlfJ6Qk": {
+    "name": "Laidback Luke",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+  },
+  "5WdqBAQhGFCrZvBKXiPIu7": {
+    "name": "The Him",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+  },
+  "6xQvQwZQQuq9R3TdPNbcR8": {
+    "name": "Bassjackers",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+  },
+  "520qA5VGL9iI0SbmEnTVNg": {
+    "name": "Maleek Berry",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+  },
+  "1mZu3rO7qSD09GdDpePHhY": {
+    "name": "Frankie Goes To Hollywood",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+  },
+  "3PtCud9dIdOv4exrzdZZ1C": {
+    "name": "MAKJ",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+  },
+  "1pbHrVayIcVpHI9z97u4bK": {
+    "name": "Bingo Players",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+  },
+  "59pWgeY26Q6yJy37QvJflh": {
+    "name": "Sleigh Bells",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+  },
+  "4uiMn2g0pgTrhN096QJhbp": {
+    "name": "Borgeous",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+  },
+  "0XqFDQJjqW5PfhfBCb53LR": {
+    "name": "Sick Individuals",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+  },
+  "4vRSocKbGh7PsQrYRDVMEF": {
+    "name": "Lindsay Lohan",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+  },
+  "2QMCcKIPHnjQaPPgoEst88": {
+    "name": "Matisse & Sadko",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+  },
+  "5eKqhPrKad0J9xGAtq3rW7": {
+    "name": "BURNS",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+  },
+  "7gEgjd9W1P1iAD9FbubrqC": {
+    "name": "Timaya",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+  },
+  "2L8yW8GIoirHEdeW4bWQXq": {
+    "name": "TJR",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+  },
+  "1xT5p0VBpnZDrvVSjX9sri": {
+    "name": "Dash Berlin",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+  },
+  "6t41YgqHULlgOq9TK1kcrG": {
+    "name": "The Kiffness",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+  },
+  "10hGPIDZi33LRaYRIq3Bh4": {
+    "name": "Dimitri Vangelis & Wyman",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+  },
+  "1UtBjqMZBAmqIPlDrKu7Tr": {
+    "name": "Andrew Rayel",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+  },
+  "5hE6NCoobhyEu6TRSbjOJY": {
+    "name": "Fever Ray",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+  },
+  "1kM5rgJvkiDMOoKX56H6pX": {
+    "name": "S Club 7",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
+  },
+  "3rJPS8fYBokXpYw1mS9wr0": {
+    "name": "Raphaella",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+  },
+  "6JMHws5haIO6V35YNYDnDw": {
+    "name": "Atomic Kitten",
+    "genre": "dance-pop",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+  },
+  "01pKrlgPJhm5dB4lneYAqS": {
+    "name": "Sigma",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+  },
+  "2s79xe5F6eUQkjwjww27Fh": {
+    "name": "ABC",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+  },
+  "53YSn9tHwGJ6bq5P0gGoYo": {
+    "name": "Firebeatz",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+  },
+  "7dc6hUwyuIhrZdh80eaCEE": {
+    "name": "Fedde Le Grand",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+  },
+  "7eQZTqEMozBcuSubfu52i4": {
+    "name": "The Knife",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+  },
+  "00sAT5YX8W3xNd1EuqyHw9": {
+    "name": "Dada Life",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+  },
+  "0bOlhT8OcoC1lCpN69NcFP": {
+    "name": "Kat Deluna",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+  },
+  "1tBU8jUEdVR3mqSsAqEGfD": {
+    "name": "Tommy Trash",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+  },
+  "5FvlJcXnFIm72pgQtW3Dct": {
+    "name": "Feenixpawl",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct"
+  },
+  "50Lr1puweM1hFsF1LpIZLM": {
+    "name": "WhoMadeWho",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+  },
+  "4CuipEvwcoQggmCV8jpKF9": {
+    "name": "Michael Calfan",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+  },
+  "3wyfo3svXNWnszGAEVey11": {
+    "name": "Tokyo Police Club",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11"
+  },
+  "3AmgGrYHXqgbmZ2yKoIVzO": {
+    "name": "Warpaint",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+  },
+  "1bpzpALZwOoKXzwMg2i8WB": {
+    "name": "Dirty South",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+  },
+  "5BKsn7SCN2XmbF7apdCpRS": {
+    "name": "Goldfrapp",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+  },
+  "1IELhvOMg5VQlU7syRm6CS": {
+    "name": "CAZZETTE",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+  },
+  "09A6IffSw0t8L8sfuOCVws": {
+    "name": "Wael Kfoury",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+  },
+  "1qiwaJwjKod5WhcYZ76O1B": {
+    "name": "Tim Hecker",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+  },
+  "2cBh5lVMg222FFuRU7EfDE": {
+    "name": "Sophie Ellis-Bextor",
+    "genre": "dance-pop",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+  },
+  "4WFtYn5RyU8VGPpPyW9Pxw": {
+    "name": "M-22",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+  },
+  "4ugGMtXC28CVR5hlYJy9wV": {
+    "name": "Luciana",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+  },
+  "3AmWjMXXtBJOmNGpUFSOAl": {
+    "name": "Gang Of Four",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+  },
+  "2QlwnS23KrBeshXFyK5U6M": {
+    "name": "LVNDSCAPE",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+  },
+  "03MVmfitJTVJIxYmObhQn9": {
+    "name": "Dyro",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+  },
+  "5VsOThWOagH8C8gCvIy13k": {
+    "name": "Penguin Prison",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5VsOThWOagH8C8gCvIy13k"
+  },
+  "4xgFgBZ7CRtgtHcziClOwQ": {
+    "name": "MOGUAI",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+  },
+  "2wPDbhaGXCqROrVmwDdCrK": {
+    "name": "Oneohtrix Point Never",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+  },
+  "5zMgvYBz4AW0gFyPtg7fR9": {
+    "name": "A*Teens",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+  },
+  "0RViEWnZO2VhmY4oI0PhF9": {
+    "name": "Mesto",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+  },
+  "6aDX1jzNVAI9enlQzW0Pgw": {
+    "name": "Moonchild Sanelly",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+  },
+  "04HvbIwBccFmRie5ATX4ft": {
+    "name": "Yeasayer",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
+  },
+  "1jSaZgaKHmgc7VTgML528r": {
+    "name": "Clap Your Hands Say Yeah",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r"
+  },
+  "61KJdJU38zrAW4c3PI9C9N": {
+    "name": "CAPSULE",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N"
+  },
+  "6OO0PboZcIWUWL7j2IyeoL": {
+    "name": "Markus Schulz",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+  },
+  "0Fs18mA7TFMvYVRNX4dNTt": {
+    "name": "Shonlock",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt"
+  },
+  "7u1V0Ucu5ggW1VaXwh8KeT": {
+    "name": "Hamid Al Shaeri",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+  },
+  "60vX3zLcdKRXvKLITVh5Df": {
+    "name": "Melanie C",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+  },
+  "1EVWYRr2obCRDoSoD6KSuM": {
+    "name": "Havana Brown",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM"
+  },
+  "462bQVHRwoW4loeQRHlRzq": {
+    "name": "ELMAN",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/462bQVHRwoW4loeQRHlRzq"
+  },
+  "6OTMjaRQ9kxdwoPRYTmyOM": {
+    "name": "\u041c\u041e\u0422",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM"
+  },
+  "2vUCVkeZjzDcaoX4gagHdV": {
+    "name": "Julian Jordan",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+  },
+  "7MFJyevu6jq0shwDuVLymu": {
+    "name": "Justin Mylo",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+  },
+  "22bukBZvUppuwQwmDz75Gz": {
+    "name": "Sander van Doorn",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+  },
+  "15xvsJMf8phaNa1LYvL9Qv": {
+    "name": "John Dahlb\u00e4ck",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+  },
+  "7iLc4hrjOjQPfg1E3cCHg1": {
+    "name": "Tim Berg",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
+  },
+  "0bp9CvkjQYhUJvWRHjFRWI": {
+    "name": "WEDNESDAY CAMPANELLA",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+  },
+  "7hqZBHSgDs1odG9aupMzEI": {
+    "name": "Big Audio Dynamite",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
+  },
+  "4gJCFxvqKc43Ifk0UIBB42": {
+    "name": "Madison Mars",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+  },
+  "57anmI1X2hXWPrNagFdzZr": {
+    "name": "YACHT",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+  },
+  "7rZNSLWMjTbwdLNskFbzFf": {
+    "name": "Sugababes",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+  },
+  "3nAdmhth5AczU6YwCJOlYh": {
+    "name": "Dropgun",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh"
+  },
+  "7LdZqOf4uMeA5vzlI0oza7": {
+    "name": "The Limba",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+  },
+  "5Ip2ecnyGpNyZvPuuYU8Ai": {
+    "name": "Dzeko & Torres",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5Ip2ecnyGpNyZvPuuYU8Ai"
+  },
+  "5OReTeTBZ578sj07hDS0x7": {
+    "name": "Alex Schulz",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7"
+  },
+  "1EULJuDFWpZ9xg4YwtUGGt": {
+    "name": "Daniel Avery",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+  },
+  "3E61SnNA9oqKP7hI0K3vZv": {
+    "name": "CALVO",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv"
+  },
+  "0WbqAlM1WvfUD6dF7omThd": {
+    "name": "Yelle",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+  },
+  "59m6Auk4r76d16XDpOznCY": {
+    "name": "DEAN FUJIOKA",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY"
+  },
+  "5ywjxFhmhHGQBsK3DundNf": {
+    "name": "Peruzzi",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+  },
+  "12SPNXi0aDpFt0rMVbmLrr": {
+    "name": "Jay Hardway",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+  },
+  "1PFc84GHTYPL0G12JHh9Mc": {
+    "name": "Dannic",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+  },
+  "2ARO60gI5do88ho6azmzab": {
+    "name": "Django Django",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+  },
+  "0W8WpLB5WoXLgiA193LXk6": {
+    "name": "Sun-El Musician",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+  },
+  "1XLjkBxFokuDTlHt0mQkRe": {
+    "name": "Thomas Gold",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+  },
+  "25Kw8f1zcn9VtUk5Nl3qrp": {
+    "name": "Lasgo",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+  },
+  "4GWqzTTt2uA9Ms6HfUhWUn": {
+    "name": "Florian Picasso",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+  },
+  "2wMcQIxzH2LYHJZNxo9FcN": {
+    "name": "John Paul Young",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+  },
+  "1I8cwnCuQZfi6C1eZVrRIF": {
+    "name": "Klava Koka",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/1I8cwnCuQZfi6C1eZVrRIF"
+  },
+  "1EemADz12kjlGwkpY4EINv": {
+    "name": "The Power Station",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1EemADz12kjlGwkpY4EINv"
+  },
+  "3LTXHU3DhiYzGIgF2PP8Q8": {
+    "name": "The Raveonettes",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+  },
+  "6z9EDgWh3ZJZKIJI5Q71Cq": {
+    "name": "Alex Mills",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+  },
+  "2J80qXI4NHKpq5RT3xUF7V": {
+    "name": "Third Party",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+  },
+  "6eUtrZgzxqbV7zMxzN3Sz2": {
+    "name": "twoloud",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2"
+  },
+  "0DRf6JJDQnRnz0Yp209CmH": {
+    "name": "Stadiumx",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+  },
+  "5Aw0IGM5JS3FuTgtRsDWGA": {
+    "name": "Chocolate Puma",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+  },
+  "1Uf3QoT2BwTN9ZW71cIiAo": {
+    "name": "Dabro",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/1Uf3QoT2BwTN9ZW71cIiAo"
+  },
+  "2s6lxOYvvCvzpHtd3VyuMj": {
+    "name": "Uffie",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+  },
+  "12EtLdLfJ41vUOoVzPZIUy": {
+    "name": "Girls Aloud",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+  },
+  "15qI5w4XJFLRMwOp2VrlD5": {
+    "name": "The Saturdays",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+  },
+  "3oLccEy7y6zTe1gCFHxuWr": {
+    "name": "Timati",
+    "genre": "dance-pop",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr"
+  },
+  "5Xcbv83o11Ez2XPHa1n8Pf": {
+    "name": "AmPm",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+  },
+  "7wHvox8DtmBBPpDFRVURv4": {
+    "name": "NILETTO",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/7wHvox8DtmBBPpDFRVURv4"
+  },
+  "06cLuOP0p7VAnBnqil1eWX": {
+    "name": "Swanky Tunes",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX"
+  },
+  "3xGht4cr5E0CQVTMp6g3O3": {
+    "name": "Jonathan Thulin",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/3xGht4cr5E0CQVTMp6g3O3"
+  },
+  "1pU40mNxB72IERMSbGwCBm": {
+    "name": "ANIVAR",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1pU40mNxB72IERMSbGwCBm"
+  },
+  "39PhMWg1aAuuZcph0OXGu6": {
+    "name": "Deniz Koyu",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+  },
+  "3EBRANWwnViQuBrImN61Z1": {
+    "name": "Pixie Lott",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1"
+  },
+  "0MW7VCX468MczakigaewMm": {
+    "name": "Ellai",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/0MW7VCX468MczakigaewMm"
+  },
+  "5lXf3xjcLx6BmYMY6TvczJ": {
+    "name": "Paris Blohm",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5lXf3xjcLx6BmYMY6TvczJ"
+  },
+  "5bnNgwp3nooah9yHAHsnR4": {
+    "name": "Jason Donovan",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+  },
+  "5Z22vlK4DCgDrQgBEqfc8w": {
+    "name": "Kristinia DeBarge",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w"
+  },
+  "4FdhiagLyTmvDqAVUxsQ57": {
+    "name": "Alison Hinds",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+  },
+  "5Nmm8A6gr93sRxz1SckQj1": {
+    "name": "Najwa Karam",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1"
+  },
+  "0xTdDjeCoM89b7n9fLcZvR": {
+    "name": "GAYAZOV$ BROTHER$",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/0xTdDjeCoM89b7n9fLcZvR"
+  },
+  "1fLIzbK5e8MGrLKj1dEMsg": {
+    "name": "DJ SMASH",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/1fLIzbK5e8MGrLKj1dEMsg"
+  },
+  "7icDkrFloDss50hoqQ3Kkj": {
+    "name": "Clinic",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+  },
+  "2XaHngr3ql0L2nrJC8PSwY": {
+    "name": "Artem Kacher",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY"
+  },
+  "7EFB09NxZrMi9pGlOnuBpd": {
+    "name": "The Horrors",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+  },
+  "2oyWcvOgCXHnYgJ5L0GZQu": {
+    "name": "We Are Leo",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu"
+  },
+  "4md29VFrdmXz1YYmH4u74u": {
+    "name": "RASA",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/4md29VFrdmXz1YYmH4u74u"
+  },
+  "3NyNPJaemMYsL14DK2tO01": {
+    "name": "Cheryl",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+  },
+  "2URqJkDiySO0FRiAUq75FV": {
+    "name": "Rachid Taha",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+  },
+  "4iSv3eRHwrwQTYbRCXxmL3": {
+    "name": "GoodLuck",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
+  },
+  "2bhKoNWwiNLxvkd1ynM8pV": {
+    "name": "Myah Marie",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/2bhKoNWwiNLxvkd1ynM8pV"
+  },
+  "7MVKH9fm8zwRycJpRU1UGc": {
+    "name": "MATRANG",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/7MVKH9fm8zwRycJpRU1UGc"
+  },
+  "2ozf2wUWH0WU4bM8eQUtWt": {
+    "name": "\u0415\u0432\u0430 \u0412\u043b\u0430\u0441\u043e\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/2ozf2wUWH0WU4bM8eQUtWt"
+  },
+  "6qQiyy1hXfRttZvgHqdwM1": {
+    "name": "Apple Gule",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1"
+  },
+  "4lmpEOYpB8yNe8buBDP5vF": {
+    "name": "The White Tie Affair",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/4lmpEOYpB8yNe8buBDP5vF"
+  },
+  "6BuDxEE5rfuYeyhxQsl53K": {
+    "name": "Andy Stott",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
+  },
+  "6OQ7sfN0G1E2pZMhYW9wjG": {
+    "name": "Hisham Abbas",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+  },
+  "5orH1OWgjAYUX8sZ5gihTv": {
+    "name": "Geri Halliwell",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv"
+  },
+  "1ZTCpKWDwHhbjhkdHhvTm8": {
+    "name": "Tina Arena",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+  },
+  "6IGPs5x5m2aUi4fgNHijRw": {
+    "name": "IVAN VALEEV",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6IGPs5x5m2aUi4fgNHijRw"
+  },
+  "5m6ztlqoj7ZjS1NybWbned": {
+    "name": "Glukoza",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5m6ztlqoj7ZjS1NybWbned"
+  },
+  "5qr3Q9yXnDkxF3RLs5ZPLn": {
+    "name": "kavabanga Depo kolibri",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn"
+  },
+  "4TIFXy7qWdihkxk2GEdsyp": {
+    "name": "Lx24",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/4TIFXy7qWdihkxk2GEdsyp"
+  },
+  "6c7bGIcrxaMdYSn6htbHj0": {
+    "name": "Mi Casa",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+  },
+  "7o2i4F3yH23usLaKvaSGMG": {
+    "name": "NAZIMA",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/7o2i4F3yH23usLaKvaSGMG"
+  },
+  "1fNhDktKNtf7g7COrlJguP": {
+    "name": "Saad El Soghayar",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP"
+  },
+  "2qNI3aGlywRzTkRBOy9YzG": {
+    "name": "Yasutaka Nakata",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+  },
+  "4bDO0Ge3NN79o9UX64DjNj": {
+    "name": "VAVAN",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/4bDO0Ge3NN79o9UX64DjNj"
+  },
+  "6HwxMgE895sejjGFin9Gvm": {
+    "name": "Samthing Soweto",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm"
+  },
+  "5uMClxnfkye15tg63lrwU8": {
+    "name": "Lesha Svik",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/5uMClxnfkye15tg63lrwU8"
+  },
+  "212qpUZkM5Pj9TsyHjOUEX": {
+    "name": "Chris Wallace",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/212qpUZkM5Pj9TsyHjOUEX"
+  },
+  "5tYaRVYbV1anmzyxqMVdHi": {
+    "name": "TRESOR",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+  },
+  "23MIhFHpoOuhtEHZDrrnCS": {
+    "name": "The Field",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+  },
+  "5W7N6u4EjCEMKj7bDyzPEC": {
+    "name": "Geegun",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/5W7N6u4EjCEMKj7bDyzPEC"
+  },
+  "13zU7H0gYcY7xiy4W5DnPF": {
+    "name": "\u041c\u044d\u0432\u043b",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/13zU7H0gYcY7xiy4W5DnPF"
+  },
+  "2OFEXARoSZyZLR6S0oV2R7": {
+    "name": "Tom Swoon",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/2OFEXARoSZyZLR6S0oV2R7"
+  },
+  "3jgs1QD0amFu2y6bqSK36Y": {
+    "name": "Erika Jayne",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y"
+  },
+  "3tmE8j9TJXZ7k1IlXIk4sY": {
+    "name": "\u0424\u041e\u0413\u0415\u041b\u042c",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/3tmE8j9TJXZ7k1IlXIk4sY"
+  },
+  "5fHk07xqQp5IMnsLzLZK1H": {
+    "name": "Press Play",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5fHk07xqQp5IMnsLzLZK1H"
+  },
+  "6XCS9JCn56Q252cMOTbeq6": {
+    "name": "Dannii Minogue",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6"
+  },
+  "4zrFO6P7G6EZry0pfxMfKT": {
+    "name": "Wild Beasts",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4zrFO6P7G6EZry0pfxMfKT"
+  },
+  "279RipTJjZgFKvmekq7OrP": {
+    "name": "VERBEE",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/279RipTJjZgFKvmekq7OrP"
+  },
+  "1XNfue8YO5vg53LLS2yYcP": {
+    "name": "Jessica Lowndes",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1XNfue8YO5vg53LLS2yYcP"
+  },
+  "1F42GOcKAImOu4yj1b04NB": {
+    "name": "Shekhinah",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+  },
+  "0YEt8MbsfCuhdm9FomLNqM": {
+    "name": "Rapture Ruckus",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0YEt8MbsfCuhdm9FomLNqM"
+  },
+  "2BZDbnjUHnL2XAPgkdqTpb": {
+    "name": "Jennifer Love Hewitt",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2BZDbnjUHnL2XAPgkdqTpb"
+  },
+  "4TtYJeqcPV4209C1yvBRX2": {
+    "name": "Maxim Fadeev",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/4TtYJeqcPV4209C1yvBRX2"
+  },
+  "5N22lbGgYS8PIR9or5LIIF": {
+    "name": "Maharajan",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
+  },
+  "7fajLZIgjOSUcPFuryO80A": {
+    "name": "DJ Matrix",
+    "genre": "dance-pop",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A"
+  },
+  "0jUNGuEa2n7yyld7KjsVVT": {
+    "name": "Sha Sha",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+  },
+  "0o3IFcCxiWfIb3kfnHkhPN": {
+    "name": "HENSY",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0o3IFcCxiWfIb3kfnHkhPN"
+  },
+  "04Hrgux8cIaNJKUAX7WwJN": {
+    "name": "Mafikizolo",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+  },
+  "34FlKxqdftYhJy6BQubuHy": {
+    "name": "Bahh Tee",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/34FlKxqdftYhJy6BQubuHy"
+  },
+  "08V2vgJBY6VLoUPWlznRKo": {
+    "name": "Sho Madjozi",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+  },
+  "3MjlXVCfmLdY9QQ2GCd7iA": {
+    "name": "Simmy",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+  },
+  "0x9j5hqljRaIIGjDSmsLT0": {
+    "name": "L'One",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/0x9j5hqljRaIIGjDSmsLT0"
+  },
+  "5oLb41tSEDtY357HGJCIK9": {
+    "name": "FAKY",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9"
+  },
+  "3NRXKeatDxKe4apH6XawKX": {
+    "name": "DA PUMP",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX"
+  },
+  "0kc028ziFEGEMNR6XCKeFJ": {
+    "name": "AMCHI",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0kc028ziFEGEMNR6XCKeFJ"
+  },
+  "4zfTcqK4VudzZgd0T8g1Fi": {
+    "name": "School Gyrls",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/4zfTcqK4VudzZgd0T8g1Fi"
+  },
+  "3myefQO8upDe4aNxjTFddr": {
+    "name": "Warda",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+  },
+  "52cgUUfIwnktO3v7BhuzCb": {
+    "name": "Mohito",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/52cgUUfIwnktO3v7BhuzCb"
+  },
+  "5DZBnxCYzs32O2bbqK8KNg": {
+    "name": "Les Savy Fav",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5DZBnxCYzs32O2bbqK8KNg"
+  },
+  "7KAGJwWQQui8b0uqwXRkSr": {
+    "name": "Gest\u00f6rt aber GeiL",
+    "genre": "dance-pop",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr"
+  },
+  "54CMkgIraCOO9pSRfPKiKt": {
+    "name": "Antti Tuisku",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+  },
+  "4twKEsPVnlnn5C649KaMVj": {
+    "name": "DONI",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/4twKEsPVnlnn5C649KaMVj"
+  },
+  "2vygNfdnPBXah21ZrqhxYk": {
+    "name": "A Certain Ratio",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+  },
+  "3xBbmWwDPhEaGcwWgBarkI": {
+    "name": "Jessica Sanchez",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI"
+  },
+  "6fEO1r9Y9TYL9O4w5kVPmc": {
+    "name": "Jagwar Ma",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/6fEO1r9Y9TYL9O4w5kVPmc"
+  },
+  "1C7uc1Nw5y6ZHNhnuMpK5u": {
+    "name": "Dante",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/1C7uc1Nw5y6ZHNhnuMpK5u"
+  },
+  "0aVJmlOwIxTZeHzhFiFL5Y": {
+    "name": "Natacha Atlas",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y"
+  },
+  "6QpiYjzVCiO7063DWLTII7": {
+    "name": "HammAli",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6QpiYjzVCiO7063DWLTII7"
+  },
+  "5Pb1bpHrkEzhNZJgxYKmwX": {
+    "name": "KARTASHOW",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/5Pb1bpHrkEzhNZJgxYKmwX"
+  },
+  "6G0CZLe1HFoxcHp0FY4pNV": {
+    "name": "MOLLY",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/6G0CZLe1HFoxcHp0FY4pNV"
+  },
+  "0Ll5YUmSXpy7LVu7wcN0Z5": {
+    "name": "DAVA",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/0Ll5YUmSXpy7LVu7wcN0Z5"
+  },
+  "4bnu8BeqS4NtzlJ006evSr": {
+    "name": "Elbrus Djanmirzoev",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/4bnu8BeqS4NtzlJ006evSr"
+  },
+  "07lgEPGfoA4Lqos6YGYPDU": {
+    "name": "Ricki-Lee",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU"
+  },
+  "3YUrEElXpqiPSbffh9XXZd": {
+    "name": "Rogue Traders",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/3YUrEElXpqiPSbffh9XXZd"
+  },
+  "7HCPm8AkZIqGjQdAJR2ltC": {
+    "name": "Kaci Battaglia",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/7HCPm8AkZIqGjQdAJR2ltC"
+  },
+  "4CXul2xeyQKutUpU8vP1b8": {
+    "name": "HOMIE",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4CXul2xeyQKutUpU8vP1b8"
+  },
+  "3PeKpauNvOYx4WFMQ6vQOY": {
+    "name": "Elvira T",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/3PeKpauNvOYx4WFMQ6vQOY"
+  },
+  "5M0fvL9GMc2zTuIIQwresj": {
+    "name": "Vanessa Amorosi",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+  },
+  "2SLFbFpW4nXuc76m37gTfy": {
+    "name": "Eli Lieb",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/2SLFbFpW4nXuc76m37gTfy"
+  },
+  "3dG8agWw8q1yaBis5HRT5K": {
+    "name": "Locnville",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/3dG8agWw8q1yaBis5HRT5K"
+  },
+  "4NEvsS6vM1CjGqptB9BxND": {
+    "name": "Zvonkiy",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4NEvsS6vM1CjGqptB9BxND"
+  },
+  "2qLz5TLFBcDc8LsTVfivbq": {
+    "name": "Miss Amani",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2qLz5TLFBcDc8LsTVfivbq"
+  },
+  "1UD2bGr9b38JklCMAyhNnp": {
+    "name": "TERNOVOY",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1UD2bGr9b38JklCMAyhNnp"
+  },
+  "1dZ8IZ8BXP30yhG50TH06o": {
+    "name": "BALLISTIK BOYZ from EXILE TRIBE",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o"
+  },
+  "1XextlWidJgc8AMFbZzhWZ": {
+    "name": "Elvin Grey",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1XextlWidJgc8AMFbZzhWZ"
+  },
+  "09ao6AC5gW8AxRBUVkqWIB": {
+    "name": "Alexia",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB"
+  },
+  "4NkY1AR4JJOwoZP3qBMaak": {
+    "name": "\u0421\u0430\u0448\u0430 \u0421\u0430\u043d\u0442\u0430",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/4NkY1AR4JJOwoZP3qBMaak"
+  },
+  "6hgAxdLyAScworv2mZucqK": {
+    "name": "\u00d8MI",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK"
+  },
+  "34upcDcqI1A0uEG5wzUMx6": {
+    "name": "Grivina",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/34upcDcqI1A0uEG5wzUMx6"
+  },
+  "2EC9FHO589OuPfdJ2n9n7P": {
+    "name": "Denis RiDer",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/2EC9FHO589OuPfdJ2n9n7P"
+  },
+  "0wMkBz97F3SE4yNz0y2OOz": {
+    "name": "Maika Loubt\u00e9",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+  },
+  "43pUK083tLA3lk3JQr5ATn": {
+    "name": "THREE1989",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+  },
+  "59E9dYtwLTUAGuAppwFKAW": {
+    "name": "Cherrie",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+  },
+  "6CGtZxtbtpIutU9L4kdQsN": {
+    "name": "TamerlanAlena",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6CGtZxtbtpIutU9L4kdQsN"
+  },
+  "3NSKTb4t386KNoI3bP9XVV": {
+    "name": "Shuta Sueyoshi",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/3NSKTb4t386KNoI3bP9XVV"
+  },
+  "73VKEgMtKpysM3ITNxkXDa": {
+    "name": "Navai",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/73VKEgMtKpysM3ITNxkXDa"
+  },
+  "148ujrGRexnhpqhRiw0rDi": {
+    "name": "IS TROPICAL",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi"
+  },
+  "5lRAsaQysYDBzpa1CT0qwV": {
+    "name": "LOZAREENA",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV"
+  },
+  "55mdlQp6zN8zdyIYB9DDQj": {
+    "name": "JVG",
+    "genre": "dance-pop",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+  },
+  "3Z22kqaNx9GsxXU6gU4Pul": {
+    "name": "Satellites & Sirens",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3Z22kqaNx9GsxXU6gU4Pul"
+  },
+  "4ZALWwBr7dwXOhlyiYRMd1": {
+    "name": "David Meli",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/4ZALWwBr7dwXOhlyiYRMd1"
+  },
+  "5MA6szp5R5ANdQE7d4WKL6": {
+    "name": "David Thulin",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/5MA6szp5R5ANdQE7d4WKL6"
+  },
+  "6ah9gnwgMJ1PMKhkKOwH1D": {
+    "name": "80KIDZ",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+  },
+  "0bOmr5VokZhpKZPeAux2NB": {
+    "name": "Ka-Re",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/0bOmr5VokZhpKZPeAux2NB"
+  },
+  "7gRmesSjINzb4xXApfMV5E": {
+    "name": "Holly Valance",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
+  },
+  "5vLM0jSwj4TMVhnWuocoaD": {
+    "name": "EMMA WAHLIN",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD"
+  },
+  "3l3OXBVFtuPwDpQTGtXNjj": {
+    "name": "Al Bairre",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj"
+  },
+  "6D0uq3URoqvg5EcTzEsNUa": {
+    "name": "Olga Buzova",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/6D0uq3URoqvg5EcTzEsNUa"
+  },
+  "6da0IfHaN561OqJxQ3JyKh": {
+    "name": "Sketchy Bongo",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh"
+  },
+  "4zkg0pRNAYeYLFEVcVrvA5": {
+    "name": "Midnight Red",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/4zkg0pRNAYeYLFEVcVrvA5"
+  },
+  "1Hd2ZcCOUCR5U1xDTbpDv8": {
+    "name": "\u041e\u043b\u044c\u0433\u0430 \u0421\u0435\u0440\u044f\u0431\u043a\u0438\u043d\u0430",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1Hd2ZcCOUCR5U1xDTbpDv8"
+  },
+  "75FLSLJt2boQ6T2bEvgh1K": {
+    "name": "NuAngels",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/75FLSLJt2boQ6T2bEvgh1K"
+  },
+  "5o11pS7iIyQ2H4Uw587jyL": {
+    "name": "SARA-J",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL"
+  },
+  "6pHeVyEQkA28FvpQTvWyBa": {
+    "name": "Swimming With Dolphins",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/6pHeVyEQkA28FvpQTvWyBa"
+  },
+  "7nyLigsJ4LWLqVvMrSlQf7": {
+    "name": "Asher Monroe",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/7nyLigsJ4LWLqVvMrSlQf7"
+  },
+  "5m3jiZu1lFahpA5OZyPWad": {
+    "name": "Denis Klyaver",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/5m3jiZu1lFahpA5OZyPWad"
+  },
+  "507yN9Cz75k1EeK6xo2cJF": {
+    "name": "Sati Kazanova",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/507yN9Cz75k1EeK6xo2cJF"
+  },
+  "72YhLvw3aIVCUSjL6G8qSf": {
+    "name": "Cara Frew",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf"
+  },
+  "2vJU4d2jRQb4zJJIQRkyDB": {
+    "name": "Mel B",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB"
+  },
+  "63RF3q8ejWJup6nAPb3KLw": {
+    "name": "BESS",
+    "genre": "dance-pop",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+  },
+  "3ofwHk3IbzOnWUaTfZ5TNj": {
+    "name": "Emii",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3ofwHk3IbzOnWUaTfZ5TNj"
+  },
+  "7tnWfvxjKruxem13i40D8S": {
+    "name": "BG5",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/7tnWfvxjKruxem13i40D8S"
+  },
+  "4lsSLCTKrmfULsRivqAShx": {
+    "name": "Hiroomi Tosaka",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/4lsSLCTKrmfULsRivqAShx"
+  },
+  "5ekzQ0Zq1wSg7dDZHYKFLt": {
+    "name": "TiMO ODV",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt"
+  },
+  "2QCy4hrgZS3lYRV5C9MMz2": {
+    "name": "Twelve24",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/2QCy4hrgZS3lYRV5C9MMz2"
+  },
+  "3RvjWEyPSFteWLFG17JOF1": {
+    "name": "Winning Team",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/3RvjWEyPSFteWLFG17JOF1"
+  },
+  "6DD2PnwCiKOETLF994kNFD": {
+    "name": "ERSHOV",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/6DD2PnwCiKOETLF994kNFD"
+  },
+  "2YIFiyLIUhMH9kzb0FCmbX": {
+    "name": "Brandon Stone",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/2YIFiyLIUhMH9kzb0FCmbX"
+  },
+  "1hGDB3W5mvP1ETGu2aU5WM": {
+    "name": "CrazyBoy",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1hGDB3W5mvP1ETGu2aU5WM"
+  },
+  "6BcdK38mr5woVzJLhCM9Sq": {
+    "name": "Mark Tishman",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/6BcdK38mr5woVzJLhCM9Sq"
+  },
+  "4Q4b4S784htx6DtxcMUfMO": {
+    "name": "Robin Packalen",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+  },
+  "23QKqAkKwti9zBiac6RFBA": {
+    "name": "Jlin",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+  },
+  "6M0WvdiehFFWsxqxtBiVBF": {
+    "name": "Aubrey O'Day",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/6M0WvdiehFFWsxqxtBiVBF"
+  },
+  "7nlyMY2FWpc2hDfc40a6Gy": {
+    "name": "TEMPURA KIDZ",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/7nlyMY2FWpc2hDfc40a6Gy"
+  },
+  "5FgAhHocNrSCn7Ox87uyef": {
+    "name": "Benjamin",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+  },
+  "1z6hr4J2E41Z0YXHjDjiVK": {
+    "name": "Alexey Vorobyov",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/1z6hr4J2E41Z0YXHjDjiVK"
+  },
+  "1vleQu0lvZEbJFSwYzIuFZ": {
+    "name": "Xonia",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/1vleQu0lvZEbJFSwYzIuFZ"
+  },
+  "5BWiwrFskTQRxKUjPMh8kI": {
+    "name": "Lady Zamar",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
+  },
+  "3oxSOwzkl2f4KCEv5Qv3jf": {
+    "name": "RUANN",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/3oxSOwzkl2f4KCEv5Qv3jf"
+  },
+  "6EOZim46RHGGWpKqsD6OOG": {
+    "name": "Mohammed Abdel Wahab",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG"
+  },
+  "53y0MozF7RJWH5OQlUBZ9s": {
+    "name": "Jasmin",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/53y0MozF7RJWH5OQlUBZ9s"
+  },
+  "5Ct1GEDES4Nlkc6cFbZYq0": {
+    "name": "Kaci Brown",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/5Ct1GEDES4Nlkc6cFbZYq0"
+  },
+  "6nQCYeaszYUfovwdb1qMNs": {
+    "name": "Colette Carr",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/6nQCYeaszYUfovwdb1qMNs"
+  },
+  "1JvTUHnkJ8yiTQfOKDdArt": {
+    "name": "Majozi",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+  },
+  "71GWL6ijlpTh7oGqYlMMpM": {
+    "name": "Thomas Fehlmann",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/71GWL6ijlpTh7oGqYlMMpM"
+  },
+  "2qixIA7qPFts4yN1Av017D": {
+    "name": "Mthunzi",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+  },
+  "3HbP7OfT7PCV0BrR0ReUkC": {
+    "name": "Medina",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+  },
+  "1v1NPbPL6UB1BTNwPzodzd": {
+    "name": "\u0428\u0435\u0439\u0445 \u041c\u0430\u043d\u0441\u0443\u0440",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/1v1NPbPL6UB1BTNwPzodzd"
+  },
+  "4Yt6N4u5vIpjRhT2O7zsLk": {
+    "name": "YOUR SONG IS GOOD",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk"
+  },
+  "2eBrVlrblMyfJF8Uu6e7SB": {
+    "name": "Masha Veber",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/2eBrVlrblMyfJF8Uu6e7SB"
+  },
+  "5fr4NOGFrth4NESRpmfiFg": {
+    "name": "Lacey Schwimmer",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/5fr4NOGFrth4NESRpmfiFg"
+  },
+  "5mOZ8xSUZ4UiIQz983sJN5": {
+    "name": "M-BAND",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/5mOZ8xSUZ4UiIQz983sJN5"
+  },
+  "0dTjZaDfOStkPF0fiUOaCG": {
+    "name": "Quest Pistols Show",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/0dTjZaDfOStkPF0fiUOaCG"
+  },
+  "0xNjXe7jad9rgX5KxCbuFD": {
+    "name": "Julia Parshoota",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0xNjXe7jad9rgX5KxCbuFD"
+  },
+  "5cvlu2YDqg2vgBFIJp4G9t": {
+    "name": "Nola",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/5cvlu2YDqg2vgBFIJp4G9t"
+  },
+  "5EkpFNNGJTnndTQLzqTFut": {
+    "name": "Deni Hines",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5EkpFNNGJTnndTQLzqTFut"
+  },
+  "234HyESRzhDz4Pvv1gFpDz": {
+    "name": "V Factory",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/234HyESRzhDz4Pvv1gFpDz"
+  },
+  "4tz6R7C3fhe05AWr2d1XJy": {
+    "name": "Nataliya Vlasova",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/4tz6R7C3fhe05AWr2d1XJy"
+  },
+  "08dg9ncVzdKYpXnTB1I6R8": {
+    "name": "TSOY",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/08dg9ncVzdKYpXnTB1I6R8"
+  },
+  "2nn1NqitsyDn4TjyO0qF1p": {
+    "name": "Galen Crew",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/2nn1NqitsyDn4TjyO0qF1p"
+  },
+  "0BuRkvDudkgFxac6NDbON5": {
+    "name": "Te100steron",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0BuRkvDudkgFxac6NDbON5"
+  },
+  "7pYqiObBNdTq1X5CYdvDw6": {
+    "name": "Marsel",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7pYqiObBNdTq1X5CYdvDw6"
+  },
+  "3c9CUpHeB5BCQOHp8uiPzY": {
+    "name": "Ellinoora",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+  },
+  "2Wj83ZkeRUYtTq0kaPOoQW": {
+    "name": "JUVENILE",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW"
+  },
+  "3ulJjSs473UhEs4zpOR6CX": {
+    "name": "Young London",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/3ulJjSs473UhEs4zpOR6CX"
+  },
+  "6UdTQZl4kDbBzUCWNRHgc8": {
+    "name": "Tino Coury",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/6UdTQZl4kDbBzUCWNRHgc8"
+  },
+  "4zFfzqqLF8ZPRIirvsDsRz": {
+    "name": "Albina Dzhanabaeva",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/4zFfzqqLF8ZPRIirvsDsRz"
+  },
+  "5TlcIPcqqUiWfHmGOOAGOL": {
+    "name": "Kyle Deutsch",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL"
+  },
+  "1HzZUg7ka5YKLo5tIEW4Lq": {
+    "name": "Emma M",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/1HzZUg7ka5YKLo5tIEW4Lq"
+  },
+  "64E9KDP02XA0o13WFx2MFL": {
+    "name": "SWAY",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/64E9KDP02XA0o13WFx2MFL"
+  },
+  "1AqQ7buD0q6SRbQtYQUnou": {
+    "name": "Alex Mattson",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/1AqQ7buD0q6SRbQtYQUnou"
+  },
+  "57eMezj5cRrIJreMdbecEh": {
+    "name": "Mime",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+  },
+  "4VsaesICXLwHOtRdRjxpYf": {
+    "name": "Dominick Jocker",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/4VsaesICXLwHOtRdRjxpYf"
+  },
+  "3DT7Hg7rFugAITZoVe9c0H": {
+    "name": "Anna Semenovich",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/3DT7Hg7rFugAITZoVe9c0H"
+  },
+  "6h0qX1yFST67tTRZi0YaFS": {
+    "name": "Oleg Miami",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6h0qX1yFST67tTRZi0YaFS"
+  },
+  "3M67nN7R7YEXHb00ablpdU": {
+    "name": "Dina Hayek",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/3M67nN7R7YEXHb00ablpdU"
+  },
+  "5bA8fDCBGlAnq94gEvpjUB": {
+    "name": "Nourhanne",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/5bA8fDCBGlAnq94gEvpjUB"
+  },
+  "1iVTfRuCrTJJ7QudNpQatF": {
+    "name": "Gasellit",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+  },
+  "31sepCsNPc5s1b0WpcVenP": {
+    "name": "Liquideep",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+  },
+  "3JKU6cvr3SESsNviVlNCZc": {
+    "name": "BananaLemon",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/3JKU6cvr3SESsNviVlNCZc"
+  },
+  "2cWAkrZPYPs9JSA6KCdnva": {
+    "name": "Open Kids",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/2cWAkrZPYPs9JSA6KCdnva"
+  },
+  "3tAX6fwZQFEYifTiKmS0T2": {
+    "name": "Melissa Gorga",
+    "genre": "dance-pop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/3tAX6fwZQFEYifTiKmS0T2"
+  },
+  "7d8lhF0AdjPSteox8E33dg": {
+    "name": "Lil Kate",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/7d8lhF0AdjPSteox8E33dg"
+  },
+  "733Nez4pH04XAoHGsa9LJY": {
+    "name": "Cara Cunningham",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/733Nez4pH04XAoHGsa9LJY"
+  },
+  "0ahIOvoOixJ6reWSvAsshX": {
+    "name": "Mwuana",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+  },
+  "5X9T1si7pOUmy2IayH147S": {
+    "name": "EASY FREAK",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+  },
+  "0kvuzARGuGVDWjuIs3Hzwe": {
+    "name": "CIRRRCLE",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0kvuzARGuGVDWjuIs3Hzwe"
+  },
+  "384MAG8fZLUBFQoO2KgDVG": {
+    "name": "KIRA",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/384MAG8fZLUBFQoO2KgDVG"
+  },
+  "7meg3neLTT2WR1LDjL8jze": {
+    "name": "SANNI",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+  },
+  "0OYspJRShx3Yx7QIykOJgq": {
+    "name": "OG Ulla-Maija",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/0OYspJRShx3Yx7QIykOJgq"
+  },
+  "2oz0jioXNSXODEq6jrI1N7": {
+    "name": "Melissa Molinaro",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/2oz0jioXNSXODEq6jrI1N7"
+  },
+  "6GfT4eKNSSqWnftp6saGL7": {
+    "name": "Livvi Franc",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6GfT4eKNSSqWnftp6saGL7"
+  },
+  "3zh3U2eQ64EhBFbJuxgf1M": {
+    "name": "Teflon Brothers",
+    "genre": "dance-pop",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+  },
+  "6J2F6rTcNCJtktosxTxNw7": {
+    "name": "Jessica Sutta",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7"
+  },
+  "2TSCvFRJbnfG12C6sgdQtf": {
+    "name": "Eva Polna",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/2TSCvFRJbnfG12C6sgdQtf"
+  },
+  "0gXdjWalwSp0EkSetJ612q": {
+    "name": "FlowBack",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0gXdjWalwSp0EkSetJ612q"
+  },
+  "4uXWoMQ5N4kmQdBW3nFW4i": {
+    "name": "Mouhous",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+  },
+  "2tyTSKa7L65GGWQCawTmvW": {
+    "name": "Dana Sokolova",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/2tyTSKa7L65GGWQCawTmvW"
+  },
+  "0AjnB78SikKKhqYoqFIOXn": {
+    "name": "Attractions",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/0AjnB78SikKKhqYoqFIOXn"
+  },
+  "5YBtvuzpXoIj041GzSIeHk": {
+    "name": "GROSU",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5YBtvuzpXoIj041GzSIeHk"
+  },
+  "3qOWhxGLFTdbPPRjA4a4at": {
+    "name": "Timeka Marshall",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3qOWhxGLFTdbPPRjA4a4at"
+  },
+  "5kOwMqoAYEX24YgxEZP6K7": {
+    "name": "ABREU",
+    "genre": "dance-pop",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+  },
+  "3KgHd8tKiKYsazNkydQgYM": {
+    "name": "Evelina",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+  },
+  "1nw5g6u9BIPwyqlsm01cDP": {
+    "name": "F-Ve Dolls",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/1nw5g6u9BIPwyqlsm01cDP"
+  },
+  "0UdSjb6EeZYK8LGxHcgkkP": {
+    "name": "Euphonik",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0UdSjb6EeZYK8LGxHcgkkP"
+  },
+  "3fLkPfx3V60PGvUmS1cD3q": {
+    "name": "Podium",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3fLkPfx3V60PGvUmS1cD3q"
+  },
+  "7hBxJDok3cMASgeUTTGGFP": {
+    "name": "\u0420\u0435\u0433\u0438\u043d\u0430 \u0422\u043e\u0434\u043e\u0440\u0435\u043d\u043a\u043e",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/7hBxJDok3cMASgeUTTGGFP"
+  },
+  "6GpDGD5qrahn7HNztVtNYk": {
+    "name": "Loya",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/6GpDGD5qrahn7HNztVtNYk"
+  },
+  "0lyl8zoYXLCiL0Ht6Fb0FY": {
+    "name": "Tatiana Owens",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/0lyl8zoYXLCiL0Ht6Fb0FY"
+  },
+  "6OZwncgvNeMbEUOE1YG9AP": {
+    "name": "\u041b\u044e\u0434\u043c\u0438\u043b\u0430 \u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6OZwncgvNeMbEUOE1YG9AP"
+  },
+  "7DQ3WCryhwdbFr2D5SaKZN": {
+    "name": "Marvin Priest",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/7DQ3WCryhwdbFr2D5SaKZN"
+  },
+  "0rJEJ9T9JwC6ajdnMeqREY": {
+    "name": "Kaliffa",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+  },
+  "6j57OAd060Casvsu7TYDIl": {
+    "name": "Daniel Baron",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+  },
+  "4D8m6VLd1ySVC6A2tzFvrE": {
+    "name": "Nelli Matula",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+  },
+  "79Pc4RR5E625J7dK543jDw": {
+    "name": "Mikael Gabriel",
+    "genre": "dance-pop",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+  },
+  "7pUbbv62ajr1JDVFaftZJT": {
+    "name": "Marcia Hines",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT"
+  },
+  "7DdW8Ert3Z36hb1FkaZWiI": {
+    "name": "Elastinen",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+  },
+  "6XkazkLIatYdxRlOdOp5Et": {
+    "name": "kolme",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/6XkazkLIatYdxRlOdOp5Et"
+  },
+  "6svD2Nn4ZjcWAzKTPRtl5k": {
+    "name": "ELINA CHAGA",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6svD2Nn4ZjcWAzKTPRtl5k"
+  },
+  "5g5LhjZFyQzdHdk940gAAM": {
+    "name": "Alena Vysotskaya",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/5g5LhjZFyQzdHdk940gAAM"
+  },
+  "5XOFNBUv0d2HrBVyTcWCKi": {
+    "name": "Pihlaja",
+    "genre": "dance-pop",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+  },
+  "3I4GcOB25cSJHa9d7Bsgji": {
+    "name": "costee",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+  },
+  "34sQ4BJAwfwQsn9OgJtIzj": {
+    "name": "The Potbelleez",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/34sQ4BJAwfwQsn9OgJtIzj"
+  },
+  "5z9Z1vlOXGvDLBgKfzdswn": {
+    "name": "Poju",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn"
+  },
+  "0cGTphG94VloqKM0Dtn602": {
+    "name": "TIANA",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0cGTphG94VloqKM0Dtn602"
+  },
+  "0yaTsWl8WDwPAm4UNgMJHt": {
+    "name": "Thomas Fiss",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/0yaTsWl8WDwPAm4UNgMJHt"
+  },
+  "5WpHAEOowRK9peCx0CIdMy": {
+    "name": "Leola",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/5WpHAEOowRK9peCx0CIdMy"
+  },
+  "5zfNAxbKj2jx54fC0GzNMl": {
+    "name": "Unkn\u00f6wn Kun",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl"
+  },
+  "0g2NvaZmqy33oBVYbvdfpS": {
+    "name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0421\u043f\u0438\u0440\u0438\u0434\u043e\u043d\u043e\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0g2NvaZmqy33oBVYbvdfpS"
+  },
+  "7IXBfnDtVozqH52W9Un1Lw": {
+    "name": "\u0415\u043b\u0435\u043d\u0430 \u0422\u0435\u0440\u043b\u0435\u0435\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/7IXBfnDtVozqH52W9Un1Lw"
+  },
+  "5B2tbHAKw3oKXqkor1niNG": {
+    "name": "Angelica Agurbash",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/5B2tbHAKw3oKXqkor1niNG"
+  },
+  "7r9k0d7uURPaucWBl9pMwu": {
+    "name": "Amedeo Preziosi",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/7r9k0d7uURPaucWBl9pMwu"
+  },
+  "3OElmmR1D18e4dPTISAF5r": {
+    "name": "Roope Salminen & Koirat",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r"
+  },
+  "3qy9C549vuJzgevoM0ZiRA": {
+    "name": "Redrama",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA"
+  },
+  "5Ptz1xkszwS7JBksmx8gMt": {
+    "name": "Pasi ja Anssi",
+    "genre": "dance-pop",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt"
+  },
+  "3MaQwUQBigrjcMYHk8bDKm": {
+    "name": "Pyhimys",
+    "genre": "dance-pop",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
+  },
+  "7y1jmIY6xeYivxNTNbyrZJ": {
+    "name": "Craig Lucas",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
+  },
+  "5cvT1YrzMiVuHMg22UKIk5": {
+    "name": "Reino Nordin",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5"
+  },
+  "4I0iGnuW9JgdWr6WsFIHj5": {
+    "name": "Toya Delazy",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+  },
+  "0tZDIxsyeS3GjReij0aPVn": {
+    "name": "Kimberly Cole",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/0tZDIxsyeS3GjReij0aPVn"
+  },
+  "0hw9x6a7kuKY1TeoWU7mMa": {
+    "name": "\u0424\u0440\u0435\u043d\u0434\u044b feat. \u0421\u0430\u0448\u0430 \u0421\u043f\u0438\u043b\u0431\u0435\u0440\u0433",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/0hw9x6a7kuKY1TeoWU7mMa"
+  },
+  "2RImwn0eAgA8TWvlGPk0vu": {
+    "name": "Anita Tsoy",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/2RImwn0eAgA8TWvlGPk0vu"
+  },
+  "5iJXEHtvKwbsKZBNOCOE63": {
+    "name": "ANIMAL HACK",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/5iJXEHtvKwbsKZBNOCOE63"
+  },
+  "70OLJdY31J0j1JgNcLsvSc": {
+    "name": "Ryuji Imaichi",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/70OLJdY31J0j1JgNcLsvSc"
+  },
+  "76uFfZR7ZBbmQXGDlGsSZ7": {
+    "name": "To-ma",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/76uFfZR7ZBbmQXGDlGsSZ7"
+  },
+  "0pnnjlrPThCvF5REn5i3n1": {
+    "name": "Ashlyne Huff",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0pnnjlrPThCvF5REn5i3n1"
+  },
+  "7jwE5FqGmCoX2l5HYaLfkP": {
+    "name": "SASUKE",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/7jwE5FqGmCoX2l5HYaLfkP"
+  },
+  "3sbMONpKuOCellG9pze0mY": {
+    "name": "SOYANA",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3sbMONpKuOCellG9pze0mY"
+  },
+  "6FJu9BhZBw8ZWFtFR3c9uX": {
+    "name": "YOUNGHEARTED",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX"
+  },
+  "7zX44fpv6srJt3HfBv0GCn": {
+    "name": "Pete Parkkonen",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+  },
+  "1pbX4qbCZOyiRA0ih5jGfX": {
+    "name": "Ida Paul & Kalle Lindroth",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX"
+  },
+  "2E9tudzDWq47TSerQMvYMq": {
+    "name": "Irie Kingz",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/2E9tudzDWq47TSerQMvYMq"
+  },
+  "5HH4t1HKVKg1hgcWCWOWSz": {
+    "name": "Natalie Gauci",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/5HH4t1HKVKg1hgcWCWOWSz"
+  },
+  "2NsPu9shOTsojNUZyw22pR": {
+    "name": "ChianoSky",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/2NsPu9shOTsojNUZyw22pR"
+  },
+  "0KTP3GQtxCTbDadp9GVPWM": {
+    "name": "Groovehouse",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/0KTP3GQtxCTbDadp9GVPWM"
+  },
+  "0nKpqFaNG7C0qiGZHoqpSM": {
+    "name": "Akane",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0nKpqFaNG7C0qiGZHoqpSM"
+  },
+  "2iANAUjiYi4vJUFXce5eL1": {
+    "name": "Irigy Honaljmirigy",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/2iANAUjiYi4vJUFXce5eL1"
+  },
+  "1AXqKV1nhx3eMcHzD5pNVx": {
+    "name": "Jamkid",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx"
+  },
+  "6VVSjZwPAHNbkKeMhTI2bb": {
+    "name": "VilleGalle",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+  },
+  "52k2KcEXIZTnYD2EpOoJiZ": {
+    "name": "Pikku G",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ"
+  },
+  "7ISARfXENNWqIhKcO6kyrG": {
+    "name": "Anssi Kela",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG"
+  },
+  "4CvGI7cUCGi7gcG0X0nrwc": {
+    "name": "TUULI",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+  },
+  "18KcOgLds5SUgIpQIveiJN": {
+    "name": "Keko Salata",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
+  },
+  "11OHTUETXL6VR3cnv9KNF1": {
+    "name": "Mansesteri",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/11OHTUETXL6VR3cnv9KNF1"
+  },
+  "2510ceejHZpIpxbGpiovch": {
+    "name": "M\u00e4kki",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+  },
+  "6E4eoLJTZYyIC5cZVg6fDx": {
+    "name": "Kate Ceberano",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx"
+  },
+  "4l0zTor5S32Yly4uw96Bto": {
+    "name": "Petri Nyg\u00e5rd",
+    "genre": "dance-pop",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto"
+  },
+  "05qPtpcSltJZLI9sj0qm3B": {
+    "name": "Spekti",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B"
+  },
+  "49NJc5qDmCRsN3SsBAqEa4": {
+    "name": "Natalie Bassingthwaighte",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/49NJc5qDmCRsN3SsBAqEa4"
+  },
+  "5iFuIxdmHNEiGJaR49TLL9": {
+    "name": "Juno",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9"
+  },
+  "6WhRNmekAnpW3ae3Nlu1xw": {
+    "name": "Yksi Totuus",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw"
+  },
+  "3oR4WGx25VnbDs2FNE4e4T": {
+    "name": "Dolly Roll",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/3oR4WGx25VnbDs2FNE4e4T"
+  },
+  "31l5HEi8RuEjCwU46y49Hf": {
+    "name": "Hesa\u00c4ij\u00e4",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/31l5HEi8RuEjCwU46y49Hf"
+  },
+  "5zmBbgxO5dvb4sbsX6dL19": {
+    "name": "Vilma Alina",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+  },
+  "6IuS73qKuYfrYqA5g5iq0h": {
+    "name": "Imenella",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+  },
+  "0kWknKjD7r2hNh8KntEx59": {
+    "name": "TIPPA",
+    "genre": "dance-pop",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
+  },
+  "5s77Nldm0GrOQkMIElogdo": {
+    "name": "Labyrint",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+  },
+  "5WRAuDvYnPULgEcceMB2KS": {
+    "name": "David Moreno",
+    "genre": "dance-pop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/5WRAuDvYnPULgEcceMB2KS"
+  },
+  "6lTsR4YPikPD1yQTkZXWG9": {
+    "name": "\u0414\u0435\u043d\u0438\u0441 \u0420\u0435\u043a\u043e\u043d\u0432\u0430\u043b\u044c\u0434",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6lTsR4YPikPD1yQTkZXWG9"
+  },
+  "5nNOrXqly2BiIBTQPHvaJ1": {
+    "name": "Renata Shtifel",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/5nNOrXqly2BiIBTQPHvaJ1"
+  },
+  "3CMmBrKmaMVnxHuIfbv7Q4": {
+    "name": "Carishma",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3CMmBrKmaMVnxHuIfbv7Q4"
+  },
+  "70qegoEVdJ0HaWQt9tr2PV": {
+    "name": "Anna Shulgina",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/70qegoEVdJ0HaWQt9tr2PV"
+  },
+  "1GenbzILS9998RfKACpyQ3": {
+    "name": "CTS",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/1GenbzILS9998RfKACpyQ3"
+  },
+  "4v1AGhwYifShsZjBMiBMiY": {
+    "name": "Afrodita",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/4v1AGhwYifShsZjBMiBMiY"
+  },
+  "4ATbuojpKprYSjrhdJw2Xv": {
+    "name": "Samantha Marq",
+    "genre": "dance-pop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/4ATbuojpKprYSjrhdJw2Xv"
+  },
+  "0iDe84H9rzwWtZH3aSrPH3": {
+    "name": "Kaya Jones",
+    "genre": "dance-pop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/0iDe84H9rzwWtZH3aSrPH3"
+  },
+  "3FefCqBwx7cBzZZOXN8RHe": {
+    "name": "\u041d\u0430\u0441\u0442\u0430\u0441\u044c\u044f \u0421\u0430\u043c\u0431\u0443\u0440\u0441\u043a\u0430\u044f",
+    "genre": "dance-pop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/3FefCqBwx7cBzZZOXN8RHe"
+  },
+  "4WPow5nYm3HAt4lZQVkA9H": {
+    "name": "Jessie and The Toy Boys",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/4WPow5nYm3HAt4lZQVkA9H"
+  },
+  "3Zs4zRtT5oaenOXxlyL1Iu": {
+    "name": "Keh\u00e4",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/3Zs4zRtT5oaenOXxlyL1Iu"
+  },
+  "698G3wWsZuPgeBhS9i7qe6": {
+    "name": "Zander Bleck",
+    "genre": "dance-pop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/698G3wWsZuPgeBhS9i7qe6"
+  },
+  "4zfxpFGH20QtzHVCDgEFrO": {
+    "name": "Lily",
+    "genre": "dance-pop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/4zfxpFGH20QtzHVCDgEFrO"
+  },
+  "4vfhIW8ColcLc6T9zUcmVX": {
+    "name": "Ustinova",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/4vfhIW8ColcLc6T9zUcmVX"
+  },
+  "6WZPhtjFrjpWOMPC6bKOk9": {
+    "name": "DJ Kan",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6WZPhtjFrjpWOMPC6bKOk9"
+  },
+  "4qojHFVaMgvpZZ1LW0L9To": {
+    "name": "Tuure Boelius",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+  },
+  "6xyZPglTnttelIug3zNqH5": {
+    "name": "Vlad Sokolovskiy",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6xyZPglTnttelIug3zNqH5"
+  },
+  "3aDxFgyBWN7ITv32EfEvHj": {
+    "name": "iamSHUM",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3aDxFgyBWN7ITv32EfEvHj"
+  },
+  "7wpzJLl0ElNQwRRsALqUSd": {
+    "name": "Ilta",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+  },
+  "4ukbmsqidRruP2Is95kkTA": {
+    "name": "The New Cities",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/4ukbmsqidRruP2Is95kkTA"
+  },
+  "3JY8GFc8pkn7G8l5UiQ5jX": {
+    "name": "Remidee",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/3JY8GFc8pkn7G8l5UiQ5jX"
+  },
+  "0VC6AVnHYGF2PvOaQApVWE": {
+    "name": "Chris Salvatore",
+    "genre": "dance-pop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0VC6AVnHYGF2PvOaQApVWE"
+  },
+  "6BSC0WQKaiu5dY5jgfpnCw": {
+    "name": "Khaled Aggag",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6BSC0WQKaiu5dY5jgfpnCw"
+  },
+  "7BqE4BXcOntGJ2oyvSGGWB": {
+    "name": "Djumbo",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7BqE4BXcOntGJ2oyvSGGWB"
+  },
+  "5pSOxYP5DFanZrANbRcdHd": {
+    "name": "XOX",
+    "genre": "dance-pop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/5pSOxYP5DFanZrANbRcdHd"
+  },
+  "5Rox8f4AbW7lTCTK34oONf": {
+    "name": "CICADA",
+    "genre": "dance-pop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/5Rox8f4AbW7lTCTK34oONf"
+  },
+  "7dgrSH4XufRw3FlLYBMlgg": {
+    "name": "Hip Hop Boyz",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/7dgrSH4XufRw3FlLYBMlgg"
+  },
+  "7pzIBGIsX1puhih75jGnX3": {
+    "name": "Hoda",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3"
+  },
+  "4xvNyHl9g3K8U2n5kOwCSJ": {
+    "name": "Bon-Bon",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/4xvNyHl9g3K8U2n5kOwCSJ"
+  },
+  "6IhKQ4jbMYJqeaWI8Byq8G": {
+    "name": "Fekete Vonat",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/6IhKQ4jbMYJqeaWI8Byq8G"
+  },
+  "7C6WY3mGuz9yBnmtJpKgJp": {
+    "name": "Zolt\u00e1n Erika",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/7C6WY3mGuz9yBnmtJpKgJp"
+  },
+  "4WBZSqhp3CgTL5XUgfXvBm": {
+    "name": "Banty Foot",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4WBZSqhp3CgTL5XUgfXvBm"
+  },
+  "7HAubTO93Y0v7ehklEVB6z": {
+    "name": "\u00c1mokfut\u00f3k",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/7HAubTO93Y0v7ehklEVB6z"
+  },
+  "1axnY2HalS1dffgzHfGCsL": {
+    "name": "Romantic",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/1axnY2HalS1dffgzHfGCsL"
+  },
+  "2E5rkwWAKphgpurncaoAyn": {
+    "name": "Nikke Ankara",
+    "genre": "dance-pop",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn"
+  },
+  "4DpQueNEIhOottP5j70XqR": {
+    "name": "SINI YASEMIN",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR"
+  },
+  "5snT42U5Idsx3yMyagn1Hh": {
+    "name": "Pa-D\u00f6-D\u00f6",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/5snT42U5Idsx3yMyagn1Hh"
+  },
+  "0FgPkjSOY3FoLQRXeNbkhL": {
+    "name": "Aste",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+  },
+  "6d2cna6ab3mL140jbRNXqV": {
+    "name": "Dilemma",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+  },
+  "0u24i6ZS1dxwPzDPuM0qqT": {
+    "name": "WIL",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
+  },
+  "5ffRhIFF1wJD3JJLDXt4hY": {
+    "name": "Jannika B",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY"
+  },
+  "4e9ntSageEujJboJQBXtCd": {
+    "name": "Ollie",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
+  },
+  "1ZIrF0ZDNIdoTwt57VjkGI": {
+    "name": "Jonne Aaron",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1ZIrF0ZDNIdoTwt57VjkGI"
+  },
+  "4d5lT8L9TN7RfbYCs1sa8n": {
+    "name": "Mikko Harju",
+    "genre": "dance-pop",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n"
+  },
+  "7sffd21zAdar6cigY9A1b7": {
+    "name": "Br\u00e4di",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7"
+  },
+  "1Q0Vv9aJFSOCFFHsH3seWX": {
+    "name": "Uniikki",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX"
+  },
+  "5eDDKdMzwO9fODuj6lUEaG": {
+    "name": "Kuningas P\u00e4hkin\u00e4 & Set\u00e4 Tamu",
+    "genre": "dance-pop",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/5eDDKdMzwO9fODuj6lUEaG"
+  },
+  "2KGbvHE2WfRazq4yE3pcWi": {
+    "name": "Aleksanteri Hakaniemi",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+  },
+  "3kMHWNlRYrb3c6NpmP8EQh": {
+    "name": "Bye Beneco",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh"
+  },
+  "69grVcN5UQeX34dKNyV1ut": {
+    "name": "Mariska",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut"
+  },
+  "1vZsTsBd4VNRtk9gKOeZRu": {
+    "name": "Lord Est",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/1vZsTsBd4VNRtk9gKOeZRu"
+  },
+  "1z48rMKnmB9lBHx895J0jY": {
+    "name": "YOSA & TAAR",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY"
+  },
+  "2FHDFyoWmQcLxfhT6AL613": {
+    "name": "Crystal Harris",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2FHDFyoWmQcLxfhT6AL613"
+  },
+  "24N8eajqQpYqJQOzTCtcy1": {
+    "name": "Starshell",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/24N8eajqQpYqJQOzTCtcy1"
+  },
+  "4KdyRwfszqMnl0KQfV2zpn": {
+    "name": "Savannah Robinson",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4KdyRwfszqMnl0KQfV2zpn"
+  },
+  "1REmqCgx0jJCnnpbAMMfDB": {
+    "name": "Kyle Brylin",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1REmqCgx0jJCnnpbAMMfDB"
+  },
+  "2pXtVASdiZBfGl2Ppzfgwk": {
+    "name": "The Electric Barbarellas",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2pXtVASdiZBfGl2Ppzfgwk"
+  },
+  "3omt6mhweiWazS5FMbQxMK": {
+    "name": "Majors & Minors Cast",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3omt6mhweiWazS5FMbQxMK"
+  },
+  "4AKTEC5bFSaJkaiPZFypLE": {
+    "name": "Lynn Larouge",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4AKTEC5bFSaJkaiPZFypLE"
+  },
+  "0omq3xx2viDCYCEYNAUFF7": {
+    "name": "YUNOSY",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0omq3xx2viDCYCEYNAUFF7"
+  },
+  "6kOyaJT7N15vJDm1rznVW6": {
+    "name": "Ryan Adames",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6kOyaJT7N15vJDm1rznVW6"
+  },
+  "3NRXJ8FqiM38ItqvPQJKNt": {
+    "name": "Fourlicious",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3NRXJ8FqiM38ItqvPQJKNt"
+  },
+  "660Wv0kmLbHUvj71bbsFdK": {
+    "name": "\u0421\u0442\u0435\u0444\u0430\u043d\u0438\u044f \u041c\u0430\u043b\u0438\u043a\u043e\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/660Wv0kmLbHUvj71bbsFdK"
+  },
+  "43AN2zWILtJmL0sF2hICpz": {
+    "name": "YODAKEE",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/43AN2zWILtJmL0sF2hICpz"
+  },
+  "7j9OuZaDyALaua2THrE13W": {
+    "name": "Marcello Jonno",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7j9OuZaDyALaua2THrE13W"
+  },
+  "1XbumlZbEnpFq2cKpi4tsR": {
+    "name": "Klass1kko",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1XbumlZbEnpFq2cKpi4tsR"
+  },
+  "45lIhFT6bFZeT6n4sdXZl8": {
+    "name": "Nomi Enckell",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/45lIhFT6bFZeT6n4sdXZl8"
+  },
+  "7EFGoZ9T5wOXstucba6Xr1": {
+    "name": "AlexNo",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7EFGoZ9T5wOXstucba6Xr1"
+  },
+  "5hOJLXUv21qkmUd23yhtd3": {
+    "name": "\u0422\u0430\u0448\u0430 \u0411\u0435\u043b\u0430\u044f",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5hOJLXUv21qkmUd23yhtd3"
+  },
+  "5Qj7H09Sbhqh4RGXJ1HyNG": {
+    "name": "DJ Berlin",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5Qj7H09Sbhqh4RGXJ1HyNG"
+  },
+  "3eVKoX7dg4zLHdtgJstLgr": {
+    "name": "ONE ZIM",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3eVKoX7dg4zLHdtgJstLgr"
+  },
+  "1b4GuTCXePxpEjnbCAYKdR": {
+    "name": "Tom Andrews",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1b4GuTCXePxpEjnbCAYKdR"
+  },
+  "70FbSi6g7bBlKyzhhZbIAw": {
+    "name": "Himmeet Kuviot",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/70FbSi6g7bBlKyzhhZbIAw"
+  },
+  "2dgvSwqsBBsIGxZjR3Qnn3": {
+    "name": "Samuel Shipway",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3"
+  },
+  "1KO1jYJ7mS4QFndK2S7LZy": {
+    "name": "Meissi",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1KO1jYJ7mS4QFndK2S7LZy"
+  },
+  "0pAORXlGDTWSOCe8sjjp6M": {
+    "name": "DaniElle DeLaite",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0pAORXlGDTWSOCe8sjjp6M"
+  },
+  "6V2IxhC0IY2vx1rrlcAjw8": {
+    "name": "TBR Music",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6V2IxhC0IY2vx1rrlcAjw8"
+  },
+  "0wx09Lsme7PTxCIVtnb5vM": {
+    "name": "FUTURE BOYZ",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0wx09Lsme7PTxCIVtnb5vM"
+  },
+  "2tmZEVaxMvlW6qKhMgiRpV": {
+    "name": "Vilikasper Kanth",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2tmZEVaxMvlW6qKhMgiRpV"
+  },
+  "3cnWulZ8pnP8kBboY4j1qZ": {
+    "name": "Matias",
+    "genre": "dance-pop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/3cnWulZ8pnP8kBboY4j1qZ"
+  },
+  "2OPbLGX1C6wMGxB6kYXGnV": {
+    "name": "Dante feat. \u0410\u043d\u043d\u0430 \u041c\u0430\u0440\u0447\u0435\u0432\u0441\u043a\u0430\u044f",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2OPbLGX1C6wMGxB6kYXGnV"
+  },
+  "7IZmrTVGhTnzowqTXnfmET": {
+    "name": "Bobble Head",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7IZmrTVGhTnzowqTXnfmET"
+  },
+  "5k02y5MUBDTXkIQUbzD6nQ": {
+    "name": "Julmari & Oliveri",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5k02y5MUBDTXkIQUbzD6nQ"
+  },
+  "4rOnR8q4FlQt8l5TkKOlbR": {
+    "name": "Big Wallu",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4rOnR8q4FlQt8l5TkKOlbR"
+  },
+  "43oatn9JAQFt97UkeDAUQs": {
+    "name": "Sallan Ja Miron Matka Maailman Ymp\u00e4ri",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/43oatn9JAQFt97UkeDAUQs"
+  },
+  "07An9HddmURQSPCzXU2VrZ": {
+    "name": "Luigi Masi",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/07An9HddmURQSPCzXU2VrZ"
+  },
+  "53A1PsCLcsTivJYiWrbEn6": {
+    "name": "\u0422\u0430\u043c\u0435\u0440\u043b\u0430\u043d",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/53A1PsCLcsTivJYiWrbEn6"
+  },
+  "01xpmfKIH88c3v6F0obkKu": {
+    "name": "Amanda Morra",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/01xpmfKIH88c3v6F0obkKu"
+  },
+  "7c0k8xHH0jOxtoHbI3D4wK": {
+    "name": "Jenni Jaakkola",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/7c0k8xHH0jOxtoHbI3D4wK"
+  },
+  "1FIaULa2KyBlKVliMMOjb9": {
+    "name": "Alina Grosu",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1FIaULa2KyBlKVliMMOjb9"
+  },
+  "4C5J8axluerGqAKm01D5ve": {
+    "name": "\u0416\u0435\u043d\u044f \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u043e\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4C5J8axluerGqAKm01D5ve"
+  },
+  "1DHUxIkwN2pnvalBK4JX0q": {
+    "name": "A.R.M.I.A",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1DHUxIkwN2pnvalBK4JX0q"
+  },
+  "0TsEVqqUGIKLHHRz4o7pL9": {
+    "name": "Habio",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0TsEVqqUGIKLHHRz4o7pL9"
+  },
+  "3e9pnzGwtjWgYJPWNjqVvr": {
+    "name": "\u0410\u043d\u043d\u0430 \u041f\u043b\u0435\u0442\u043d\u0451\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3e9pnzGwtjWgYJPWNjqVvr"
+  },
+  "4HQzd6CvawmmIqU9nJ47E0": {
+    "name": "Prinssi Jusuf",
+    "genre": "dance-pop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/4HQzd6CvawmmIqU9nJ47E0"
+  },
+  "7Egfjf2iz0PwzypcY2ZvQe": {
+    "name": "Kid1",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/7Egfjf2iz0PwzypcY2ZvQe"
+  },
+  "4Vq4KLVU9EK95pwyPyxeTN": {
+    "name": "Miro Miikael",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/4Vq4KLVU9EK95pwyPyxeTN"
+  },
+  "4vCM2lfPUoZG5wNRUDNgUP": {
+    "name": "\u041e\u043b\u044c\u0433\u0430 \u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0430\u044f",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4vCM2lfPUoZG5wNRUDNgUP"
+  },
+  "5sZziLiDX3NsWAZKGHTQ5D": {
+    "name": "Jyrise",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/5sZziLiDX3NsWAZKGHTQ5D"
+  },
+  "39JCoTlFVGrnVayjLjmnI0": {
+    "name": "Giulietta",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/39JCoTlFVGrnVayjLjmnI0"
+  },
+  "4ZZObcD0AYqSiByWd3xZIQ": {
+    "name": "Set\u00e4 Tamu",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/4ZZObcD0AYqSiByWd3xZIQ"
+  },
+  "0WSrosideBq776LQIhBWqO": {
+    "name": "KEITA",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0WSrosideBq776LQIhBWqO"
+  },
+  "6CuBLNMD7jMKc3NkQcJj6k": {
+    "name": "Kristine Elezaj",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6CuBLNMD7jMKc3NkQcJj6k"
+  },
+  "5XomEoXT6P3CSGfyp0Ewbw": {
+    "name": "\u0414\u0416\u041e\u041a\u0415\u0420\u042b",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5XomEoXT6P3CSGfyp0Ewbw"
+  },
+  "7BXcNrsbRa7KvcHuCnEWOT": {
+    "name": "Juho ja Mika",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/7BXcNrsbRa7KvcHuCnEWOT"
+  },
+  "44TnldnGL3havot4hB2S6m": {
+    "name": "Anna May",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/44TnldnGL3havot4hB2S6m"
+  },
+  "6bp9SRLfrfYf2n9yAAHUL9": {
+    "name": "Pasanen",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/6bp9SRLfrfYf2n9yAAHUL9"
+  },
+  "26n3OCboOBdFP8PqkrFXQD": {
+    "name": "DEM",
+    "genre": "dance-pop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/26n3OCboOBdFP8PqkrFXQD"
+  },
+  "3dinv4g5vKp79hq3O7hHi2": {
+    "name": "From Above",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3dinv4g5vKp79hq3O7hHi2"
+  },
+  "0yecN0qtZXrU5gb3oqFqZp": {
+    "name": "Bile-Dani",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0yecN0qtZXrU5gb3oqFqZp"
+  },
+  "1zPcGqVL0a0l86qXhS8qmX": {
+    "name": "Jonboi & Pikkis",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/1zPcGqVL0a0l86qXhS8qmX"
+  },
+  "1NWnDQKWfNEhQr2WfLUN0C": {
+    "name": "Ashley Roberts",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1NWnDQKWfNEhQr2WfLUN0C"
+  },
+  "7CRamPDG7O8yJHCRCcVdBc": {
+    "name": "Vitosketju",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7CRamPDG7O8yJHCRCcVdBc"
+  },
+  "5aN6M4aR1e0yUxlOzktBpg": {
+    "name": "Nikolai Alho",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/5aN6M4aR1e0yUxlOzktBpg"
+  },
+  "1d92TTBgMj3vqtOs8DQ499": {
+    "name": "Satin Circus",
+    "genre": "dance-pop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/1d92TTBgMj3vqtOs8DQ499"
+  },
+  "24zGM5PXUegufUvSRBJXmW": {
+    "name": "Kliff",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/24zGM5PXUegufUvSRBJXmW"
+  },
+  "2W8mMaH9pQ1SDc7UAsXQ30": {
+    "name": "Chelsea Korka",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2W8mMaH9pQ1SDc7UAsXQ30"
+  },
+  "2RPnfaY31zOrWvpJYRfmIe": {
+    "name": "Olga Orlova",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/2RPnfaY31zOrWvpJYRfmIe"
+  },
+  "2JCdFfaB7RiSjxFsC9Akcs": {
+    "name": "Kyrah",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2JCdFfaB7RiSjxFsC9Akcs"
+  },
+  "2reSl2kucfdGmyusGIjcuo": {
+    "name": "Alena Valensiya",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2reSl2kucfdGmyusGIjcuo"
+  },
+  "2tdief92DCo0dq3uz28kSE": {
+    "name": "Henriguez",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2tdief92DCo0dq3uz28kSE"
+  },
+  "7rzKhtENXniixwYOj6KrTC": {
+    "name": "CYBERJAPAN DANCERS",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/7rzKhtENXniixwYOj6KrTC"
+  },
+  "1g7Ks7Y1SPvOVqdTrlRkas": {
+    "name": "Rubber Duck Rescue",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/1g7Ks7Y1SPvOVqdTrlRkas"
+  },
+  "6tyCrcMr1AbQ4PkZ9PzzsR": {
+    "name": "Bukatara",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/6tyCrcMr1AbQ4PkZ9PzzsR"
+  },
+  "3mZXsbs6pQNXWlmu7AmgLS": {
+    "name": "Nost3 & Protro",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3mZXsbs6pQNXWlmu7AmgLS"
+  },
+  "6slTlDE46Q2BLEKLQSHCUo": {
+    "name": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u041a\u043e\u0442\u043e\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/6slTlDE46Q2BLEKLQSHCUo"
+  },
+  "4Blz9WWnj6az2CITX9wjWP": {
+    "name": "Jupus",
+    "genre": "dance-pop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/4Blz9WWnj6az2CITX9wjWP"
+  },
+  "1ebLm7SuL5xKwVUHu6OcfN": {
+    "name": "Junnosuke Taguchi",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1ebLm7SuL5xKwVUHu6OcfN"
+  },
+  "5QBfJSoAGPs4GJEgavpICd": {
+    "name": "Gabriel Lion",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5QBfJSoAGPs4GJEgavpICd"
+  },
+  "7DmB7b3J17LwKsXux4wGoS": {
+    "name": "Kuningaskunta",
+    "genre": "dance-pop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7DmB7b3J17LwKsXux4wGoS"
+  },
+  "06nAccQ7fxeA5d2SZvnfcw": {
+    "name": "Hank Solo",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/06nAccQ7fxeA5d2SZvnfcw"
+  },
+  "7m9VLB9VNkJ3bt3rbFK2Ee": {
+    "name": "Jeremy Folderol",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/7m9VLB9VNkJ3bt3rbFK2Ee"
+  },
+  "69cEcL61s7pchN3P8OAxC9": {
+    "name": "King Rabbits",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/69cEcL61s7pchN3P8OAxC9"
+  },
+  "3qmP0i2etD96nI7pgl8y6S": {
+    "name": "Bang For The Buck",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3qmP0i2etD96nI7pgl8y6S"
+  },
+  "6WWBTyRPRrxVMMqHOnXbSq": {
+    "name": "Pasha Panamo",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/6WWBTyRPRrxVMMqHOnXbSq"
+  },
+  "4sllRDaXOp0xJqpqk78MI5": {
+    "name": "Leyona",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/4sllRDaXOp0xJqpqk78MI5"
+  },
+  "0L1jc0fayjnewrjbAmEJZG": {
+    "name": "M\u00f8tions",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/0L1jc0fayjnewrjbAmEJZG"
+  },
+  "2q4DyDrrCWAlIk8foYvVWC": {
+    "name": "ShuuKaRen",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2q4DyDrrCWAlIk8foYvVWC"
+  },
+  "0pgj6baVfMHvEF8XpDcTp4": {
+    "name": "VG+",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0pgj6baVfMHvEF8XpDcTp4"
+  },
+  "66msmpIMcbvv8WQNqnRMmL": {
+    "name": "\u041d\u0430\u0441\u0442\u044f \u0417\u0430\u0434\u043e\u0440\u043e\u0436\u043d\u0430\u044f",
+    "genre": "dance-pop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/66msmpIMcbvv8WQNqnRMmL"
+  },
+  "5l4zlynWHkJc6Z9kSjr4q5": {
+    "name": "PEARL CENTER X AAAMYYY",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/5l4zlynWHkJc6Z9kSjr4q5"
+  },
+  "63oXt4BHtAHFtdXkJFqpK3": {
+    "name": "Adam Tyler",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/63oXt4BHtAHFtdXkJFqpK3"
+  },
+  "1MHj8Iuhlho7S8RhFMVWN9": {
+    "name": "Masha Koltsova",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/1MHj8Iuhlho7S8RhFMVWN9"
+  },
+  "6HqypVY9oXCHhRXfgwmKDI": {
+    "name": "Sima",
+    "genre": "dance-pop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/6HqypVY9oXCHhRXfgwmKDI"
+  },
+  "4jxMrZynXvfo8PbnzWPwBF": {
+    "name": "Guinevere",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4jxMrZynXvfo8PbnzWPwBF"
+  },
+  "2l9jpXy4K7cEPU1JaO5sdk": {
+    "name": "\u042e\u043b\u0438\u044f \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/2l9jpXy4K7cEPU1JaO5sdk"
+  },
+  "1SkqpNg8gZEovWkmsODPkJ": {
+    "name": "Erakossa",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/1SkqpNg8gZEovWkmsODPkJ"
+  },
+  "7ohAWeFgtYSR3BidPq5Mmc": {
+    "name": "Siru",
+    "genre": "dance-pop",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7ohAWeFgtYSR3BidPq5Mmc"
+  },
+  "1QTxdEXxBNqDUuxh8sdtsM": {
+    "name": "The Jigits",
+    "genre": "dance-pop",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/1QTxdEXxBNqDUuxh8sdtsM"
+  },
+  "1DebppLKfcMcFh8abYI24e": {
+    "name": "MABU",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/1DebppLKfcMcFh8abYI24e"
+  },
+  "7rXEgdWTzacX0b0PS09lHK": {
+    "name": "\u042e\u043b\u0438\u044f \u041c\u0438\u0445\u0430\u043b\u044c\u0447\u0438\u043a",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7rXEgdWTzacX0b0PS09lHK"
+  },
+  "6qVviCk18t5VEpc4YbjAXK": {
+    "name": "Timi Lexikon",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/6qVviCk18t5VEpc4YbjAXK"
+  },
+  "6OEXPiWxmW2cfab7tuVel8": {
+    "name": "Repliikki",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6OEXPiWxmW2cfab7tuVel8"
+  },
+  "4MekC0rkTu3HmHT7DpZjRo": {
+    "name": "\u041c\u0430\u0440\u0442\u0430 \u041a\u043e\u0442",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4MekC0rkTu3HmHT7DpZjRo"
+  },
+  "3EF4VRQ070EJ17NO71Pp1P": {
+    "name": "RUN THE FLOOR",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/3EF4VRQ070EJ17NO71Pp1P"
+  },
+  "4iu3NcU8ZoistQ19d8k9mS": {
+    "name": "The Hotpantz",
+    "genre": "dance-pop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/4iu3NcU8ZoistQ19d8k9mS"
+  },
+  "36J21Stny1TZ5XyJkL7E5I": {
+    "name": "Valovuosi",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/36J21Stny1TZ5XyJkL7E5I"
+  },
+  "43VKe7mo3VkfNe9Ul8sWAW": {
+    "name": "\u0418\u0440\u0438\u043d\u0430 \u0410\u043b\u043b\u0435\u0433\u0440\u043e\u0432\u0430 & IVAN",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/43VKe7mo3VkfNe9Ul8sWAW"
+  },
+  "0zVDKOEfHt5M60lP0DzuUF": {
+    "name": "\u0421\u043b\u0430\u0432\u0430 \u0411\u0430\u0441\u044e\u043b",
+    "genre": "dance-pop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0zVDKOEfHt5M60lP0DzuUF"
+  },
+  "2pHgtU30KixBdq9YEu7H9u": {
+    "name": "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/2pHgtU30KixBdq9YEu7H9u"
+  },
+  "56L69pTRrbMIVQoO9wbaS9": {
+    "name": "RED DIAMOND DOGS",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/56L69pTRrbMIVQoO9wbaS9"
+  },
+  "7nSkQAieUIDyrRLUkbsHPB": {
+    "name": "The Nev\u00f6h\u00f6\u00f6d DJ's",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/7nSkQAieUIDyrRLUkbsHPB"
+  },
+  "15pdOimDDCGWWkTH7N84n3": {
+    "name": "TANAKA ALICE",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/15pdOimDDCGWWkTH7N84n3"
+  },
+  "3tQv21827u52w4BSYoNbYE": {
+    "name": "Vihre\u00e4t Valot",
+    "genre": "dance-pop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/3tQv21827u52w4BSYoNbYE"
+  },
+  "0S1jRLy05hbKZdYvGxWJGG": {
+    "name": "\u0415\u043b\u0435\u043d\u0430 \u041a\u043d\u044f\u0437\u0435\u0432\u0430",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0S1jRLy05hbKZdYvGxWJGG"
+  },
+  "20f6B9Hp7m5IJ61qP5JtUj": {
+    "name": "\u041a\u0430\u0442\u044f \u0413\u043e\u0440\u0434\u043e\u043d",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/20f6B9Hp7m5IJ61qP5JtUj"
+  },
+  "51yKEIICzgEkQKErNzccIO": {
+    "name": "DJ PIGER",
+    "genre": "dance-pop",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/51yKEIICzgEkQKErNzccIO"
+  },
+  "6mDk66ve0fGJEeQitIW1hj": {
+    "name": "Anastasia Karpova",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6mDk66ve0fGJEeQitIW1hj"
+  },
+  "6mkdsFN9hfvPu2X99LSiQD": {
+    "name": "Def Will",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/6mkdsFN9hfvPu2X99LSiQD"
+  },
+  "61SkPsgp4tVMzeYudqOEI4": {
+    "name": "\u0414\u0418\u041d\u0410\u041c\u0410",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/61SkPsgp4tVMzeYudqOEI4"
+  },
+  "431OQAHp6yrYaAapltdACF": {
+    "name": "Annukka",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/431OQAHp6yrYaAapltdACF"
+  },
+  "3Awhg0cBQF0c1arITbUUhu": {
+    "name": "PistePiste",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/3Awhg0cBQF0c1arITbUUhu"
+  },
+  "5UBkH6rCwJph8r38ZKQug6": {
+    "name": "Rosi",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
+  },
+  "7iSnbTHibh7MMCtvKm6mVR": {
+    "name": "Ella Lymi",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/7iSnbTHibh7MMCtvKm6mVR"
+  },
+  "5nqTBNYQhCac1II4CizSPe": {
+    "name": "Juulia",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/5nqTBNYQhCac1II4CizSPe"
+  },
+  "61VjzIVLRWp9FDcLE886T8": {
+    "name": "Brock Zanrosso",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/61VjzIVLRWp9FDcLE886T8"
+  },
+  "0aH1DQ4mkEZsm0B2VwK43H": {
+    "name": "STEREO",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/0aH1DQ4mkEZsm0B2VwK43H"
+  },
+  "2vMYb9ojrYEFFcz0IRF2b3": {
+    "name": "Elias Gould",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3"
+  },
+  "5XNKe32tsuNhLzAdU6RZeY": {
+    "name": "Mitra",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/5XNKe32tsuNhLzAdU6RZeY"
+  },
+  "3wJILyESmfRrahx4vNGhP4": {
+    "name": "Mikko Pohjola",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3wJILyESmfRrahx4vNGhP4"
+  },
+  "0wF3Gc1ZfEIFcxMKX7ksJk": {
+    "name": "eetu",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0wF3Gc1ZfEIFcxMKX7ksJk"
+  },
+  "44aOM1DNwPKGb0ticurbPT": {
+    "name": "Anniina",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT"
+  },
+  "469rPlDFAryMc5xWCb77jD": {
+    "name": "Eve Hotti",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/469rPlDFAryMc5xWCb77jD"
+  },
+  "4QofvyRFuC4c4XXrQhcmog": {
+    "name": "Sana",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog"
+  },
+  "20blWBSxe4aB64OVppgpld": {
+    "name": "Leo Stillman",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld"
+  },
+  "3vSPGdAKywVxEwnOXjghbG": {
+    "name": "Titta",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/3vSPGdAKywVxEwnOXjghbG"
+  },
+  "1Pk1wOWlZbizyfAptxFHxg": {
+    "name": "Diandra",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg"
+  },
+  "535Xg4vn2j9uiHSJLD1hp6": {
+    "name": "Ilpo Kaikkonen",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/535Xg4vn2j9uiHSJLD1hp6"
+  },
+  "2ema1DJVrVL8ZzcNF2hRcj": {
+    "name": "Elias Kaskinen",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+  },
+  "6nTYSj8Q4bSJEjTjpotW43": {
+    "name": "Mike Munich",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6nTYSj8Q4bSJEjTjpotW43"
+  },
+  "0h9ElSmZatNqvrSVVf7mEk": {
+    "name": "N\u00e4k\u00f6kulma",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/0h9ElSmZatNqvrSVVf7mEk"
+  },
+  "2sA22lJ7OdfFre33py5Qkv": {
+    "name": "Wes Meyer",
+    "genre": "dance-pop",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2sA22lJ7OdfFre33py5Qkv"
+  },
+  "0RufGds6fD27irGvwGuikw": {
+    "name": "Technopraise",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0RufGds6fD27irGvwGuikw"
+  },
+  "70Yg33pA20r1DmUlzvWGak": {
+    "name": "Edisontide",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/70Yg33pA20r1DmUlzvWGak"
+  },
+  "3GSU81b5CMBEi100x0QcuB": {
+    "name": "Jetson Belle",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3GSU81b5CMBEi100x0QcuB"
+  },
+  "24aUOL8fifllKAMPLyVyHs": {
+    "name": "Irinami",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/24aUOL8fifllKAMPLyVyHs"
+  },
+  "2VRaGbRKVkzyVOH27YZvmz": {
+    "name": "Ashlinn Gray",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/2VRaGbRKVkzyVOH27YZvmz"
+  },
+  "1gv2UQ0PpCHGnS1ozjAiHf": {
+    "name": "Intiaanikes\u00e4",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf"
+  },
+  "53cDMo70Wy8xdy22PELMVa": {
+    "name": "Lilly Million",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/53cDMo70Wy8xdy22PELMVa"
+  },
+  "4uEmfZN1tMCwf4csvh0CeN": {
+    "name": "Cherrykab",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4uEmfZN1tMCwf4csvh0CeN"
+  },
+  "7FbUuACYC6qfTVZ1CaQBgx": {
+    "name": "Lakota Silva",
+    "genre": "dance-pop",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/7FbUuACYC6qfTVZ1CaQBgx"
+  },
+  "6B7tHfJGL5rnIxNQLN8Hp0": {
+    "name": "Aurora",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0"
+  },
+  "4OGP5spYPJ88I4DnD3BNPn": {
+    "name": "Lacey May",
+    "genre": "dance-pop",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4OGP5spYPJ88I4DnD3BNPn"
+  },
+  "74jneVt4wMnIGcGekarYN9": {
+    "name": "Ertsi",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/74jneVt4wMnIGcGekarYN9"
+  },
+  "1m4SOFcwRz4c8FbQ3D56lr": {
+    "name": "Kandidaatti",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/1m4SOFcwRz4c8FbQ3D56lr"
+  },
+  "7kNYcNZkP9vbnAICuPpNGq": {
+    "name": "Gfm",
+    "genre": "dance-pop",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/7kNYcNZkP9vbnAICuPpNGq"
+  },
+  "6swIRY9NcGlW0PwO5KlqKV": {
+    "name": "Kauniit & Uhkarohkeat",
+    "genre": "dance-pop",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/6swIRY9NcGlW0PwO5KlqKV"
+  },
+  "7vYPyuuPdXxwZ1AR7MhMoQ": {
+    "name": "Happy Gang",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/7vYPyuuPdXxwZ1AR7MhMoQ"
+  },
+  "7MLppPV4HDZHAinhqzATeM": {
+    "name": "Crystal",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/7MLppPV4HDZHAinhqzATeM"
+  },
+  "64fbN3FGr1FkRhFh1AoGQA": {
+    "name": "Melissa Tkautz",
+    "genre": "dance-pop",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/64fbN3FGr1FkRhFh1AoGQA"
+  },
+  "2XYxBn7HSvETyT8UHB5xrA": {
+    "name": "Soho Party",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2XYxBn7HSvETyT8UHB5xrA"
+  },
+  "6OnyshwwL9ZZcde2y5V8AD": {
+    "name": "AD Studio",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6OnyshwwL9ZZcde2y5V8AD"
+  },
+  "0FRJ4d8qzn0TmKLZHc9etX": {
+    "name": "Mikaveli",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/0FRJ4d8qzn0TmKLZHc9etX"
+  },
+  "3ZvItWWLleZhI2UxkFIdxG": {
+    "name": "Besti\u00e1k",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3ZvItWWLleZhI2UxkFIdxG"
+  },
+  "6aKxKjRMlXvPoigmsDUL8l": {
+    "name": "Touch Of Joy",
+    "genre": "dance-pop",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/6aKxKjRMlXvPoigmsDUL8l"
+  },
+  "2Dwj57Lxvpzf4alXo4EQpT": {
+    "name": "Emergency House",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2Dwj57Lxvpzf4alXo4EQpT"
+  },
+  "6xQSB9lW2fMbXEP0thTSEF": {
+    "name": "SHINJIRO ATAE (from AAA)",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF"
+  },
+  "5eM988kictwqIzMU1Y72tF": {
+    "name": "Pat Krimson",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/5eM988kictwqIzMU1Y72tF"
+  },
+  "7suqkCi5J0pW8bLEhGuGo9": {
+    "name": "2 Fabiola",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/7suqkCi5J0pW8bLEhGuGo9"
+  },
+  "3Cjm2HwBWQuEqiKNG3paBv": {
+    "name": "Niklas Jeng",
+    "genre": "dance-pop",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3Cjm2HwBWQuEqiKNG3paBv"
+  },
+  "6b22krzivS6gov9c5xARvJ": {
+    "name": "X-Session",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/6b22krzivS6gov9c5xARvJ"
+  },
+  "7A8xieOmKCPzhS0mCCEJoX": {
+    "name": "Zanzib\u00e1r",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/7A8xieOmKCPzhS0mCCEJoX"
+  },
+  "0eWur9zhg0xzm2qlDEFTyR": {
+    "name": "Krisz Rudolf",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0eWur9zhg0xzm2qlDEFTyR"
+  },
+  "3MQqLDk5QiO5EPm7lE46vv": {
+    "name": "SuperStefu",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/3MQqLDk5QiO5EPm7lE46vv"
+  },
+  "0ua6axmxUhTW6TO0KzMIUB": {
+    "name": "Def Dames Dope",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/0ua6axmxUhTW6TO0KzMIUB"
+  },
+  "6heOvPHdOOVlmsZSy59rps": {
+    "name": "Unique",
+    "genre": "dance-pop",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6heOvPHdOOVlmsZSy59rps"
+  },
+  "0xz4qcJAttwdoIDkWrzuqm": {
+    "name": "Dennis Doff",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/0xz4qcJAttwdoIDkWrzuqm"
+  },
+  "32NTx20NTWmhqtxjukTHyA": {
+    "name": "Dobr\u00e1dy \u00c1kos",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/32NTx20NTWmhqtxjukTHyA"
+  },
+  "2iIiVyUXeYOzrWnPd3YEbP": {
+    "name": "Kymppilinja",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/2iIiVyUXeYOzrWnPd3YEbP"
+  },
+  "2KDatnX1EbQhSUXztNEX8Y": {
+    "name": "Elias Kaskinen & P\u00e4iv\u00e4n Sankarit",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2KDatnX1EbQhSUXztNEX8Y"
+  },
+  "7aY4XP3cJx7pFPYHMaF8pi": {
+    "name": "Miika",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/7aY4XP3cJx7pFPYHMaF8pi"
+  },
+  "7rOJDOpvjXjOvWA9rTQjtN": {
+    "name": "edi",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7rOJDOpvjXjOvWA9rTQjtN"
+  },
+  "61ZSrIBRin3VT35hbvS5UE": {
+    "name": "Tuomas Kauhanen",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE"
+  },
+  "28kGqx4hUF07ChEMz26up7": {
+    "name": "Jontte Valosaari",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/28kGqx4hUF07ChEMz26up7"
+  },
+  "3vzPY2IsGSU2kIumvNG7Nn": {
+    "name": "Tiktak",
+    "genre": "dance-pop",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/3vzPY2IsGSU2kIumvNG7Nn"
+  },
+  "0AK0qOs8ykb6CsaYks1xwK": {
+    "name": "Arttu Lindeman",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0AK0qOs8ykb6CsaYks1xwK"
+  },
+  "4grOKb7qP9dH5FOhUXn3s3": {
+    "name": "Janna",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+  },
+  "5j9mMB9gew9wNCvFJWiNho": {
+    "name": "Mira Luoti",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+  },
+  "6zOyQHK37vQX62CFowxvWc": {
+    "name": "Sini Sabotage",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc"
+  },
+  "4bIs19bufrqoWWjNJyatyF": {
+    "name": "Lucas",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/4bIs19bufrqoWWjNJyatyF"
+  },
+  "5LqDX9Ip9ScCnen8Zbg5c7": {
+    "name": "Profeetat",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/5LqDX9Ip9ScCnen8Zbg5c7"
+  },
+  "3S294cIjQe3NZIoUHspnOA": {
+    "name": "Shinebright",
+    "genre": "dance-pop",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3S294cIjQe3NZIoUHspnOA"
+  },
+  "17LOJRoDtwnUqJzspDoFSy": {
+    "name": "Fintelligens",
+    "genre": "dance-pop",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/17LOJRoDtwnUqJzspDoFSy"
+  },
+  "6Oa8UcMAOfq5I44ARW3crd": {
+    "name": "Veljenpojat",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/6Oa8UcMAOfq5I44ARW3crd"
+  },
+  "0sddDn9xuwrGFzZrrr9uEn": {
+    "name": "ILARI",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0sddDn9xuwrGFzZrrr9uEn"
+  },
+  "4rCSDrYm1yT0VaLP78j66p": {
+    "name": "Lahti United",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/4rCSDrYm1yT0VaLP78j66p"
+  },
+  "3WJbE8qlAfCqoOUxcUqjHz": {
+    "name": "RANKKALINNA",
+    "genre": "dance-pop",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3WJbE8qlAfCqoOUxcUqjHz"
+  },
+  "1nZlKzem9uzBMMy6hnYNte": {
+    "name": "Trilogia",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/1nZlKzem9uzBMMy6hnYNte"
+  },
+  "5a3uEIVPPZ7fq3LGjqug2j": {
+    "name": "Majuri",
+    "genre": "dance-pop",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/5a3uEIVPPZ7fq3LGjqug2j"
+  },
+  "2Hnqmn6bAxVSYf70M2aSkk": {
+    "name": "Adi L Hasla",
+    "genre": "dance-pop",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
+  },
+  "7spvsR19EKSeN4M8HgD1oj": {
+    "name": "Janne Ord\u00e9n",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/7spvsR19EKSeN4M8HgD1oj"
+  },
+  "3ufXU20KQCt3A884cs4hJr": {
+    "name": "Eldis",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/3ufXU20KQCt3A884cs4hJr"
+  },
+  "2HGPd1n5wmvFCJccRPRJ9k": {
+    "name": "Herrat",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k"
+  },
+  "1sQJfOZnTxWUPFb2wjgba5": {
+    "name": "Karri Koira",
+    "genre": "dance-pop",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5"
+  },
+  "5sVScjm5ELMGf03NdFAC2h": {
+    "name": "Varga Feri",
+    "genre": "dance-pop",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/5sVScjm5ELMGf03NdFAC2h"
+  },
+  "7AfDbA1rEHwRhzPH6jHSUE": {
+    "name": "TCT",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7AfDbA1rEHwRhzPH6jHSUE"
+  },
+  "7uszrF3chEfgpDSJPNMvRH": {
+    "name": "RosvoSektori",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/7uszrF3chEfgpDSJPNMvRH"
+  },
+  "2EuQqDENk0vVonzvKya24Q": {
+    "name": "Heikki Kuula",
+    "genre": "dance-pop",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q"
+  },
+  "2o2qKwPkfo0vDnyXnfgk0W": {
+    "name": "Seksik\u00e4s-Suklaa",
+    "genre": "dance-pop",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/2o2qKwPkfo0vDnyXnfgk0W"
+  },
+  "71dIsDbc0WrQq2DY5AzxTL": {
+    "name": "Justimus",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/71dIsDbc0WrQq2DY5AzxTL"
+  },
+  "7FXHLGDZv4fx2vg3LHLoGJ": {
+    "name": "Chebaleba",
+    "genre": "dance-pop",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ"
+  },
+  "0MjMlJw6pfcaeDeVbhQgLC": {
+    "name": "Musta Barbaari",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0MjMlJw6pfcaeDeVbhQgLC"
+  },
+  "4WhClYtppeOdl8O0oGwwsx": {
+    "name": "Zserb\u00f3",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/4WhClYtppeOdl8O0oGwwsx"
+  },
+  "1lDaPfGRA6miVIOjZbY50n": {
+    "name": "Lukas Leon",
+    "genre": "dance-pop",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
+  },
+  "47HuV39sV0zl2KKkwdd9n6": {
+    "name": "Artem x Yonas",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/47HuV39sV0zl2KKkwdd9n6"
+  },
+  "5tJwZkGyiMumm81fN1aM0p": {
+    "name": "Kekkonen",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5tJwZkGyiMumm81fN1aM0p"
+  },
+  "7skwhuDZgBkDc6jeSuDSa1": {
+    "name": "PapiPike",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/7skwhuDZgBkDc6jeSuDSa1"
+  },
+  "6wBW7sVv3o1EdGWLvgfLjd": {
+    "name": "Ideaali & Jay Who?",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/6wBW7sVv3o1EdGWLvgfLjd"
+  },
+  "6Uo8DWitVulLdaWaZ3gwun": {
+    "name": "SONNY",
+    "genre": "dance-pop",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/6Uo8DWitVulLdaWaZ3gwun"
+  },
+  "0rqygIEdmS7Gzf2fpZOzxt": {
+    "name": "MC Mane",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/0rqygIEdmS7Gzf2fpZOzxt"
+  },
+  "7jxDHM0eMYkiSXHc5tPqSr": {
+    "name": "S\u00e4rre",
+    "genre": "dance-pop",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/7jxDHM0eMYkiSXHc5tPqSr"
+  },
+  "3TjISn9d9gIsTasWGYtlWR": {
+    "name": "M\u00e4k G\u00e4lis",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR"
+  },
+  "4h42e5b8jUxsZdY6riDFON": {
+    "name": "Flowboysfam",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/4h42e5b8jUxsZdY6riDFON"
+  },
+  "1WtBrJQdsrplnLjCjWzLsf": {
+    "name": "Jonihey",
+    "genre": "dance-pop",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/1WtBrJQdsrplnLjCjWzLsf"
+  },
+  "7s8XPT1n2uM7yY1JEG4zb9": {
+    "name": "Daniel Okas",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/7s8XPT1n2uM7yY1JEG4zb9"
+  },
+  "2iFeTrBiGkiGaODICi0wlm": {
+    "name": "Herrasmiesliiga",
+    "genre": "dance-pop",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2iFeTrBiGkiGaODICi0wlm"
+  },
+  "4wKjWfqZbq8A1iExbdFDXa": {
+    "name": "Juju",
+    "genre": "dance-pop",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4wKjWfqZbq8A1iExbdFDXa"
+  },
+  "1528laR5p1e468jJCwCkoZ": {
+    "name": "Kapasiteettiyksikk\u00f6",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1528laR5p1e468jJCwCkoZ"
+  },
+  "4UFBBNJNJiTnBZb5AsnxtI": {
+    "name": "Bodn\u00e1r Attila",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/4UFBBNJNJiTnBZb5AsnxtI"
+  },
+  "33ncZPx0ToD6WQaiZaTggr": {
+    "name": "T\u00f6\u00f6l\u00f6n Ketter\u00e4",
+    "genre": "dance-pop",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/33ncZPx0ToD6WQaiZaTggr"
+  },
+  "0lcGTyjTjKRDQpgKaT5bGJ": {
+    "name": "Ruma",
+    "genre": "dance-pop",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0lcGTyjTjKRDQpgKaT5bGJ"
+  },
+  "7Irt8Qpa5LLDNlkO2TPQyZ": {
+    "name": "Kate DeAraugo",
+    "genre": "dance-pop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/7Irt8Qpa5LLDNlkO2TPQyZ"
+  },
+  "7tYSRFKEQY6YLWwDfavxKN": {
+    "name": "FAM",
+    "genre": "dance-pop",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/7tYSRFKEQY6YLWwDfavxKN"
+  },
+  "6evmukp3bb1TfTNk1Pet3I": {
+    "name": "Taisto & \u00c4ll\u00e4",
+    "genre": "dance-pop",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/6evmukp3bb1TfTNk1Pet3I"
+  },
+  "4Hp1gUsqUQI2G1tIxiIpFC": {
+    "name": "2nen",
+    "genre": "dance-pop",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/4Hp1gUsqUQI2G1tIxiIpFC"
+  },
+  "7KBiAaCZ3qlpvxMErekQCW": {
+    "name": "JapaRoLL",
+    "genre": "dance-pop",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/7KBiAaCZ3qlpvxMErekQCW"
+  },
+  "68fz8sWsAndYA0ZXDvL4PN": {
+    "name": "Iso H",
+    "genre": "dance-pop",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/68fz8sWsAndYA0ZXDvL4PN"
+  },
+  "5pOGfGERIPKCiUc1eL9XmF": {
+    "name": "Markat Takas!",
+    "genre": "dance-pop",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5pOGfGERIPKCiUc1eL9XmF"
+  },
+  "0NAdOnNnbIceBrlIVgNSxv": {
+    "name": "Aikakone",
+    "genre": "dance-pop",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv"
+  },
+  "5YNqmUl7pWfaYWxon4AULu": {
+    "name": "LCNVL",
+    "genre": "dance-pop",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/5YNqmUl7pWfaYWxon4AULu"
+  },
+  "3fsYNdmKgtiIKy61Ipt7Ph": {
+    "name": "Dartz!",
+    "genre": "dance-pop",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3fsYNdmKgtiIKy61Ipt7Ph"
+  },
+  "0KhOuy5QAdifVcBwtvYON2": {
+    "name": "Diison",
+    "genre": "dance-pop",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0KhOuy5QAdifVcBwtvYON2"
+  },
+  "12mbpzyxvmv9X0hEascBqo": {
+    "name": "Fungz",
+    "genre": "dance-pop",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo"
+  }
+}

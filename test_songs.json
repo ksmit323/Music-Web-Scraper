@@ -1,0 +1,892 @@
+[
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/74VTFGC2rLxhcNqXVnbqjx",
+      "id": "74VTFGC2rLxhcNqXVnbqjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273554502cf312d90dfd336c5bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02554502cf312d90dfd336c5bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851554502cf312d90dfd336c5bc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "TW2052",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:74VTFGC2rLxhcNqXVnbqjx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "name": "Gesaffelstein",
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188826,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM12109671"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/106yiMHU6uhZXvFyAcKKuA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/106yiMHU6uhZXvFyAcKKuA",
+    "id": "106yiMHU6uhZXvFyAcKKuA",
+    "is_local": false,
+    "is_playable": true,
+    "name": "THE SUN (Prod. Gesaffelstein)",
+    "popularity": 40,
+    "preview_url": "https://p.scdn.co/mp3-preview/d70455150a366af12f7b782e6897862b6b5c2e42?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:106yiMHU6uhZXvFyAcKKuA"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/74VTFGC2rLxhcNqXVnbqjx",
+      "id": "74VTFGC2rLxhcNqXVnbqjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273554502cf312d90dfd336c5bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02554502cf312d90dfd336c5bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851554502cf312d90dfd336c5bc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "TW2052",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:74VTFGC2rLxhcNqXVnbqjx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "name": "Gesaffelstein",
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 164946,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM12302369"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5wzhutpLje8B4vqojyfsyr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5wzhutpLje8B4vqojyfsyr",
+    "id": "5wzhutpLje8B4vqojyfsyr",
+    "is_local": false,
+    "is_playable": true,
+    "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+    "popularity": 42,
+    "preview_url": "https://p.scdn.co/mp3-preview/729254652c26ae04d3e9477eff5b9e9ed94f14ce?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5wzhutpLje8B4vqojyfsyr"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO"
+      },
+      "href": "https://api.spotify.com/v1/albums/3mNfeGxCFJ3fRZotZ7UhSO",
+      "id": "3mNfeGxCFJ3fRZotZ7UhSO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cef147c11f2f5d7ecaa22937",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cef147c11f2f5d7ecaa22937",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cef147c11f2f5d7ecaa22937",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Get Used To It",
+      "release_date": "2022-06-02",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3mNfeGxCFJ3fRZotZ7UhSO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        },
+        "href": "https://api.spotify.com/v1/artists/1hElmDU1PFIf4JbkdOcMRE",
+        "id": "1hElmDU1PFIf4JbkdOcMRE",
+        "name": "Annahstasia",
+        "type": "artist",
+        "uri": "spotify:artist:1hElmDU1PFIf4JbkdOcMRE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
+        },
+        "href": "https://api.spotify.com/v1/artists/71MVm1MdM62WiEBkSIjIA6",
+        "id": "71MVm1MdM62WiEBkSIjIA6",
+        "name": "Steven Bamidele",
+        "type": "artist",
+        "uri": "spotify:artist:71MVm1MdM62WiEBkSIjIA6"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236766,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM12205590"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0VofOfBQCt2kZkNqMawsqb",
+    "id": "0VofOfBQCt2kZkNqMawsqb",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Hold you up (feat. Annahstasia & Steven Bamidele)",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/8ec9c06e9a22c6bf762e38332078f3a76181006e?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0VofOfBQCt2kZkNqMawsqb"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/74VTFGC2rLxhcNqXVnbqjx",
+      "id": "74VTFGC2rLxhcNqXVnbqjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273554502cf312d90dfd336c5bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02554502cf312d90dfd336c5bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851554502cf312d90dfd336c5bc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "TW2052",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:74VTFGC2rLxhcNqXVnbqjx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "name": "Gesaffelstein",
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 192133,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM12302368"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1giiFkAh7SxwASfj3JCdrZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1giiFkAh7SxwASfj3JCdrZ",
+    "id": "1giiFkAh7SxwASfj3JCdrZ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "TIMELESS (Prod. Gesaffelstein)",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/87742344fe5bf4f6d396fda5a0b26cedc787b90e?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:1giiFkAh7SxwASfj3JCdrZ"
+  },
+  {
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm"
+      },
+      "href": "https://api.spotify.com/v1/albums/5xcoC6VNSy4dfNIYGPMJQm",
+      "id": "5xcoC6VNSy4dfNIYGPMJQm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376b0a07f94e2134a1b1e1a33",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276b0a07f94e2134a1b1e1a33",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176b0a07f94e2134a1b1e1a33",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "MOTOWN (feat. BabyTron)",
+      "release_date": "2023-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5xcoC6VNSy4dfNIYGPMJQm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        "href": "https://api.spotify.com/v1/artists/0sKsReKseslDlhxmbN6wLk",
+        "id": "0sKsReKseslDlhxmbN6wLk",
+        "name": "BabyTron",
+        "type": "artist",
+        "uri": "spotify:artist:0sKsReKseslDlhxmbN6wLk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 164861,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM12300266"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Eo01Bnj04mLVrBpwpCWaQ",
+    "id": "1Eo01Bnj04mLVrBpwpCWaQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "MOTOWN",
+    "popularity": 45,
+    "preview_url": "https://p.scdn.co/mp3-preview/21d0455c28b2c597ee9618deb008eb9aa9a1e5a1?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1Eo01Bnj04mLVrBpwpCWaQ"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/74VTFGC2rLxhcNqXVnbqjx",
+      "id": "74VTFGC2rLxhcNqXVnbqjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273554502cf312d90dfd336c5bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02554502cf312d90dfd336c5bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851554502cf312d90dfd336c5bc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "TW2052",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:74VTFGC2rLxhcNqXVnbqjx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "name": "Gesaffelstein",
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 275693,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM12109672"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2g7t7LDSgevL6DZmQu6xp9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2g7t7LDSgevL6DZmQu6xp9",
+    "id": "2g7t7LDSgevL6DZmQu6xp9",
+    "is_local": false,
+    "is_playable": true,
+    "name": "OKAY! (Prod. Gesaffelstein)",
+    "popularity": 39,
+    "preview_url": "https://p.scdn.co/mp3-preview/af9c781f8fdd3f382f8e1eaad4173c82597c9a74?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2g7t7LDSgevL6DZmQu6xp9"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          },
+          "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+          "id": "14CHVeJGrR5xgUGQFV5BVM",
+          "name": "Fivio Foreign",
+          "type": "artist",
+          "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "href": "https://api.spotify.com/v1/albums/6np2Ix6RidhSseqw2dZovP",
+      "id": "6np2Ix6RidhSseqw2dZovP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a46f8ecd34df3d45845a6c71",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a46f8ecd34df3d45845a6c71",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a46f8ecd34df3d45845a6c71",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "B.I.B.L.E.",
+      "release_date": "2022-04-08",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6np2Ix6RidhSseqw2dZovP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+        "id": "14CHVeJGrR5xgUGQFV5BVM",
+        "name": "Fivio Foreign",
+        "type": "artist",
+        "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FtBEIWAwvw5ymBen5GICR",
+        "id": "1FtBEIWAwvw5ymBen5GICR",
+        "name": "Chl\u00f6e",
+        "type": "artist",
+        "uri": "spotify:artist:1FtBEIWAwvw5ymBen5GICR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264794,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM12203051"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0GrygSHJw7Hkc7Ih5X1wkX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0GrygSHJw7Hkc7Ih5X1wkX",
+    "id": "0GrygSHJw7Hkc7Ih5X1wkX",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Hello (feat. Chl\u00f6e & KayCyy)",
+    "popularity": 43,
+    "preview_url": "https://p.scdn.co/mp3-preview/fbdc632a9b725ee625f6ae72055466e8ee05ef91?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0GrygSHJw7Hkc7Ih5X1wkX"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/74VTFGC2rLxhcNqXVnbqjx",
+      "id": "74VTFGC2rLxhcNqXVnbqjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273554502cf312d90dfd336c5bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02554502cf312d90dfd336c5bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851554502cf312d90dfd336c5bc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "TW2052",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:74VTFGC2rLxhcNqXVnbqjx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "name": "Gesaffelstein",
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171839,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM12109673"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5T7QK4tzNPdsPqCaVW7lD2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5T7QK4tzNPdsPqCaVW7lD2",
+    "id": "5T7QK4tzNPdsPqCaVW7lD2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "LOVE & HATE (Prod. Gesaffelstein)",
+    "popularity": 37,
+    "preview_url": "https://p.scdn.co/mp3-preview/7234b839ad84976296cdc13ca63123a9724c19ed?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:5T7QK4tzNPdsPqCaVW7lD2"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+          "id": "7gmVTgaiN0gpDJKvTHPTRL",
+          "name": "KayCyy",
+          "type": "artist",
+          "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/74VTFGC2rLxhcNqXVnbqjx",
+      "id": "74VTFGC2rLxhcNqXVnbqjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273554502cf312d90dfd336c5bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02554502cf312d90dfd336c5bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851554502cf312d90dfd336c5bc",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "TW2052",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:74VTFGC2rLxhcNqXVnbqjx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "name": "Gesaffelstein",
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 128266,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM12302367"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3BDEFkiDYliIDqapdX4M6Q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3BDEFkiDYliIDqapdX4M6Q",
+    "id": "3BDEFkiDYliIDqapdX4M6Q",
+    "is_local": false,
+    "is_playable": true,
+    "name": "ASHLEY'S HEARTBEAT (Prod. Gesaffelstein)",
+    "popularity": 43,
+    "preview_url": "https://p.scdn.co/mp3-preview/5f71a6fdcd6291c4f4695972edf9e328f8da72a3?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3BDEFkiDYliIDqapdX4M6Q"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          },
+          "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+          "id": "14CHVeJGrR5xgUGQFV5BVM",
+          "name": "Fivio Foreign",
+          "type": "artist",
+          "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "href": "https://api.spotify.com/v1/albums/6np2Ix6RidhSseqw2dZovP",
+      "id": "6np2Ix6RidhSseqw2dZovP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a46f8ecd34df3d45845a6c71",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a46f8ecd34df3d45845a6c71",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a46f8ecd34df3d45845a6c71",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "B.I.B.L.E.",
+      "release_date": "2022-04-08",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6np2Ix6RidhSseqw2dZovP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+        "id": "14CHVeJGrR5xgUGQFV5BVM",
+        "name": "Fivio Foreign",
+        "type": "artist",
+        "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gmVTgaiN0gpDJKvTHPTRL",
+        "id": "7gmVTgaiN0gpDJKvTHPTRL",
+        "name": "KayCyy",
+        "type": "artist",
+        "uri": "spotify:artist:7gmVTgaiN0gpDJKvTHPTRL"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 186666,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM12203049"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7x0c2xT3bNVDbFnsymGiPI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7x0c2xT3bNVDbFnsymGiPI",
+    "id": "7x0c2xT3bNVDbFnsymGiPI",
+    "is_local": false,
+    "is_playable": true,
+    "name": "On God (feat. KayCyy)",
+    "popularity": 40,
+    "preview_url": "https://p.scdn.co/mp3-preview/c809adac88e379a27f5fdcf5d60ba31a7bdcaf5e?cid=da0dadc7d3704050b734ae117fa6faf7",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7x0c2xT3bNVDbFnsymGiPI"
+  }
+]

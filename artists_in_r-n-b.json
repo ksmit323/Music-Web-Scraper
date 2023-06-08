@@ -1,0 +1,5546 @@
+{
+  "0rG0AZBscc8S8q1ahIsasI": {
+    "name": "JUVENILE",
+    "genre": "r-n-b",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+  },
+  "1mFX1QlezK1lNPKQJkhwWb": {
+    "name": "New Edition",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+  },
+  "1bwUhKRmEkOZ1wuTnV9XjC": {
+    "name": "Beach Fossils",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+  },
+  "4JhbRL6zaItAyzqx4gHTqz": {
+    "name": "22Gz",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+  },
+  "2zFZiWQJFFshzojycnXoTL": {
+    "name": "Bell Biv DeVoe",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+  },
+  "32BLNtPX18499VCjsUiFj1": {
+    "name": "Ladron",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+  },
+  "296LotOmbj7eOX7r9l46fK": {
+    "name": "Soul For Real",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+  },
+  "43O3c6wewpzPKwVaGEEtBM": {
+    "name": "My Morning Jacket",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+  },
+  "1URVdcNYXigvk6Dj0fHYOM": {
+    "name": "skaiwater",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+  },
+  "6FxuPrpa8phaP3Xn73emhT": {
+    "name": "The Wood Brothers",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+  },
+  "3rhO3rDk432VyAwyZnkECs": {
+    "name": "La Mafia",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+  },
+  "0fIdQWpwzU2oEtsoyArDOL": {
+    "name": "Ramon Ayala",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+  },
+  "6fBjnfeYEU3VFuQl8RPrp8": {
+    "name": "Samuray",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+  },
+  "2MGT7CYlixSPxAnnkhLpaA": {
+    "name": "Next",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+  },
+  "6u11Qbko2N2hP4lTBYjX86": {
+    "name": "Peter Bjorn and John",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+  },
+  "2VIoWte1HPDbZ2WqHd2La7": {
+    "name": "The Turtles",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+  },
+  "4uSftVc3FPWe6RJuMZNEe9": {
+    "name": "Andrew Bird",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+  },
+  "2Jv5eshHtLycR6R8KQCdc4": {
+    "name": "Grizzly Bear",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+  },
+  "7CyeXFnOrfC1N6z4naIpgo": {
+    "name": "The Ronettes",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+  },
+  "7A0dBf6Uyh5G1rW7Rh84Dt": {
+    "name": "Grupo Libra",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+  },
+  "7ITd48RbLVpUfheE7B86o2": {
+    "name": "The Decemberists",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+  },
+  "3HJIB8sYPyxrFGuwvKXSLR": {
+    "name": "TV On The Radio",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+  },
+  "09C0xjtosNAIXP36wTnWxd": {
+    "name": "Fats Domino",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+  },
+  "33QmoCkSqADuQEtMCysYLh": {
+    "name": "The Archies",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+  },
+  "4xls23Ye9WR9yy3yYMpAMm": {
+    "name": "Little Richard",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+  },
+  "320TrJub4arztwXRm7kqVO": {
+    "name": "Dr. John",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+  },
+  "4rWWouSk4D5OSFFFo2bmty": {
+    "name": "Ezequiel Pe\u00f1a",
+    "genre": "r-n-b",
+    "popularity": 55,
+    "spotify": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+  },
+  "7v9bFXCdSMA2o3gS4nvp0F": {
+    "name": "Pimp C",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7v9bFXCdSMA2o3gS4nvp0F"
+  },
+  "4FeLiFUPdxVfFo8oOfA4BH": {
+    "name": "Rah Swish",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+  },
+  "3ZMur3elMyOs248ah86NRk": {
+    "name": "Mach-Hommy",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+  },
+  "5iXYJYmMcjlTFL1qA8UfgY": {
+    "name": "Lukas Nelson and Promise of the Real",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+  },
+  "5Bcrb5qQMVTEbJ43fdIS4A": {
+    "name": "Mipso",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+  },
+  "0DAqhikcMKLo2lPADVz2fs": {
+    "name": "Jay & The Americans",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+  },
+  "3qYfqdVwX0fil71onLpLkh": {
+    "name": "Thee Oh Sees",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+  },
+  "6tBnRI3ubWYclKSbGvGtKd": {
+    "name": "Soulja Slim",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
+  },
+  "4d4OGW8V5resuylQWT6S9s": {
+    "name": "Viento Y Sol",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+  },
+  "6Jrj26oAY96EEC2lqC6fua": {
+    "name": "Squeeze",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+  },
+  "72y3ZI95ctkQC2O4mjBaU3": {
+    "name": "Shai",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
+  },
+  "5xeBMeW0YzWIXSVzAxhM8O": {
+    "name": "of Montreal",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+  },
+  "7DjwIxbe8kpw4pqnzAMoin": {
+    "name": "The Beths",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+  },
+  "4kwxTgCKMipBKhSnEstNKj": {
+    "name": "Animal Collective",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+  },
+  "3pTE9iaJTkWns3mxpNQlJV": {
+    "name": "Bombay Bicycle Club",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+  },
+  "29Wmfm1CojrjQ3aQP0FI65": {
+    "name": "All Them Witches",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+  },
+  "71lGEtP9qYXDsSXjfexTqO": {
+    "name": "Sonny & Cher",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+  },
+  "1QtIfAa6y7w2JhxYJhYeUG": {
+    "name": "Color Me Badd",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG"
+  },
+  "6JW8wliOEwaDZ231ZY7cf4": {
+    "name": "Sepultura",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+  },
+  "30uiS1n3uIGXJEYFR1GVDy": {
+    "name": "The Brian Jonestown Massacre",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+  },
+  "35fcckhFq2cF2u7hIG0fPv": {
+    "name": "Stove God Cooks",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+  },
+  "32cT1WQRSDg4xsReG7eqyT": {
+    "name": "38 Spesh",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+  },
+  "2RP4pPHTXlQpDnO9LvR7Yt": {
+    "name": "Lianne La Havas",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+  },
+  "5cudslRGWg0GsXaN79Wifs": {
+    "name": "Town Mountain",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+  },
+  "4YgACLaoEjPl4kVZ5WmBN9": {
+    "name": "Jerry Douglas",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+  },
+  "23NIwARd4vPbxt3wwNnJ6k": {
+    "name": "Parquet Courts",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+  },
+  "6pmxr66tMAePxzOLfjGNcX": {
+    "name": "Beirut",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+  },
+  "21gGD9dUby5ls0belA1wqZ": {
+    "name": "H-Town",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+  },
+  "7lOJ7WXyopaxri0dbOiZkd": {
+    "name": "Broken Social Scene",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+  },
+  "2gyv1akuIB9fQvXoGSPaJr": {
+    "name": "Big Freedia",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+  },
+  "2loYllWFfoWpoxC5YrJKc4": {
+    "name": "Dion & The Belmonts",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+  },
+  "2qT62DYO8Ajb276vUJmvhz": {
+    "name": "XTC",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+  },
+  "3EY5DxGdy7x4GelivOjS2Q": {
+    "name": "Connie Francis",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+  },
+  "0L9xkvBPcEp1nrhDrodxc5": {
+    "name": "Level 42",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+  },
+  "48YxSlb23RAaCd4RyHcV9V": {
+    "name": "Herman's Hermits",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+  },
+  "0un6YenPxWZ2VW4aFGMupM": {
+    "name": "Floetry",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+  },
+  "6xnvNmSzmeOE1bLKnYXKW3": {
+    "name": "The Specials",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+  },
+  "31jvzuB4ikftPQZJwrYfCF": {
+    "name": "Enter Shikari",
+    "genre": "r-n-b",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+  },
+  "4XquDVA8pkg5Lx91No1JxB": {
+    "name": "Brittany Howard",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+  },
+  "5X3TuTi9OIsJXMGxPwTKM2": {
+    "name": "The Young Rascals",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+  },
+  "2DLlb2Se6eF0mMTYffyAcn": {
+    "name": "IAMNOBODI",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+  },
+  "6U1lmwvy3I9dIYu9RalJi6": {
+    "name": "Horse Jumper of Love",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+  },
+  "05sIdEkXAYDbDDdv3T56Oj": {
+    "name": "The Chiffons",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+  },
+  "58XGUNsRNu3cVOIOYk5chx": {
+    "name": "Ty Segall",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+  },
+  "10n5DVRlZbjbZ5ffpwpn6l": {
+    "name": "Rev Theory",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l"
+  },
+  "6dXsR7VDJvXnF1LTZlwULx": {
+    "name": "Casanova",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/6dXsR7VDJvXnF1LTZlwULx"
+  },
+  "4OrizGCKhOrW6iDDJHN9xd": {
+    "name": "DIIV",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+  },
+  "6dZF1SMkMqrSFJKp0mhk4B": {
+    "name": "Chay\u00edn Rubio",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+  },
+  "2ZfHMUPrxoZNDTBPHmmdhj": {
+    "name": "moe.",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+  },
+  "2Q4FnG5T6NTUcAAZwuMV5K": {
+    "name": "Del Amitri",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K"
+  },
+  "10xLCBOlt2NhclsRmrOvX5": {
+    "name": "The Del-Vikings",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+  },
+  "6TqQLejnHXMGr7KcegxUND": {
+    "name": "The Miracles",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+  },
+  "3ODYbknLzVe3cWQzVfbzGB": {
+    "name": "Tab Benoit",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB"
+  },
+  "59pWgeY26Q6yJy37QvJflh": {
+    "name": "Sleigh Bells",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+  },
+  "7sMcWECQxLm7EoKdRlSCAn": {
+    "name": "The Bones of J.R. Jones",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+  },
+  "3WUUtA45g7X0jbeywZz888": {
+    "name": "Anders Osborne",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888"
+  },
+  "6tYVXU1sKSsk6SIdkfIWGu": {
+    "name": "Tsu Surf",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu"
+  },
+  "6bOYtKnpLPQSfMpS2ilotK": {
+    "name": "Bobby Vinton",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+  },
+  "4rMUtWPGbE6waga7PQO0oQ": {
+    "name": "Galactic",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+  },
+  "5qrzeukNCU5ixZH3LhQi2j": {
+    "name": "Jay Gwuapo",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j"
+  },
+  "0EVUivUkugMtNF09L4QBMH": {
+    "name": "Hi-Five",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH"
+  },
+  "6FIrstf3kHEg3zBOyLpvxD": {
+    "name": "Ra Ra Riot",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+  },
+  "1EI0NtLHoh9KBziYCeN1vM": {
+    "name": "Rhiannon Giddens",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+  },
+  "1SAugjIcuwNPKS4urSB7A6": {
+    "name": "Joe Budden",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
+  },
+  "2JSc53B5cQ31m0xTB7JFpG": {
+    "name": "Rogue Wave",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+  },
+  "3PF1KBeHYb14yKgsiE693V": {
+    "name": "Little Anthony & The Imperials",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+  },
+  "3kortApcf0ntRWexUkJE4H": {
+    "name": "Uncle Murda",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H"
+  },
+  "53S3boqktbqiB1JfHzsu1f": {
+    "name": "Armani Caesar",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+  },
+  "1HOeqtP7tHkKNJNLzQ2tnr": {
+    "name": "Everything Everything",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
+  },
+  "3vYC7LFneIpmJRSgrYy6dc": {
+    "name": "Alberto Vazquez",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+  },
+  "2bmixwMZXlkl2sbIbOfviq": {
+    "name": "Bo Diddley",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+  },
+  "6h29EZDlc2NTvmCUe4yoXV": {
+    "name": "Ready For The World",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
+  },
+  "4ubKsFJjMgWkARG6w2Qlv8": {
+    "name": "Vado",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+  },
+  "1L0y9srZMyh9XUnYGv37IP": {
+    "name": "'Til Tuesday",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
+  },
+  "46VWDbmWmzvPBTmkSr25gM": {
+    "name": "Marsha Ambrosius",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+  },
+  "2DxlS3lTLFIq70S7ap5H3y": {
+    "name": "Buzzcocks",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+  },
+  "3DDlyCYQLZS5OGVJ2gCK0c": {
+    "name": "Curly Savv",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c"
+  },
+  "1OV5mEATxtVma7fleFaUyl": {
+    "name": "Lori McKenna",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+  },
+  "0VNWuGf8SMVU2AerpdhMbP": {
+    "name": "The Black Angels",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+  },
+  "4q3lWHEW55hoLJNzZskFVo": {
+    "name": "Loose Ends",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo"
+  },
+  "3KGQvnOoqUHi3KxKQMZtXr": {
+    "name": "The Box Tops",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+  },
+  "5r7mGejWrGSxheAYEIfSwI": {
+    "name": "Troop",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
+  },
+  "2iUVQjheBnvOt8vaBrxXJz": {
+    "name": "Cass McCombs",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+  },
+  "6nKqt1nbSBEq3iUXD1Xgz8": {
+    "name": "Petula Clark",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+  },
+  "6lLYZf9GpSq6Pf09g2N2xK": {
+    "name": "Wreckx-N-Effect",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK"
+  },
+  "5lhaM01nwvsMZpmPY2HVER": {
+    "name": "Carcass",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+  },
+  "6e7BQ0gM6o8ecMXRZkXxlZ": {
+    "name": "Karriem Riggins",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+  },
+  "55LHFEtIplWhsfyWZUwkf4": {
+    "name": "Foxygen",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+  },
+  "0wXQORjv4ChlykdyzWUJ4X": {
+    "name": "Griselda",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X"
+  },
+  "5BYuBzqmTXwUDw2rYkwExr": {
+    "name": "The Kills",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+  },
+  "2jS7I1u7BpgWT9ssG62Zr1": {
+    "name": "Lisa Stansfield",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+  },
+  "6k3YMXJ1MJLgUEAlSPC6hA": {
+    "name": "Fontella Bass",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+  },
+  "63aP18bg2ABSOqSNQcAMNy": {
+    "name": "Allen Toussaint",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+  },
+  "2NsAJcAM18AExiMWKLKzuH": {
+    "name": "Drag-On",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH"
+  },
+  "5MX2l6ewjOaeWn1lYNhzlO": {
+    "name": "Bobby Vee",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+  },
+  "4DaFgJf7fynXYWpmyVnkAZ": {
+    "name": "Jae Skeese",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ"
+  },
+  "4S76LQXJD6N2uPcLhKejG8": {
+    "name": "Little Eva",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+  },
+  "0ckkj0a9CvIJr4h84B0OlN": {
+    "name": "The Clovers",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+  },
+  "2UocIcNiHj5n4tj1CnBzRq": {
+    "name": "Barbara Lewis",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+  },
+  "2eRdPaLHWAL4d1WcNUO9Vz": {
+    "name": "The Modern Lovers",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+  },
+  "1U0FaHAc4fcwQcYEJFgkm9": {
+    "name": "Balmorhea",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+  },
+  "5K3FOIJ4gEZlPaJJpqaXmm": {
+    "name": "Big Jay McNeely",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+  },
+  "5gPEo032lzARtzuVqJIm9o": {
+    "name": "Bobby Goldsboro",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
+  },
+  "40N10exWtaCVUtBMftQn3t": {
+    "name": "The Stone Foxes",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+  },
+  "3UmBeGyNwr4iDWi1vTxWi8": {
+    "name": "Gerry & The Pacemakers",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+  },
+  "3iOE5ItEv5xr9fmKi7GNh2": {
+    "name": "Lloyd Price",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+  },
+  "7lOUbhzQ1F3xcCMEcTtbO5": {
+    "name": "Arnaldo Antunes",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+  },
+  "3s9kaLrpplvv4vIzZBYPga": {
+    "name": "The Diamonds",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+  },
+  "54jJabxN5Xa0aMGK4mYdVg": {
+    "name": "Elcamino",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg"
+  },
+  "3y6SKYXXP4lrliD6CzVXH3": {
+    "name": "Sugar Candy Mountain",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+  },
+  "2wQyX5625x6IGls8zLLHMB": {
+    "name": "Barbara Lynn",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+  },
+  "4AgusFXPk24LCGMMplX34M": {
+    "name": "Palehound",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+  },
+  "4asCC4oxQcDzFXhCth2SgQ": {
+    "name": "Gary Puckett & The Union Gap",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+  },
+  "1JVoO5bwfU8GNuAZLpBoHe": {
+    "name": "The Dream Academy",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1JVoO5bwfU8GNuAZLpBoHe"
+  },
+  "2u0gw0uCWBMiqV7h0N8kai": {
+    "name": "Wet Wet Wet",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+  },
+  "5oDtp2FC8VqBjTx1aT4P5j": {
+    "name": "SHY FX",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+  },
+  "2bz6GlqjAN5fTFWvy0rmSP": {
+    "name": "Tall Black Guy",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/2bz6GlqjAN5fTFWvy0rmSP"
+  },
+  "7AZwAitWq1KcFoIJhRWb6V": {
+    "name": "Deerhoof",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+  },
+  "04HvbIwBccFmRie5ATX4ft": {
+    "name": "Yeasayer",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
+  },
+  "5VF0YkVLeVD4ytyiyVSIiF": {
+    "name": "Dirty Projectors",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+  },
+  "6YROFUbu5zRCHi2xkir5pk": {
+    "name": "Brian Hyland",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
+  },
+  "6CADfReW3qshQNGQ4yPf6c": {
+    "name": "Patti Drew",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+  },
+  "2XZXvrqedRMiKv6UWjAT4B": {
+    "name": "Jimmy Clanton",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/2XZXvrqedRMiKv6UWjAT4B"
+  },
+  "3pZ666b6CyO1KGpVYirY0t": {
+    "name": "Screaming Females",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+  },
+  "2lmWYYMM80tsoDES4aUB1m": {
+    "name": "Potatohead People",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+  },
+  "0pqGj6vO9YHsXuZmaJaP2Y": {
+    "name": "Jan & Dean",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
+  },
+  "5zNOI87gG4RttFmYAZWaxQ": {
+    "name": "Frankie Avalon",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+  },
+  "2kS9MrOD16tiQOIyJTzFxK": {
+    "name": "Bleached",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+  },
+  "6H8Sj9gFyDYJ3T63LA3DKz": {
+    "name": "Carolina Chocolate Drops",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+  },
+  "1WvziZcLLYLoMMdmQx7qcN": {
+    "name": "The Shangri-Las",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/1WvziZcLLYLoMMdmQx7qcN"
+  },
+  "6Ahm6X9wSKXitavOvu0XzY": {
+    "name": "Danny & The Juniors",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+  },
+  "7kWnE981vITXDnAD2cZmCV": {
+    "name": "Darkthrone",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+  },
+  "4QmkLL9JOqM9dusHS1Hghe": {
+    "name": "The Searchers",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+  },
+  "0NTdGJGpVrNdeTM5QNRoaL": {
+    "name": "Andrew Marlin",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+  },
+  "6DKmuXxXASTF6xaJwcTfjv": {
+    "name": "Spiritualized",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+  },
+  "1tho5dJnzdYD57EQkM3SmK": {
+    "name": "Chastity Belt",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+  },
+  "6sZREHX9XWWC5van5XX6Q7": {
+    "name": "Urban Love",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+  },
+  "70MMkLXtue3Edj3RJhJkYp": {
+    "name": "Public Image Ltd.",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+  },
+  "2vQavlZtDA660mnZotYIto": {
+    "name": "Link Wray",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+  },
+  "05sRO4JdAtJGyZQOTb6kSL": {
+    "name": "Sam The Sham & The Pharaohs",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+  },
+  "1FlpoZvmdqEMfKIzgMmSJX": {
+    "name": "J. Roddy Walston & The Business",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/1FlpoZvmdqEMfKIzgMmSJX"
+  },
+  "1jSaZgaKHmgc7VTgML528r": {
+    "name": "Clap Your Hands Say Yeah",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r"
+  },
+  "44pUNjqg4mExLyFHnB3Bqf": {
+    "name": "Pile",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf"
+  },
+  "32HPpJAhgnGPT3V7UOggzi": {
+    "name": "Paul Revere & The Raiders",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/32HPpJAhgnGPT3V7UOggzi"
+  },
+  "6veTV9sF06FBf2KN0xAdvo": {
+    "name": "The Go! Team",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo"
+  },
+  "08kLJJHCIH3KZGk4FZmWSK": {
+    "name": "The Chantels",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
+  },
+  "65wmIidwFZCCoT1BUewp5P": {
+    "name": "La Rondalla De Saltillo",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+  },
+  "3dV4xRik9AJpX2befK2ZGa": {
+    "name": "Donna The Buffalo",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/3dV4xRik9AJpX2befK2ZGa"
+  },
+  "15FPSd4ron3lLiv8A4V97y": {
+    "name": "Don Julian & The Larks",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
+  },
+  "7t4XHvWfj0XtEB8SNFeALw": {
+    "name": "Tommy Roe",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/7t4XHvWfj0XtEB8SNFeALw"
+  },
+  "6bR0cgMtkCVpm0I5yrDNzO": {
+    "name": "Big Mama Thornton",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+  },
+  "0XzVyZOZF7FIsQ7VbBZ9Yy": {
+    "name": "Shafiq Husayn",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+  },
+  "2pnezMcaiTHfGmgmGQjLsB": {
+    "name": "Entombed",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
+  },
+  "1vEN3d3dJbmdHQpXD6AIkL": {
+    "name": "Marcelo D2",
+    "genre": "r-n-b",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+  },
+  "3EYYw0bxDMBYfLoBehpsNf": {
+    "name": "Clarence \"Frogman\" Henry",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+  },
+  "5JLqvjW3Nyom2OsRUyFsS9": {
+    "name": "Xiu Xiu",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9"
+  },
+  "5gH9MJvoI7pN9bohESzYaA": {
+    "name": "White Fence",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/5gH9MJvoI7pN9bohESzYaA"
+  },
+  "3Un18X4NF1bpjgUk44lUzn": {
+    "name": "The Gun Club",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+  },
+  "53jXEVVJtpaWVQ3ffvhDtl": {
+    "name": "Betty Everett",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+  },
+  "35YNL4wwv11ZkmeWWL51y7": {
+    "name": "We Are Scientists",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7"
+  },
+  "1s5mUpjVtK0XAScRqlErSE": {
+    "name": "Drop Nineteens",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
+  },
+  "6etIM3JbzGPxTdfNWWfsVH": {
+    "name": "The McCoys",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+  },
+  "6FKokxvL5PCWIxrVhMyDgI": {
+    "name": "Demob Happy",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+  },
+  "6cHQUDAPGKRE2NbVjBlOcz": {
+    "name": "Erasmo Carlos",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+  },
+  "3O3qPC1hmSp7442HYefx5w": {
+    "name": "Lords Of Acid",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w"
+  },
+  "6imyM8T1Xbe8v2iZe41dR7": {
+    "name": "Haircut 100",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+  },
+  "5FQbU5Lrb4pFcW45ZgZzMx": {
+    "name": "Ducktails",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx"
+  },
+  "4Ej7Oks6loB2oJQ3O7Rujs": {
+    "name": "Mickey & Sylvia",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/4Ej7Oks6loB2oJQ3O7Rujs"
+  },
+  "4aAGG2cCHa15MPo795nJ97": {
+    "name": "Chase Fetti",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97"
+  },
+  "2sBPVEeMBXKNsZtYaJixnJ": {
+    "name": "Woods",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+  },
+  "3NnhZWS3bdFwcm1GPkzcNv": {
+    "name": "Los Tecolines",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+  },
+  "62G1LvBKkkl7sLHqrGbAcp": {
+    "name": "Dual Sessions",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
+  },
+  "55vDUEAKaeyEYSlzm5rRyf": {
+    "name": "The Cleftones",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+  },
+  "4JRKcLbpjobmoOVoOXPd6y": {
+    "name": "Manoella Torres",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+  },
+  "6fXIxRAaELsPMPhSkuV54J": {
+    "name": "Che Noir",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+  },
+  "5C0gCCG8N5Dh5dZytIgzLX": {
+    "name": "Os Mutantes",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+  },
+  "2ohBjgFT9V0LRDWO2wF9DJ": {
+    "name": "Novos Baianos",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+  },
+  "3ap1NzHNV9QA1x1V6z3gSe": {
+    "name": "Gene Pitney",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3ap1NzHNV9QA1x1V6z3gSe"
+  },
+  "0EkpTQlDjByRT3m4wOsr4P": {
+    "name": "The Spaniels",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
+  },
+  "2McLd7klWE4UjkPLqqMwLv": {
+    "name": "The Qemists",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2McLd7klWE4UjkPLqqMwLv"
+  },
+  "4hJTgr1adnhIkhmD9jLzd6": {
+    "name": "Bobby Rydell",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6"
+  },
+  "03hfAxVdAWj7kxDnSG0fLD": {
+    "name": "The Shadows",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
+  },
+  "3nOrhUtscermNwmfBQRZZv": {
+    "name": "Slow Crush",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+  },
+  "4mQmpDH2FfT9FjSnAJV3U1": {
+    "name": "Angelica Maria",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+  },
+  "0j2MwhbFTvquOBhs3LeIfU": {
+    "name": "Fujiya & Miyagi",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+  },
+  "4jrTNltJtTMUfXybDdsHDn": {
+    "name": "The New Seekers",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+  },
+  "1oJolWh3meHLWUcyIijst7": {
+    "name": "Black Kids",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
+  },
+  "3mOiEPe870jJrahcf2TPYZ": {
+    "name": "Little Willie John",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ"
+  },
+  "10tysauSA5JATqniBDu2Ed": {
+    "name": "The Dodos",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/10tysauSA5JATqniBDu2Ed"
+  },
+  "1ObAu0tz0NlOI6FNHTXchD": {
+    "name": "Tommy Edwards",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+  },
+  "1sZwQg2rvSlGhkG218SouM": {
+    "name": "The Moonglows",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+  },
+  "221Rd0FvVxMx7eCbWqjiKd": {
+    "name": "Satyricon",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+  },
+  "0Zk7We5BZoDR40himAI86D": {
+    "name": "Swirlies",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D"
+  },
+  "3EX6Tq7do8AKaFv39oRCfQ": {
+    "name": "ETO",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/3EX6Tq7do8AKaFv39oRCfQ"
+  },
+  "09K1H1DgyIXHsMx2j7KTFX": {
+    "name": "Mystery Jets",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+  },
+  "0V6zo2mJw9FdwWLClKC9yw": {
+    "name": "LaVern Baker",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+  },
+  "6eO95BjZhrWHREMfwC4vVN": {
+    "name": "Girls",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN"
+  },
+  "77D38RDgCtlYNLpayStftL": {
+    "name": "The Housemartins",
+    "genre": "r-n-b",
+    "popularity": 51,
+    "spotify": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
+  },
+  "1W0oUYvRe6jjI2SuaiigFv": {
+    "name": "The Danleers",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
+  },
+  "3ldj7TJdwN9Ei96ZIUU3M7": {
+    "name": "The Harptones",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
+  },
+  "3xIkJAnwLy7NwZpPwvaSPc": {
+    "name": "Sugar Pie DeSanto",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+  },
+  "5UMQV83wwZCCvRSQCVjZw6": {
+    "name": "Mission Of Burma",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+  },
+  "4tlnuBsCPe8BHUuADPvUSL": {
+    "name": "Dave Rawlings Machine",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/4tlnuBsCPe8BHUuADPvUSL"
+  },
+  "28KjD5HkkDDytQzKW7JzTp": {
+    "name": "Midnight",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp"
+  },
+  "16S3H1glektgYRNbvkp9fR": {
+    "name": "The Dominoes",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/16S3H1glektgYRNbvkp9fR"
+  },
+  "1tttI1iC4FsS6BM5l38oe5": {
+    "name": "Marmalade",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5"
+  },
+  "6Zric3RvzGMM9wRZMNTUFF": {
+    "name": "Fetty Luciano",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF"
+  },
+  "3xYNGCooNIzKMAtJYKSOyq": {
+    "name": "Electronic",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/3xYNGCooNIzKMAtJYKSOyq"
+  },
+  "4laQz4PaKeh2Hu6QL6evVD": {
+    "name": "Tribalistas",
+    "genre": "r-n-b",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+  },
+  "0AI2um3PpFgOj7Yzmk2Xu0": {
+    "name": "Dead Meadow",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+  },
+  "1DTgcOxytJHD8p17mhSgd7": {
+    "name": "Big Joe Turner",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+  },
+  "25lS9wmc4VCdlCVAf0pVTp": {
+    "name": "Japanther",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/25lS9wmc4VCdlCVAf0pVTp"
+  },
+  "68wK3u9MnoZj5fFOFNTfwy": {
+    "name": "Death In June",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/68wK3u9MnoZj5fFOFNTfwy"
+  },
+  "4Imc3wiT22cuynvQNpXcVn": {
+    "name": "Wynonie Harris",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+  },
+  "5ye4TzZU2L7cxiQgCZoJUH": {
+    "name": "The Cadillacs",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH"
+  },
+  "4EYVgfZJ8wKXWmIvCx3gOY": {
+    "name": "Ruth Brown",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+  },
+  "2pycVt1qR9u8bKdb4oLI98": {
+    "name": "Paul & Paula",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+  },
+  "1ffNa7yLg0ncUpBm5P03pm": {
+    "name": "Freddy Cannon",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/1ffNa7yLg0ncUpBm5P03pm"
+  },
+  "7rETVFaF9VOFPmmzsY3kO6": {
+    "name": "Wilbert Harrison",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+  },
+  "0WZ7IgzdjPvwFdjDjjuZm7": {
+    "name": "Esther Phillips",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+  },
+  "7JSIM5U7TZym5M3Q1AFG80": {
+    "name": "The Orlons",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/7JSIM5U7TZym5M3Q1AFG80"
+  },
+  "2NtGOVTuHBMDfR5PMNPBGT": {
+    "name": "Dee Dee Sharp",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+  },
+  "77oD8X9qLXZhpbCjv53l5n": {
+    "name": "Mercury Rev",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/77oD8X9qLXZhpbCjv53l5n"
+  },
+  "0FAxkBiT0g3jKF2AaKEipb": {
+    "name": "Ike Turner",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
+  },
+  "0spqoVkfVzRyAPmA6ZY5F9": {
+    "name": "Street Dogs",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9"
+  },
+  "00sAr10UTV1JZtHqxsLVn4": {
+    "name": "Black Mountain",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+  },
+  "2tyMOS8xKREgpEwHnLc6EX": {
+    "name": "Front 242",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+  },
+  "048FBwXjFYBWxSggPDipic": {
+    "name": "Maximo Park",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+  },
+  "7yJXicqUOMPY5Iofua29C0": {
+    "name": "Big Maybelle",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+  },
+  "4xaF2VIGwhWyEMbM6GuLdm": {
+    "name": "Teddy Killerz",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+  },
+  "0BzTIDnFI4pvhy7vVNd41Z": {
+    "name": "Omar",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+  },
+  "5LmehwqsJa7a4Ya5SaqXpx": {
+    "name": "The Silhouettes",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
+  },
+  "0VE0GTaTSeeGSzrQpLmeb9": {
+    "name": "Kvelertak",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+  },
+  "4XepUkisa56DUeA3gbjDQD": {
+    "name": "Jelly Roll Morton",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+  },
+  "68P6JiHWJsv5VqfLPchS1n": {
+    "name": "Eric Lau",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+  },
+  "52y1cRHUkI0kQqIXCg6JuZ": {
+    "name": "Johnny Kidd & The Pirates",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
+  },
+  "6LvO4vaTTJhCAdpITMpDvC": {
+    "name": "Dumpstaphunk",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+  },
+  "39x9e2QDpAxK8xTuJDwRqR": {
+    "name": "Junior Boys",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+  },
+  "7gYgOsOofRcz3sZIosDGu0": {
+    "name": "Estela Nu\u00f1ez",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
+  },
+  "7Brxri4l1ATShikyHXsEr6": {
+    "name": "Los Hermanos",
+    "genre": "r-n-b",
+    "popularity": 58,
+    "spotify": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
+  },
+  "0a1BmEq1mZ5ufKMC2fsziR": {
+    "name": "The Tymes",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR"
+  },
+  "5zq0SGWxrmzpTSXkBEQzMj": {
+    "name": "Bar\u00e3o Vermelho",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+  },
+  "4x2osw7xi8s1Jy04R6rTrn": {
+    "name": "The Mad Lads",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4x2osw7xi8s1Jy04R6rTrn"
+  },
+  "7kowgNVIlvDxx9Uhvcft5Y": {
+    "name": "Shirley & Lee",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+  },
+  "74d8upOdwQZyoDGXWEguMn": {
+    "name": "Aqueous",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+  },
+  "4WL6MC4jDW7w7K9hfc4MVS": {
+    "name": "Clyde McPhatter",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS"
+  },
+  "2ZYIql5vmxtz3LbDLIaWo9": {
+    "name": "Luke Kelly",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+  },
+  "3CfJckVRuukdJSvK3r89yJ": {
+    "name": "Raimundos",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+  },
+  "1gIa65d5ICT2xVWiUJ3u27": {
+    "name": "Tom Z\u00e9",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+  },
+  "2nRbxpnBMMbtMBWH5QdqH2": {
+    "name": "Louis Jordan",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+  },
+  "7gG6LkU3pCSQmCIPR4aSBt": {
+    "name": "The Juan Maclean",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
+  },
+  "0bnSXLp5VJS5wS40ilaBGK": {
+    "name": "Sissy Nobby",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/0bnSXLp5VJS5wS40ilaBGK"
+  },
+  "3TBfn8PtXr42OrTPaoC3E8": {
+    "name": "The Futureheads",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8"
+  },
+  "0kUKyKVDOxE9QB35T9kG3f": {
+    "name": "Todd Rhodes",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0kUKyKVDOxE9QB35T9kG3f"
+  },
+  "5PGt6fQNjLKhYYeGLWKWcM": {
+    "name": "Johnny Otis",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+  },
+  "0jUzzv49Ke4m0qqcuudBsw": {
+    "name": "Ola Belle Reed",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw"
+  },
+  "0JC6R3kbXUHe5QrxqzFwom": {
+    "name": "Preto no Branco",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+  },
+  "2V0ryJRGIdudWKl27c806m": {
+    "name": "Randy & The Rainbows",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/2V0ryJRGIdudWKl27c806m"
+  },
+  "7nkIxnGUsFXm89JX9ijD4p": {
+    "name": "Frankie Ford",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/7nkIxnGUsFXm89JX9ijD4p"
+  },
+  "3uZRvkqeNHKLMFQrJBaUCX": {
+    "name": "Amos Milburn",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+  },
+  "39g75EmRFeFbvHhsGjUpLU": {
+    "name": "Amp Fiddler",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+  },
+  "4Ayh1SXnVpYPCVR4190RXw": {
+    "name": "Hollis Brown",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw"
+  },
+  "3M2LPcqyD4PxbOFvtF05R7": {
+    "name": "Chatham County Line",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
+  },
+  "1BlBZ9jQGOjmj6Zykgg43L": {
+    "name": "4hero",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+  },
+  "1Ts4PBN5v68vkqWVs6bYL2": {
+    "name": "Kane & Abel",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/1Ts4PBN5v68vkqWVs6bYL2"
+  },
+  "4zrFO6P7G6EZry0pfxMfKT": {
+    "name": "Wild Beasts",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/4zrFO6P7G6EZry0pfxMfKT"
+  },
+  "1SBU4DvQapOFCnxMzENUkp": {
+    "name": "Good Shoes",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/1SBU4DvQapOFCnxMzENUkp"
+  },
+  "3WVjDclrbHsxjxhiOqHdnw": {
+    "name": "Frejat",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+  },
+  "43QrUqvhiL71U9A9gJtAfA": {
+    "name": "Madina Lake",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
+  },
+  "7EnAgffrVyerTWH628TJ6f": {
+    "name": "Nitzer Ebb",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f"
+  },
+  "454VBUMshEg0sxzoWKTYbT": {
+    "name": "Another Bad Creation",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/454VBUMshEg0sxzoWKTYbT"
+  },
+  "3bCvHtuIXWXPbCMdSYudmZ": {
+    "name": "Cilla Black",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
+  },
+  "06VZekh3wTqjHJbGCNBBLu": {
+    "name": "Huey \"Piano\" Smith",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu"
+  },
+  "1Qw8MHpjYxm9Xf0O1ZfPiX": {
+    "name": "Gary U.S. Bonds",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1Qw8MHpjYxm9Xf0O1ZfPiX"
+  },
+  "1ktvF9yU9iWgY0aGlKfTS4": {
+    "name": "Garnet Mimms & The Enchanters",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4"
+  },
+  "3sFl2kyQgKddOq2sKgv6ah": {
+    "name": "Johnny Ace",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+  },
+  "0b5Tz3szM4KK8esFKV2Zsb": {
+    "name": "Buddy Knox",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+  },
+  "3CCnfGrTPgEJoHFk4UOe0O": {
+    "name": "Turk",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/3CCnfGrTPgEJoHFk4UOe0O"
+  },
+  "33rjua7RFjy9GwqKWnbnGJ": {
+    "name": "The Dubs",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ"
+  },
+  "6JTGVTeIMHOhhqoM2e4mwW": {
+    "name": "ENVY CAINE",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/6JTGVTeIMHOhhqoM2e4mwW"
+  },
+  "12InvBNZTKboiU2xT663oK": {
+    "name": "The Heartbeats",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
+  },
+  "5NBY8xM51dP3UGR7bwjLD6": {
+    "name": "Larry Williams",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6"
+  },
+  "5RfKXXQQn2OhZiT5iSggZn": {
+    "name": "Jacco Gardner",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/5RfKXXQQn2OhZiT5iSggZn"
+  },
+  "5JHYuwE2n7bleXMUsmtCW5": {
+    "name": "BaianaSystem",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+  },
+  "4ybzO54FX2pbiKx209CB0t": {
+    "name": "Natalie MacMaster",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t"
+  },
+  "7e9lTgLWU4Pdg1v5UuK3wc": {
+    "name": "Magnolia Chop",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7e9lTgLWU4Pdg1v5UuK3wc"
+  },
+  "5oMWW19j0AXl7Sy4Xn9rmg": {
+    "name": "Bobby Freeman",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/5oMWW19j0AXl7Sy4Xn9rmg"
+  },
+  "2HWsf577KqaPhXyBFzei7L": {
+    "name": "The Jive Five",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+  },
+  "6b13SQkJSBYJxUoG8TaDcY": {
+    "name": "Glue Trip",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+  },
+  "4Q7d9egO7iMngBWfgvm57d": {
+    "name": "Impaled Nazarene",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4Q7d9egO7iMngBWfgvm57d"
+  },
+  "0vcAfuqLXfoxXlxLsYubnK": {
+    "name": "Arsonal da Rebel",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0vcAfuqLXfoxXlxLsYubnK"
+  },
+  "0WLmar77zWWvtWS58xp88h": {
+    "name": "Jamal Gasol",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h"
+  },
+  "3ybBNyjii40yY104IZkcly": {
+    "name": "Ernie K-Doe",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly"
+  },
+  "5Q9RKJrjHdfpWVxzv45XTJ": {
+    "name": "Mamonas Assassinas",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/5Q9RKJrjHdfpWVxzv45XTJ"
+  },
+  "1kCqTUSrWJEHZm2GSpRuMV": {
+    "name": "Maxine Brown",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV"
+  },
+  "2CM4LFqAr2MS4rIp25pxfg": {
+    "name": "Curtis Lee",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2CM4LFqAr2MS4rIp25pxfg"
+  },
+  "64wglyu5BoOzwMXYjtAbfS": {
+    "name": "Chuck Jackson",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/64wglyu5BoOzwMXYjtAbfS"
+  },
+  "6LaraO4gcDKWw0fwIOTodm": {
+    "name": "The Dovells",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/6LaraO4gcDKWw0fwIOTodm"
+  },
+  "51hRQLOySCpDBsBL6C03IZ": {
+    "name": "The Detroit Emeralds",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/51hRQLOySCpDBsBL6C03IZ"
+  },
+  "4BfUHTiOoOcunsrw4mS2HU": {
+    "name": "Percy Mayfield",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
+  },
+  "7gArjmSS1gJuofpu4vHtCI": {
+    "name": "Don & Juan",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/7gArjmSS1gJuofpu4vHtCI"
+  },
+  "5LfhZDNwFPdXrVhlESBE7S": {
+    "name": "Dornik",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S"
+  },
+  "0C8HhyOa7zfzIl3gmPjY52": {
+    "name": "Belchior",
+    "genre": "r-n-b",
+    "popularity": 57,
+    "spotify": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+  },
+  "5deK5HnwbEKvge2svL0i0B": {
+    "name": "Sabotage",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+  },
+  "7e5v9t1Ld1T9cQMBiRY3K6": {
+    "name": "The Jarmels",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/7e5v9t1Ld1T9cQMBiRY3K6"
+  },
+  "44mrDjAyvYUG7wJZB2udrT": {
+    "name": "Cloak",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/44mrDjAyvYUG7wJZB2udrT"
+  },
+  "7y0ngZzIllkP8ZOqgTKQFc": {
+    "name": "Ruby And The Romantics",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7y0ngZzIllkP8ZOqgTKQFc"
+  },
+  "0ohvsn0lgt51qZUbu9ct4s": {
+    "name": "Boogarins",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s"
+  },
+  "2zee4amgZunaTl3YyLz1iG": {
+    "name": "The Crows",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
+  },
+  "6KfBWaX13etjtEZ4d9aTWW": {
+    "name": "Bobby Lewis",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW"
+  },
+  "6xE8Ls6Z7Vu5VPA5U2ew1F": {
+    "name": "Nas Blixky",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/6xE8Ls6Z7Vu5VPA5U2ew1F"
+  },
+  "0OVOH98bZTn0lsdL7MclGw": {
+    "name": "Agnes Nunes",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+  },
+  "12MKI4bsBpKY0APrz712Fs": {
+    "name": "Ace NumbaFive",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/12MKI4bsBpKY0APrz712Fs"
+  },
+  "01PZH8MrTxfgfTXNqpMRjG": {
+    "name": "Hank Ballard & The Midnighters",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/01PZH8MrTxfgfTXNqpMRjG"
+  },
+  "7FQVHPRA74BTNsNHRob0F7": {
+    "name": "The Edsels",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7"
+  },
+  "3Hra0KQr00Pe9oqmQdVtvp": {
+    "name": "The Flirtations",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp"
+  },
+  "3G026WzIAKhDi1U9xSXDDt": {
+    "name": "PNV Jay",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3G026WzIAKhDi1U9xSXDDt"
+  },
+  "4foARo5aSfuIuDLupoxK4k": {
+    "name": "Datarock",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k"
+  },
+  "0rbQ6RnCd7jkHUr9zof16V": {
+    "name": "Bob Brozman",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+  },
+  "621cwk4Vknl61CX8WbABek": {
+    "name": "Mo B. Dick",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/621cwk4Vknl61CX8WbABek"
+  },
+  "2gY5OQ4VDSBm0xgkSQt6Hw": {
+    "name": "Earl Lewis",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/2gY5OQ4VDSBm0xgkSQt6Hw"
+  },
+  "4dGVRIf2xj0JhawVheLiOI": {
+    "name": "Tom Vek",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4dGVRIf2xj0JhawVheLiOI"
+  },
+  "2wXUKlYvdBHn2MNeRKgG6W": {
+    "name": "This Heat",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/2wXUKlYvdBHn2MNeRKgG6W"
+  },
+  "4i9IEoaY6Q1v3Puqz3PwC1": {
+    "name": "Lenny Welch",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/4i9IEoaY6Q1v3Puqz3PwC1"
+  },
+  "3ahRanZQnsZmAVMNqRsimM": {
+    "name": "The Ad Libs",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/3ahRanZQnsZmAVMNqRsimM"
+  },
+  "1ubsCjea2yzGyHQEPol3Y5": {
+    "name": "Coachwhips",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/1ubsCjea2yzGyHQEPol3Y5"
+  },
+  "6X3QjCYg5HcTwO5FPVQj0J": {
+    "name": "Enei",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
+  },
+  "4gf4FOa0MS8HlvnqBfmSFU": {
+    "name": "The Nutmegs",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/4gf4FOa0MS8HlvnqBfmSFU"
+  },
+  "5VWsXclbjqyQVmVBPPvojI": {
+    "name": "Darkbuster",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/5VWsXclbjqyQVmVBPPvojI"
+  },
+  "7rtLZcKWGV4eaZsBwSKimf": {
+    "name": "Billy Fury",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf"
+  },
+  "2wt7Gyz3mJCrhp1815Beoh": {
+    "name": "Nick Blixky",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/2wt7Gyz3mJCrhp1815Beoh"
+  },
+  "35SkZMI5CPiCude4FW45O9": {
+    "name": "Rosco Gordon",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+  },
+  "0WkO9Px6qQCM7so8lYvaCv": {
+    "name": "Vivian Girls",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv"
+  },
+  "3FHoBjVB5xqQtBCncv7iF1": {
+    "name": "Jezz Gasoline",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/3FHoBjVB5xqQtBCncv7iF1"
+  },
+  "3ukGXal9ZRsjAUSRL6fRDn": {
+    "name": "The Regents",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
+  },
+  "7ydcRbgt0yM9etADb1Ackp": {
+    "name": "Jimmy Jones",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/7ydcRbgt0yM9etADb1Ackp"
+  },
+  "21uawITknPcgjwdJuvpcGE": {
+    "name": "Chuck Willis",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE"
+  },
+  "6PyZY3e7wgYgRdegqvqhSo": {
+    "name": "Dee Clark",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/6PyZY3e7wgYgRdegqvqhSo"
+  },
+  "0sXLPUQAB1hir58hoQnxZa": {
+    "name": "Rachel's",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa"
+  },
+  "3vEgzbeKwiwMKhpjdJ4xpS": {
+    "name": "Virginia Lopez",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+  },
+  "4Am5deuAhDuKUJgXmoCQzj": {
+    "name": "The Orioles",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj"
+  },
+  "6VpdTQWCRE01WVoEuby2a6": {
+    "name": "Mc Luanna",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+  },
+  "7E5dcvoiZra9wwBuXYAYTw": {
+    "name": "Biquini Cavad\u00e3o",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw"
+  },
+  "7l4LQfvN4yz8zbK4WY0AAg": {
+    "name": "Laibach",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/7l4LQfvN4yz8zbK4WY0AAg"
+  },
+  "5CDTMeaU6dnv24n6e4uAtk": {
+    "name": "Dillinja",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk"
+  },
+  "01PkggcasHgNtRfgRw51Kk": {
+    "name": "Smiley Lewis",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+  },
+  "6ODCVWBfGNFUf1bpo0c2Ge": {
+    "name": "Karol Conk\u00e1",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+  },
+  "19nFjml2GjS4LuL4NrDa7D": {
+    "name": "Ed Motta",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+  },
+  "5bhOQZFgsHOuAiJ0WJXNHW": {
+    "name": "Cool Ghouls",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/5bhOQZFgsHOuAiJ0WJXNHW"
+  },
+  "3R0XvRGDJEL5cGXVLiAbDB": {
+    "name": "Hank Ballard",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
+  },
+  "5Znx4PG5UsUitigaJnmZX3": {
+    "name": "Flora Matos",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+  },
+  "3zhKxZr516VdNDa8v3oft2": {
+    "name": "UM44K",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+  },
+  "29afta7TiMlvY1fkgaFJcH": {
+    "name": "Baby Washington",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH"
+  },
+  "1SsdsVIIKLUe54OsHzm5uQ": {
+    "name": "Aphrodite",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/1SsdsVIIKLUe54OsHzm5uQ"
+  },
+  "1epGwdbjU7JSGVBHlqptpx": {
+    "name": "Abbath",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
+  },
+  "10Tpr9ilHCDi18P0qma6dF": {
+    "name": "The Kings Of Nuthin'",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/10Tpr9ilHCDi18P0qma6dF"
+  },
+  "5TesVKMq16peTfJC46PbYw": {
+    "name": "The Bobbettes",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/5TesVKMq16peTfJC46PbYw"
+  },
+  "7lfmakKFOeQWdUrbmVK6EQ": {
+    "name": "RPM",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ"
+  },
+  "7w4W5Yr7oTBAqhglv0IP87": {
+    "name": "MHRAP",
+    "genre": "r-n-b",
+    "popularity": 59,
+    "spotify": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+  },
+  "7L5YQQJPL1wrmrdigJavV7": {
+    "name": "Ira!",
+    "genre": "r-n-b",
+    "popularity": 56,
+    "spotify": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+  },
+  "59dLJG3ZVwkMZLFKByQCJB": {
+    "name": "Pappo's Blues",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+  },
+  "6kvXn2MzCLCtsAqf5nbmho": {
+    "name": "Origin Unknown",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho"
+  },
+  "13A9x5VINTOaVnYxK4rbNQ": {
+    "name": "Clau",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+  },
+  "7c8kQb9AUntvapfnuC3IhF": {
+    "name": "Terno Rei",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
+  },
+  "6PZSamzVjQTB8J9gVmpouk": {
+    "name": "Loveboat Luciano",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/6PZSamzVjQTB8J9gVmpouk"
+  },
+  "3mCIMoeTyKjHlgNv7wFZYI": {
+    "name": "Chris Kenner",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI"
+  },
+  "3WyGjUsOZJRiT9re5pZYxL": {
+    "name": "Broken Witt Rebels",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/3WyGjUsOZJRiT9re5pZYxL"
+  },
+  "6TLwl6BCLZ5D1jwn4l2KGh": {
+    "name": "Dick & Dee Dee",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6TLwl6BCLZ5D1jwn4l2KGh"
+  },
+  "3bKO3mmizIpDdwNVdp96B9": {
+    "name": "Nenhum De N\u00f3s",
+    "genre": "r-n-b",
+    "popularity": 52,
+    "spotify": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+  },
+  "441czNPs99YpKWwfnppoAg": {
+    "name": "Skull Duggery",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/441czNPs99YpKWwfnppoAg"
+  },
+  "1xglv0oUbyJaycWFhyec8U": {
+    "name": "JC NO BEAT",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
+  },
+  "2g46L9VSa45dv1Zv4QWaFt": {
+    "name": "Zabranjeno pu\u0161enje",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2g46L9VSa45dv1Zv4QWaFt"
+  },
+  "4oE4ASN8auDhoW9vsXp3VJ": {
+    "name": "MV Bill",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+  },
+  "1OTR9mH8N5qvv4q0LZy3PI": {
+    "name": "The Impalas",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/1OTR9mH8N5qvv4q0LZy3PI"
+  },
+  "2sFXe6NbmT3k7Qy4N8fE7f": {
+    "name": "Fresno",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+  },
+  "45QC24TiJaUefMd4ZXqMpB": {
+    "name": "Partners-N-Crime",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/45QC24TiJaUefMd4ZXqMpB"
+  },
+  "6Ku1v7iIC5rxuiyBbIHc03": {
+    "name": "Nattefrost",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/6Ku1v7iIC5rxuiyBbIHc03"
+  },
+  "0hkIlpV0isEixFIr74VfZm": {
+    "name": "Craft",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/0hkIlpV0isEixFIr74VfZm"
+  },
+  "5eTTS3YDf54li8yguyoP14": {
+    "name": "Wormwitch",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14"
+  },
+  "37hCu82ZWZlLCf6gs1H8Gf": {
+    "name": "DJ Hum",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+  },
+  "121nZKKBmAkL8NKaXY0rkC": {
+    "name": "The Hollywood Flames",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
+  },
+  "2a6TNADvz1rRCUfAcUSvww": {
+    "name": "The El Dorados",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/2a6TNADvz1rRCUfAcUSvww"
+  },
+  "3LnEknwFnnuoiVxCatyMtr": {
+    "name": "Handsome Jack",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
+  },
+  "7mDQwcnDUGuSoggxbUtVc1": {
+    "name": "The Rakes",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
+  },
+  "3DpdJvcq90sWYUx35Tcbea": {
+    "name": "Ivory Joe Hunter",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/3DpdJvcq90sWYUx35Tcbea"
+  },
+  "28IcRPf399RPv4TUiZ7uol": {
+    "name": "Marina Lima",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+  },
+  "0v6JkAzkEJ6lCw6hAVs5VP": {
+    "name": "Wynona Carr",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP"
+  },
+  "2tqnmCENgz312npfr5POLe": {
+    "name": "The Five Keys",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2tqnmCENgz312npfr5POLe"
+  },
+  "7zsTaSj1Q4jSCjbj5GtmoN": {
+    "name": "An\u00edbal Troilo",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+  },
+  "02zZvwbbma78yTdQ1p2tey": {
+    "name": "Los Jaibos",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
+  },
+  "78jcF59aMpz63E2TYmntws": {
+    "name": "Mc Carol",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+  },
+  "7oR6vQt8KT2ZWUpC65jTha": {
+    "name": "Nappy Brown",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/7oR6vQt8KT2ZWUpC65jTha"
+  },
+  "5csKyypxXUXTNBUGuCrsoV": {
+    "name": "Joe Liggins",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+  },
+  "04rhebO91K6xoiXE0XuDkh": {
+    "name": "DJ Hazard",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+  },
+  "3vQAVbtRu2SDTgfTKcoxDu": {
+    "name": "Enygma Rapper",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+  },
+  "3KeTziLAcJFEnbhfIMRh5w": {
+    "name": "Dee Dee Warwick",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/3KeTziLAcJFEnbhfIMRh5w"
+  },
+  "4KWRrTJoM6MhOq3UTYctJV": {
+    "name": "Ritchie",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
+  },
+  "317yGDHMNsNQMfjsNNPYUg": {
+    "name": "Francisco, el Hombre",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+  },
+  "3NrgJjsUdXDR6HVKjPrZ7k": {
+    "name": "Honey Island Swamp Band",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3NrgJjsUdXDR6HVKjPrZ7k"
+  },
+  "73HkjgziMO6I83vFOS8mo1": {
+    "name": "Supercombo",
+    "genre": "r-n-b",
+    "popularity": 54,
+    "spotify": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+  },
+  "3zkkrMSBLHuTKMI6I3fDWi": {
+    "name": "Ultraje a Rigor",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi"
+  },
+  "1POsQml4E21Ku75BirHFMQ": {
+    "name": "Blitz",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+  },
+  "7hUrFkKBD1PWTn55l22v90": {
+    "name": "The Falcons",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/7hUrFkKBD1PWTn55l22v90"
+  },
+  "7HnkRhoGqYLTasI52iJoE7": {
+    "name": "Chico Science",
+    "genre": "r-n-b",
+    "popularity": 45,
+    "spotify": "https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7"
+  },
+  "0mxCHSMJZHtDuNRFdPiNRX": {
+    "name": "The Robins",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0mxCHSMJZHtDuNRFdPiNRX"
+  },
+  "0rVzRhHB7PRsiNlRn2wc4B": {
+    "name": "anirap",
+    "genre": "r-n-b",
+    "popularity": 53,
+    "spotify": "https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B"
+  },
+  "70sHURBVOq2rwWkmBpDxYa": {
+    "name": "Tiny Bradshaw",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+  },
+  "2ZvXaOrinJFZDexa3fWqMZ": {
+    "name": "Shit Robot",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ"
+  },
+  "2K5llYyoLmzpOcbVuOY1ls": {
+    "name": "Baby Do Brasil",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+  },
+  "3qvw5E5LD9Wq0nFNnBL4O2": {
+    "name": "Chava Flores",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
+  },
+  "6OgrmJe15LhZrdbRQxE2Bl": {
+    "name": "Pepe Jara",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
+  },
+  "1MRFkxDxTMqNTZJSWgW7VL": {
+    "name": "The Essex",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/1MRFkxDxTMqNTZJSWgW7VL"
+  },
+  "3J11x63maeBtbx8zXgzftQ": {
+    "name": "Shorty Long",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+  },
+  "3KtW4xANJkgfEnFgMxaj8h": {
+    "name": "The Olympics",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/3KtW4xANJkgfEnFgMxaj8h"
+  },
+  "6vcUagbhY6zVVU71BnnURP": {
+    "name": "Royal Southern Brotherhood",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6vcUagbhY6zVVU71BnnURP"
+  },
+  "7zsxdMsODmHKTbTB00t9wS": {
+    "name": "Dorival Caymmi",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS"
+  },
+  "49Jb7NSMLFMM3n8M7BNRxN": {
+    "name": "Marty Wilde",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
+  },
+  "5r51ZRo9aVSQDr5ki6YoDC": {
+    "name": "Richard Berry",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/5r51ZRo9aVSQDr5ki6YoDC"
+  },
+  "3JGrgRrVkxLjnDtVbryvDx": {
+    "name": "The Charts",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3JGrgRrVkxLjnDtVbryvDx"
+  },
+  "0nDEW2hmRliyOfxJwO2CL9": {
+    "name": "Mitty Collier",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/0nDEW2hmRliyOfxJwO2CL9"
+  },
+  "4yvREhViCsrwclRdBAdlOl": {
+    "name": "Bladerunner",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl"
+  },
+  "0QFOmSTku0zPMVoawXFCXX": {
+    "name": "Camille Howard",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+  },
+  "67OIf7vgqZq9qFuDqmCFyI": {
+    "name": "The \"5\" Royales",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI"
+  },
+  "5wn4Uafieiu8AEo360i2z7": {
+    "name": "The Turbans",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7"
+  },
+  "02tMtF5FVucqAJW2TQB9ig": {
+    "name": "Roy Milton",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+  },
+  "5zG3ksNu7WAhSc3G0Xcs0O": {
+    "name": "Maria Del Sol",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/5zG3ksNu7WAhSc3G0Xcs0O"
+  },
+  "1VEQZsxHsrlZDP7DFsevbe": {
+    "name": "Allison de Groot & Tatiana Hargreaves",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
+  },
+  "4NSbUIfUAkaedUIm8eJ631": {
+    "name": "Pato Fu",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+  },
+  "7ywuUxIhs0wsrflxhUhvNb": {
+    "name": "The Shells",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/7ywuUxIhs0wsrflxhUhvNb"
+  },
+  "2vxB3dcYKpHO5eQfYetGxT": {
+    "name": "Aldir Blanc",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/2vxB3dcYKpHO5eQfYetGxT"
+  },
+  "2xQekp9pIdAm0uCrYe2kSh": {
+    "name": "Abillyon",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/2xQekp9pIdAm0uCrYe2kSh"
+  },
+  "4k7aDO0205tCEvFKuck7L0": {
+    "name": "N\u00e3o ao Futebol Moderno",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4k7aDO0205tCEvFKuck7L0"
+  },
+  "7FS3EGuBVCs09Mfs23t2Af": {
+    "name": "Charlie Poole",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/7FS3EGuBVCs09Mfs23t2Af"
+  },
+  "4u0qFtN4NZ1NjcvAw3HAGU": {
+    "name": "Jesse Belvin",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/4u0qFtN4NZ1NjcvAw3HAGU"
+  },
+  "3G2c7xsEV9gn47yxKyADSS": {
+    "name": "The Five Discs",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/3G2c7xsEV9gn47yxKyADSS"
+  },
+  "3mFuZPYNpQfxCrwK3gg526": {
+    "name": "Lee Andrews",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3mFuZPYNpQfxCrwK3gg526"
+  },
+  "5i0l5mqvbAOWoNCii2KUgG": {
+    "name": "Corey Finesse",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/5i0l5mqvbAOWoNCii2KUgG"
+  },
+  "0zEwjWbZ3Lo2t0Lk8kebQu": {
+    "name": "Chedda Bang",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/0zEwjWbZ3Lo2t0Lk8kebQu"
+  },
+  "0Vs5bK5uPfw58c2Df8Ly4F": {
+    "name": "The Ducky Boys",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/0Vs5bK5uPfw58c2Df8Ly4F"
+  },
+  "4e4HSlRxKSMGJDI0GiipBq": {
+    "name": "The Timetones",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/4e4HSlRxKSMGJDI0GiipBq"
+  },
+  "4reUSabzsXZWM3BMH4fU1Q": {
+    "name": "L.A. Style",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/4reUSabzsXZWM3BMH4fU1Q"
+  },
+  "2MnM5JbezlOuVYlfx61Qc6": {
+    "name": "DJ Hype",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2MnM5JbezlOuVYlfx61Qc6"
+  },
+  "2YUpHnPPUbMlkg9veSwbaJ": {
+    "name": "Los Bribones",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/2YUpHnPPUbMlkg9veSwbaJ"
+  },
+  "7xERCiJiUTzPj6X4hRRGh4": {
+    "name": "Beastwars",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/7xERCiJiUTzPj6X4hRRGh4"
+  },
+  "6o7PhWSdIRDWXevilpKRlK": {
+    "name": "Ekatarina Velika",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/6o7PhWSdIRDWXevilpKRlK"
+  },
+  "3ZeS0xT9nwJ6pzEuNdQgal": {
+    "name": "Lewis Lymon & The Teenchords",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/3ZeS0xT9nwJ6pzEuNdQgal"
+  },
+  "2KL7KDeEPo4rOiM94NaWrq": {
+    "name": "The Swallows",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq"
+  },
+  "4B06m6NJ8e5AnzIZNtZtta": {
+    "name": "Rews",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/4B06m6NJ8e5AnzIZNtZtta"
+  },
+  "2fbeD4DgpQGFbowONHP6uj": {
+    "name": "Tauz",
+    "genre": "r-n-b",
+    "popularity": 50,
+    "spotify": "https://open.spotify.com/artist/2fbeD4DgpQGFbowONHP6uj"
+  },
+  "3Kt7DKbC0fiQyxbBbQScxm": {
+    "name": "Eddie Kaine",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3Kt7DKbC0fiQyxbBbQScxm"
+  },
+  "4EZWsXJ581lp6c6w3oDifO": {
+    "name": "The Larks",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/4EZWsXJ581lp6c6w3oDifO"
+  },
+  "78mbNM5OEXwFRxfF8fsFjD": {
+    "name": "The Solitaires",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/78mbNM5OEXwFRxfF8fsFjD"
+  },
+  "0mMfUMeFxdsH5ijLeGYPdc": {
+    "name": "The Motorleague",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc"
+  },
+  "6lYCEf0YXWX7y2MenYe0pZ": {
+    "name": "Gino Washington",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6lYCEf0YXWX7y2MenYe0pZ"
+  },
+  "0DOBA12CRFT335DflyO9dZ": {
+    "name": "Savannah Churchill",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/0DOBA12CRFT335DflyO9dZ"
+  },
+  "76IyGPd3y2mBZCljGcke0x": {
+    "name": "Dexter",
+    "genre": "r-n-b",
+    "popularity": 48,
+    "spotify": "https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x"
+  },
+  "6LWmwdaxswnPZCrjexu80I": {
+    "name": "Ray Keith",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/6LWmwdaxswnPZCrjexu80I"
+  },
+  "1v0rEJk9ZuCrCQDvCXbO3D": {
+    "name": "X\u00eania Fran\u00e7a",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+  },
+  "3LWCuB9QxDmpLhhGwqU04N": {
+    "name": "Lob\u00e3o",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N"
+  },
+  "5gi1wL7wG5q7lNQ6sIdfZY": {
+    "name": "Far From Finished",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5gi1wL7wG5q7lNQ6sIdfZY"
+  },
+  "2KczmhlmHUuDVVtkXJjgAc": {
+    "name": "The Klinik",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/2KczmhlmHUuDVVtkXJjgAc"
+  },
+  "5E9XOlEicDpLGlRZCRarR7": {
+    "name": "I",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
+  },
+  "0KNylMopqFPVtgIDUt7xmR": {
+    "name": "Shana Tucker",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/0KNylMopqFPVtgIDUt7xmR"
+  },
+  "7xL33iiwCzXDSlGhVwg9K2": {
+    "name": "The Fiestas",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/7xL33iiwCzXDSlGhVwg9K2"
+  },
+  "7LvQ7F9il2LSzH7iwR4N2p": {
+    "name": "Bull Moose Jackson",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/7LvQ7F9il2LSzH7iwR4N2p"
+  },
+  "5Y72SWo6zt7VZn87hSNO5L": {
+    "name": "Paparattzi Pop",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/5Y72SWo6zt7VZn87hSNO5L"
+  },
+  "1XwRhEHqiCVgiEJQk66fyy": {
+    "name": "D.I.D",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/1XwRhEHqiCVgiEJQk66fyy"
+  },
+  "4UsANxTpwUF36Puc4Ofmmf": {
+    "name": "The Channels",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/4UsANxTpwUF36Puc4Ofmmf"
+  },
+  "5pzsYBjgMTBW6r3B69yK9X": {
+    "name": "Marina",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X"
+  },
+  "58CohJpaPmE4H0fXEAnt4i": {
+    "name": "Jimmy McCracklin",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/58CohJpaPmE4H0fXEAnt4i"
+  },
+  "1GNqYPZX9xWLXHQfHKXXVu": {
+    "name": "The Ganja Kru",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/1GNqYPZX9xWLXHQfHKXXVu"
+  },
+  "7AHbEJzagdhCQ1QcLu0dJx": {
+    "name": "Carmela Y Rafael",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/7AHbEJzagdhCQ1QcLu0dJx"
+  },
+  "3QWSC5ZtiBj1Kfr2BL46lW": {
+    "name": "Gorefest",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/3QWSC5ZtiBj1Kfr2BL46lW"
+  },
+  "0kc1BjcLHaXhZVzCp0HeAl": {
+    "name": "Tassia Reis",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+  },
+  "0upv3byr3DqJF5gYZcntAj": {
+    "name": "Stavros Xarhakos",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0upv3byr3DqJF5gYZcntAj"
+  },
+  "4w4OsEmXP5ogC0U7CLnOrH": {
+    "name": "Fino Coletivo",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+  },
+  "1kw0XgBrY9VHhS44PXMHrb": {
+    "name": "Poppa Da Don",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/1kw0XgBrY9VHhS44PXMHrb"
+  },
+  "6FvGIOpELnPLxPoyqotQ0Q": {
+    "name": "Tihuana",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/6FvGIOpELnPLxPoyqotQ0Q"
+  },
+  "6iZhPU2Q058EIWFTE8GsXs": {
+    "name": "Elektricni Orgazam",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/6iZhPU2Q058EIWFTE8GsXs"
+  },
+  "0rBTa7BzgkOjtZt2VM3jKF": {
+    "name": "Trombone de Frutas",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0rBTa7BzgkOjtZt2VM3jKF"
+  },
+  "3JeTATqIkiHIjyrdOyr68t": {
+    "name": "Jan Akkerman",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
+  },
+  "3TbDeRrXw8SVnRWx9BkHeZ": {
+    "name": "O Teatro M\u00e1gico",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+  },
+  "5Cz18ETgjR6kcVMUK0YOqD": {
+    "name": "Nachtmystium",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/5Cz18ETgjR6kcVMUK0YOqD"
+  },
+  "2KvwC4Kmp2U8XnKr5Yr1hm": {
+    "name": "Vreid",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm"
+  },
+  "6J3woQCTe8Tk7APW7vjy4H": {
+    "name": "Los Sebosos Postizos",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
+  },
+  "16NdOHGyaRuFv1365u0XEf": {
+    "name": "Tokyo",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/16NdOHGyaRuFv1365u0XEf"
+  },
+  "3MHIoEboWZOn2vX4O3GrjM": {
+    "name": "Venom Inc.",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM"
+  },
+  "1bx4W3T0zPKzmsrRTvquWV": {
+    "name": "Faye Adams",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV"
+  },
+  "07V0GWuWYmgheREejBORmk": {
+    "name": "Paulo Ricardo",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+  },
+  "6zA224DrDV7oLmlAs99rVb": {
+    "name": "Julia Lee And Her Boyfriends",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6zA224DrDV7oLmlAs99rVb"
+  },
+  "2vyvksxB1aCmd0vl2geGYR": {
+    "name": "A Banda Mais Bonita da Cidade",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+  },
+  "7DaVNVQoGUcf4XdJrou04q": {
+    "name": "Sourvein",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/7DaVNVQoGUcf4XdJrou04q"
+  },
+  "4OSPtOO4hNljpKoi4YN1Is": {
+    "name": "Ifernach",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/4OSPtOO4hNljpKoi4YN1Is"
+  },
+  "6dxPXJaSKfiMQktSMb0ihw": {
+    "name": "Lorraine Jordan & Carolina Road",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
+  },
+  "2azqeHE13Y8hP8YAjew9zL": {
+    "name": "Plebe Rude",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL"
+  },
+  "4qqohKrxiozEixcmxeW3eA": {
+    "name": "kiss the anus of a black cat",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/4qqohKrxiozEixcmxeW3eA"
+  },
+  "3V3rRpp5sbiBNY34AdnplK": {
+    "name": "Fac\u00e7\u00e3o Central",
+    "genre": "r-n-b",
+    "popularity": 47,
+    "spotify": "https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK"
+  },
+  "1VJZvjGu80pBwk0qeJz8ZR": {
+    "name": "Drik Barbosa",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+  },
+  "5pEcgMFu5zKwK5NDdpEIIj": {
+    "name": "Jackie Brenston",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj"
+  },
+  "284fAcjDaBYlPBLZnQkZU0": {
+    "name": "Adam Faith",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/284fAcjDaBYlPBLZnQkZU0"
+  },
+  "7cLvBjizqjjdC350aOQ2KW": {
+    "name": "Rappin' Hood",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW"
+  },
+  "4cZ1kxYzzWA4WZYxFlQMHM": {
+    "name": "Ramleh",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/4cZ1kxYzzWA4WZYxFlQMHM"
+  },
+  "0yJJHicyYpeDFfliRVqhsC": {
+    "name": "Eastcolors",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/0yJJHicyYpeDFfliRVqhsC"
+  },
+  "4DA80eMApXUP7X5BCvUbdu": {
+    "name": "Idoli",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/4DA80eMApXUP7X5BCvUbdu"
+  },
+  "5qTR5nsQN0fmmDVNZFCI8D": {
+    "name": "Mr. Marcelo",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/5qTR5nsQN0fmmDVNZFCI8D"
+  },
+  "6JrOHgSwKEaLYkzKxGl6Kh": {
+    "name": "Curly Savv And Dah Dah",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6JrOHgSwKEaLYkzKxGl6Kh"
+  },
+  "2A8r4X2BCk6Y92EBYd3tP1": {
+    "name": "Basara",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1"
+  },
+  "1PA11Cy0SrjmwymvGS9h0C": {
+    "name": "509-E",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C"
+  },
+  "409qREwneDD43Jr4dvzsB3": {
+    "name": "The Du Droppers",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/409qREwneDD43Jr4dvzsB3"
+  },
+  "66PoNlsQYggJcJrCQAIvtU": {
+    "name": "Razika",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/66PoNlsQYggJcJrCQAIvtU"
+  },
+  "2L15xOSO0ZKfyYGYwrWUUg": {
+    "name": "The Schoolboys",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/2L15xOSO0ZKfyYGYwrWUUg"
+  },
+  "3ppT9krw1TptkMvJeL7SuH": {
+    "name": "Sam Black Church",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/3ppT9krw1TptkMvJeL7SuH"
+  },
+  "0jt8kceByMQRorrMxKEUUt": {
+    "name": "Sabbat",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0jt8kceByMQRorrMxKEUUt"
+  },
+  "6WiHTBzzEbzjusce4ED6pL": {
+    "name": "The Bonnevilles",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/6WiHTBzzEbzjusce4ED6pL"
+  },
+  "24me6m3bV7l2rnUwaXV0Tj": {
+    "name": "Maglore",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+  },
+  "7utNccGdtG3Pp1a7s7yS15": {
+    "name": "Madhattan",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/7utNccGdtG3Pp1a7s7yS15"
+  },
+  "0nBtgRm31iRXJGRiHUP3RJ": {
+    "name": "Golpe De Estado",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/0nBtgRm31iRXJGRiHUP3RJ"
+  },
+  "6ShRDU9xWQPPKJQobL61Xd": {
+    "name": "Bigod 20",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/6ShRDU9xWQPPKJQobL61Xd"
+  },
+  "3kUOrihppixT9eiKVUyGZD": {
+    "name": "Beneficence",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3kUOrihppixT9eiKVUyGZD"
+  },
+  "3tWVgYrn2htmCQesDIlByw": {
+    "name": "Kiko Zambianchi",
+    "genre": "r-n-b",
+    "popularity": 49,
+    "spotify": "https://open.spotify.com/artist/3tWVgYrn2htmCQesDIlByw"
+  },
+  "2A9ZOE4ukWNyIjDhtUyp45": {
+    "name": "Radio Taxi",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/2A9ZOE4ukWNyIjDhtUyp45"
+  },
+  "39AMDMPl2TPIIylBZX8P3O": {
+    "name": "Varetta Dillard",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O"
+  },
+  "1drcMrZqfYsecBlwciiLDZ": {
+    "name": "The Treniers",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
+  },
+  "4M3DAApROQAuDojXHNwNgn": {
+    "name": "The Ravens",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/4M3DAApROQAuDojXHNwNgn"
+  },
+  "166n9ysZVuPxdODGEXsKBA": {
+    "name": "Kooda B",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/166n9ysZVuPxdODGEXsKBA"
+  },
+  "6w3S2c3TqD9lPPN2qOpHw1": {
+    "name": "Pussy Galore",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/6w3S2c3TqD9lPPN2qOpHw1"
+  },
+  "2iIBcGbTd24FtVwuP9o2OT": {
+    "name": "Whispering Sons",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2iIBcGbTd24FtVwuP9o2OT"
+  },
+  "1CQJtHMGhqvrSZiRTjSeOU": {
+    "name": "RZO",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU"
+  },
+  "0rexWKb4rBwWS07SoHqsX0": {
+    "name": "Vanguart",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0"
+  },
+  "6vA4znwvrwhCSYfcrkC2Hg": {
+    "name": "Lino Krizz",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+  },
+  "0a0EIVVyDWdJuMrq1VNrfk": {
+    "name": "Something Clever",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/0a0EIVVyDWdJuMrq1VNrfk"
+  },
+  "3GqqLI4qwyKvL4rOxM0Uym": {
+    "name": "Real Ones",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+  },
+  "2nco6B1vKDF67U80mmSnfY": {
+    "name": "The Jesters",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/2nco6B1vKDF67U80mmSnfY"
+  },
+  "3hHAdG4gMD9GnqqWWST9D7": {
+    "name": "Bobby Marchan",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/3hHAdG4gMD9GnqqWWST9D7"
+  },
+  "71s3pi3yFhYB1P40dmRm1J": {
+    "name": "Rodrigo Zin",
+    "genre": "r-n-b",
+    "popularity": 46,
+    "spotify": "https://open.spotify.com/artist/71s3pi3yFhYB1P40dmRm1J"
+  },
+  "1hX5P2lkCP3LrzVRlJmQX8": {
+    "name": "Lucas e Orelha",
+    "genre": "r-n-b",
+    "popularity": 44,
+    "spotify": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+  },
+  "3rZKnhYrwfRs3wluf9vnsO": {
+    "name": "The Paradons",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/3rZKnhYrwfRs3wluf9vnsO"
+  },
+  "7A6k2eqQT5MnGj6Mq9vwcS": {
+    "name": "T99",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS"
+  },
+  "6Wovvjcj6QZTEyKRkXdLL9": {
+    "name": "MTK",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+  },
+  "3On7zXKjSRYhbsuUpLJ59k": {
+    "name": "The Sunshine Underground",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/3On7zXKjSRYhbsuUpLJ59k"
+  },
+  "1spNyuGP0S40Qz4gCEzKJg": {
+    "name": "Bub Rock",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/1spNyuGP0S40Qz4gCEzKJg"
+  },
+  "66j5pKh7GqRm23WoULBfZu": {
+    "name": "Tree Mason",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/66j5pKh7GqRm23WoULBfZu"
+  },
+  "01F64hXfIisZbwBf1VCwQT": {
+    "name": "Carne Doce",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT"
+  },
+  "11xX6bMCvpstEFOyx8lxYg": {
+    "name": "Zimbra",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
+  },
+  "6Z3jpHZzLLidOPRoHQ5wix": {
+    "name": "Metr\u00f4",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/6Z3jpHZzLLidOPRoHQ5wix"
+  },
+  "1sTrSq571Q88nMlONdgtth": {
+    "name": "Young Jessie",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/1sTrSq571Q88nMlONdgtth"
+  },
+  "5SsvQk2cROZGxmz1wCdHJD": {
+    "name": "Rosana",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/5SsvQk2cROZGxmz1wCdHJD"
+  },
+  "4Bh0y5G503CoxJazUbgKxY": {
+    "name": "VG Beats",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/4Bh0y5G503CoxJazUbgKxY"
+  },
+  "7dlay5tI6UDYGbGrtW1oHx": {
+    "name": "TK RAPS",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+  },
+  "3BL1s5UAxSPUJh3QZh3IRD": {
+    "name": "Takr",
+    "genre": "r-n-b",
+    "popularity": 43,
+    "spotify": "https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD"
+  },
+  "631T7yPinNND4sm5RINYxu": {
+    "name": "Sidney Scaccio",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu"
+  },
+  "2haNFSI2XvHycF4x0nhp2w": {
+    "name": "La Mississippi",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
+  },
+  "10vtHOCA3qPLmrGylgO2F1": {
+    "name": "Manal",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+  },
+  "0874X5llMALkW6K070U1vM": {
+    "name": "Hayley Jane and the Primates",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0874X5llMALkW6K070U1vM"
+  },
+  "2rcjLEFEZ37QMTNy2Yk3xK": {
+    "name": "Nellie Lutcher",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/2rcjLEFEZ37QMTNy2Yk3xK"
+  },
+  "3yqYdeaeJAEgdSytKuy6rv": {
+    "name": "John Carty",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3yqYdeaeJAEgdSytKuy6rv"
+  },
+  "3DtHAw4MrjXhVFotN5n8fZ": {
+    "name": "Apanhador S\u00f3",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/3DtHAw4MrjXhVFotN5n8fZ"
+  },
+  "0VeXKzjTBWHX5Lf5Kr6rLF": {
+    "name": "Realidade Cruel",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF"
+  },
+  "0nNM4GoozMXNtRBGOwzFCA": {
+    "name": "Ndee Naldinho",
+    "genre": "r-n-b",
+    "popularity": 42,
+    "spotify": "https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA"
+  },
+  "6JkUTF7DyT5NrIKnHDze3e": {
+    "name": "Paraf",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/6JkUTF7DyT5NrIKnHDze3e"
+  },
+  "14qKmuQGz4zUtbK9qHJrkr": {
+    "name": "Los Montejo",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/14qKmuQGz4zUtbK9qHJrkr"
+  },
+  "6hCo4lPE8hHJydoluW7luI": {
+    "name": "DJ Ss",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI"
+  },
+  "6kJHpEjr5eNnVJeyfTbs3G": {
+    "name": "Camisa de V\u00eanus",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G"
+  },
+  "0ug84nvWi4PxvGIL52EZWr": {
+    "name": "Demonaz",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/0ug84nvWi4PxvGIL52EZWr"
+  },
+  "0qF4CwUutS8ukBdGKV4vfl": {
+    "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
+  },
+  "09RGwhs3waXp27qkYuNRap": {
+    "name": "Lob\u00e3o E Os Ronaldos",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap"
+  },
+  "77L8e8POqCHpCGoEbZEiBj": {
+    "name": "Don & Dewey",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/77L8e8POqCHpCGoEbZEiBj"
+  },
+  "5BxITRcVn2u31AXshj5pCw": {
+    "name": "Kid Andersen",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/5BxITRcVn2u31AXshj5pCw"
+  },
+  "4m4e8k1UPDlXtg2JETDX1g": {
+    "name": "Nocturnal",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/4m4e8k1UPDlXtg2JETDX1g"
+  },
+  "2olotOs8853BvbS8iBuDj3": {
+    "name": "Los 3 Ases",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/2olotOs8853BvbS8iBuDj3"
+  },
+  "0ZIlwtVZkqtMZUpbHrz8TL": {
+    "name": "Flash Beats Manow",
+    "genre": "r-n-b",
+    "popularity": 41,
+    "spotify": "https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL"
+  },
+  "41qTjISnBzDLRlrJEJNGKj": {
+    "name": "The Merseybeats",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/41qTjISnBzDLRlrJEJNGKj"
+  },
+  "7qMkmsoYuyn3vk91fZghN4": {
+    "name": "Barbatos",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7qMkmsoYuyn3vk91fZghN4"
+  },
+  "1y8yhK12XTLCbWDs4aLgc1": {
+    "name": "Xis",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+  },
+  "74DmeplOsb1zShj5BqqkbQ": {
+    "name": "Rodrigo Ogi",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
+  },
+  "0YnwkwC5c3EGvj9h7QLhCH": {
+    "name": "Whipstriker",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/0YnwkwC5c3EGvj9h7QLhCH"
+  },
+  "6sLPSvN2Z4R1ndAS068ibP": {
+    "name": "Victor Xam\u00e3",
+    "genre": "r-n-b",
+    "popularity": 40,
+    "spotify": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+  },
+  "5pTtdzoyljdOQnTLVULZvv": {
+    "name": "Kmila Cdd",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+  },
+  "0mQoWD18BxzhN8kr1cNwgQ": {
+    "name": "Bivolt",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+  },
+  "1SGvAkR4nsQoXdhHHFFuM4": {
+    "name": "Barathrum",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/1SGvAkR4nsQoXdhHHFFuM4"
+  },
+  "1yJkKFH5pD56kG4ryEWk2H": {
+    "name": "Twisted Individual",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/1yJkKFH5pD56kG4ryEWk2H"
+  },
+  "4AIluLAbWw6CpVnHl793ZC": {
+    "name": "Bastardizer",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/4AIluLAbWw6CpVnHl793ZC"
+  },
+  "3sJXLmH6J5IDiJpxJt8NSN": {
+    "name": "Sarke",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3sJXLmH6J5IDiJpxJt8NSN"
+  },
+  "7Dshl982TzDhBL4GBL4woB": {
+    "name": "Finis Africae",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/7Dshl982TzDhBL4GBL4woB"
+  },
+  "1jWLZOjuzRSkIxmrqAx4Vt": {
+    "name": "Khold",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/1jWLZOjuzRSkIxmrqAx4Vt"
+  },
+  "3IokbxGxDtjuk6wPdisQ6o": {
+    "name": "Esteban Tavares",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
+  },
+  "38Zmg6Ij4Fl0sy2Cn0I3s9": {
+    "name": "Uns E Outros",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/38Zmg6Ij4Fl0sy2Cn0I3s9"
+  },
+  "1nTI3zoymiwNZrAmRD36Yq": {
+    "name": "Her\u00f3is Da Resist\u00eancia",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1nTI3zoymiwNZrAmRD36Yq"
+  },
+  "0jczoZu9nJoC05lYmaWl3X": {
+    "name": "Herva Doce",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0jczoZu9nJoC05lYmaWl3X"
+  },
+  "5R01SMV65jSPjdvfBXc7eQ": {
+    "name": "Margie Day",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/5R01SMV65jSPjdvfBXc7eQ"
+  },
+  "3iveSsIHvm1TAWhJRJ2z58": {
+    "name": "Marcelo Nova",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58"
+  },
+  "77yEcpEolZ9w8w5LblvFzz": {
+    "name": "Lula Reed",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/77yEcpEolZ9w8w5LblvFzz"
+  },
+  "5jmAb8e2akHjZux3iR29Vx": {
+    "name": "Pagan",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/5jmAb8e2akHjZux3iR29Vx"
+  },
+  "3NqpzI2ak4nWiHqwGbofh9": {
+    "name": "Red Zebra",
+    "genre": "r-n-b",
+    "popularity": 25,
+    "spotify": "https://open.spotify.com/artist/3NqpzI2ak4nWiHqwGbofh9"
+  },
+  "4zfIqIxYFw4kZlUiaCik2B": {
+    "name": "Fel\u00edcia Rock",
+    "genre": "r-n-b",
+    "popularity": 39,
+    "spotify": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+  },
+  "2undlJsCsum8NDDnXq5OZT": {
+    "name": "UNLV",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/2undlJsCsum8NDDnXq5OZT"
+  },
+  "3vOhUXBJNwHxeWXZpRjSMe": {
+    "name": "Gabriza",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/3vOhUXBJNwHxeWXZpRjSMe"
+  },
+  "29bYY1WyOuJ3Z2jxYhT7kM": {
+    "name": "Yahoo",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM"
+  },
+  "7pUuV0FWf861Zq0kNGOTZn": {
+    "name": "#####",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/7pUuV0FWf861Zq0kNGOTZn"
+  },
+  "5kDzkQqTkALyKQRzdb5Sj2": {
+    "name": "Aaron Spectre",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/5kDzkQqTkALyKQRzdb5Sj2"
+  },
+  "0I0516edo2TOzOHrIbQoF0": {
+    "name": "Duffel Bag Hottie",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0I0516edo2TOzOHrIbQoF0"
+  },
+  "4C7Wvm67sCnsmSWXHcpK0D": {
+    "name": "Sa & Guarabyra",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/4C7Wvm67sCnsmSWXHcpK0D"
+  },
+  "1cxNemZ9o1ObvAbgq4WzvQ": {
+    "name": "Cuby & The Blizzards",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ"
+  },
+  "5CoQm6q2dEm15QCcd6uNWQ": {
+    "name": "The Chanters",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/5CoQm6q2dEm15QCcd6uNWQ"
+  },
+  "470XJa6gVffDrBraHtrr2z": {
+    "name": "Mampi Swift",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/470XJa6gVffDrBraHtrr2z"
+  },
+  "1E1A0cJ3xBWeqq82Z3IRbC": {
+    "name": "DJ Jamaika",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/1E1A0cJ3xBWeqq82Z3IRbC"
+  },
+  "2S7yIFJha4ojzmMRAwTX2B": {
+    "name": "A Fam\u00edlia",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/2S7yIFJha4ojzmMRAwTX2B"
+  },
+  "04eykJkB2isMov3WMVcCQF": {
+    "name": "Deep Valleys",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/04eykJkB2isMov3WMVcCQF"
+  },
+  "78XNtbcRuW435NYDYV0rWO": {
+    "name": "Brisa Flow",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO"
+  },
+  "2aPCjzfki5HgFLrse785FT": {
+    "name": "Mc Soffia",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+  },
+  "1GA8PoLYhHREPKuYYB5A3B": {
+    "name": "Potyguara Bardo",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/1GA8PoLYhHREPKuYYB5A3B"
+  },
+  "16B17I8CNY5MjN9N63k289": {
+    "name": "Cyberaktif",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/16B17I8CNY5MjN9N63k289"
+  },
+  "2DQyJGCJQPSrZKhwCnoBGA": {
+    "name": "Catavento",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/2DQyJGCJQPSrZKhwCnoBGA"
+  },
+  "3oZozYd18SKf2a7Dg9Cd2V": {
+    "name": "Vivendo do \u00d3cio",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/3oZozYd18SKf2a7Dg9Cd2V"
+  },
+  "2TSkQV59O7ELjzRAsr13Kh": {
+    "name": "Hanoi Hanoi",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh"
+  },
+  "5qlJRHM85YKmfOdD1fNe2O": {
+    "name": "Fausto Fawcett",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O"
+  },
+  "7hj6TfWecHlMmeUPwiAazv": {
+    "name": "Dr. Silvana & Cia.",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/7hj6TfWecHlMmeUPwiAazv"
+  },
+  "3AGMEYp2ba7xd51RwuwJ96": {
+    "name": "Whiskey Ritual",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/3AGMEYp2ba7xd51RwuwJ96"
+  },
+  "5CorrQPbOid8RKf5rCpxG7": {
+    "name": "Sempre Livre",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/5CorrQPbOid8RKf5rCpxG7"
+  },
+  "1Ig4eJhkfzDB2386DVJ0TQ": {
+    "name": "Ann Cole",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/1Ig4eJhkfzDB2386DVJ0TQ"
+  },
+  "6vTljcFMuDleItFOuSKoyj": {
+    "name": "Inimigos Do Rei",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj"
+  },
+  "0WIRnKWFxrgx0BzkfvIxeu": {
+    "name": "Banda 365",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/0WIRnKWFxrgx0BzkfvIxeu"
+  },
+  "3EFBwkdSFGI6LYcVLwFGja": {
+    "name": "Luc Van Acker",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/3EFBwkdSFGI6LYcVLwFGja"
+  },
+  "7cCXGHnW9OLbG0kQxabVvX": {
+    "name": "The Scabs",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/7cCXGHnW9OLbG0kQxabVvX"
+  },
+  "4UKDR0VnScWEJFCmtdEjC6": {
+    "name": "Alt Niss",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+  },
+  "63txTraopbR00KYo7mYOOj": {
+    "name": "The Scene",
+    "genre": "r-n-b",
+    "popularity": 38,
+    "spotify": "https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj"
+  },
+  "3wFLd3GclSJD7Tlpgvj7bH": {
+    "name": "Serius Jones",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3wFLd3GclSJD7Tlpgvj7bH"
+  },
+  "3JBpeHmjhEn39dj26piznF": {
+    "name": "Los 3 Reyes",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/3JBpeHmjhEn39dj26piznF"
+  },
+  "3lhhkRFNyUUA1US4BuMQsB": {
+    "name": "Pentagono",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
+  },
+  "53eJax5oXY1SqAwVjSO7Uk": {
+    "name": "SNJ",
+    "genre": "r-n-b",
+    "popularity": 36,
+    "spotify": "https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk"
+  },
+  "6knDZcDZ3KR7XmO62z6Dup": {
+    "name": "Countess",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/6knDZcDZ3KR7XmO62z6Dup"
+  },
+  "0ubZb5LkGMpWUps33ulYrl": {
+    "name": "Malokarpatan",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/0ubZb5LkGMpWUps33ulYrl"
+  },
+  "4p9iYU5RkxWxWPd8JTJiio": {
+    "name": "Reidar Larsen",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/4p9iYU5RkxWxWPd8JTJiio"
+  },
+  "4SyWhCnXrV0FDnGw1ISMJI": {
+    "name": "Agridoce",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+  },
+  "60WMiKG5Dx6V36sXR1gAGv": {
+    "name": "Jeezy Mula",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/60WMiKG5Dx6V36sXR1gAGv"
+  },
+  "0ZcFPVW9Pyqh1VSK0w38Sv": {
+    "name": "The Chase",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/0ZcFPVW9Pyqh1VSK0w38Sv"
+  },
+  "6zg73gIYCTCBvxgcKFDACs": {
+    "name": "Domin\u00f3",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/6zg73gIYCTCBvxgcKFDACs"
+  },
+  "0Z5LRWXWfgj7ce46oOyKf0": {
+    "name": "Lucky Seven",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/0Z5LRWXWfgj7ce46oOyKf0"
+  },
+  "6L6QXrf6jsmAcRNyOQRMhB": {
+    "name": "De Kreuners",
+    "genre": "r-n-b",
+    "popularity": 37,
+    "spotify": "https://open.spotify.com/artist/6L6QXrf6jsmAcRNyOQRMhB"
+  },
+  "4aLM6HJFWigL80jtG8FNYN": {
+    "name": "M\u00f3veis Coloniais de Acaju",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4aLM6HJFWigL80jtG8FNYN"
+  },
+  "047rJvBYv0egT5SolmU7m4": {
+    "name": "Parteum",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+  },
+  "1z06ZvjL1f0cx8xtKQRGyT": {
+    "name": "Neckbeard Deathcamp",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1z06ZvjL1f0cx8xtKQRGyT"
+  },
+  "4ZfxnJjvSEWIBOardTIpZs": {
+    "name": "Brian McGrath",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/4ZfxnJjvSEWIBOardTIpZs"
+  },
+  "7pZiZSupZWd6m41meizeWA": {
+    "name": "Heretic",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/7pZiZSupZWd6m41meizeWA"
+  },
+  "0fKC2GVwiE3INdqwVKnABP": {
+    "name": "The Welch Boys",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0fKC2GVwiE3INdqwVKnABP"
+  },
+  "0CZUWwdL2ORR99b91hqjdq": {
+    "name": "Gabz",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
+  },
+  "0mqmfPbJgHd9wsKMB4ELUl": {
+    "name": "Guind'Art 121",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/0mqmfPbJgHd9wsKMB4ELUl"
+  },
+  "1JyFYHa051bTN8BH8nWa7e": {
+    "name": "GOG",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e"
+  },
+  "1OL0Lmp4vAYPxsnSar9YtI": {
+    "name": "Hubble Bubble",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1OL0Lmp4vAYPxsnSar9YtI"
+  },
+  "2aohKRsWegrLIjNWYJFman": {
+    "name": "14 trapdoors",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/2aohKRsWegrLIjNWYJFman"
+  },
+  "1XHITGfBYvtspAD4panO5g": {
+    "name": "Renan Inqu\u00e9rito",
+    "genre": "r-n-b",
+    "popularity": 31,
+    "spotify": "https://open.spotify.com/artist/1XHITGfBYvtspAD4panO5g"
+  },
+  "54cBoDN5Z8F9chRzmQz7V3": {
+    "name": "Sombra",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/54cBoDN5Z8F9chRzmQz7V3"
+  },
+  "6UKn12Sg5H3SyiFX5GalB6": {
+    "name": "Negro Leo",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6"
+  },
+  "5fvlYenGlxkBO9kW3tfjF6": {
+    "name": "Alghol",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/5fvlYenGlxkBO9kW3tfjF6"
+  },
+  "5ngE7XJPqw9CoOq3agu5FP": {
+    "name": "Terra Preta",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP"
+  },
+  "26hFGAboiK1hGyRCXdfOq3": {
+    "name": "Tha\u00edde & DJ Hum",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3"
+  },
+  "4hPSDG97FxGlqYvKPU6b1B": {
+    "name": "Somos N\u00f3s A Justi\u00e7a",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B"
+  },
+  "1nwuifu5rxgVlrGwjjoJOt": {
+    "name": "Consci\u00eancia Humana",
+    "genre": "r-n-b",
+    "popularity": 35,
+    "spotify": "https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt"
+  },
+  "2MpPNxxzzAF1gWSyEotsNV": {
+    "name": "Dj KLJay",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+  },
+  "6GAY2GRVpYjQ9K7HOyzvea": {
+    "name": "Face da Morte",
+    "genre": "r-n-b",
+    "popularity": 33,
+    "spotify": "https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea"
+  },
+  "2ZzDm7UiS7g3e9HVjTMr29": {
+    "name": "Al\u00e1fia",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29"
+  },
+  "4SihecP0Ar3ekh29FLZ4w1": {
+    "name": "Don Pixote",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/4SihecP0Ar3ekh29FLZ4w1"
+  },
+  "0amwdzsF8JXZjz31pZjH0w": {
+    "name": "Sandr\u00e3o RZO",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w"
+  },
+  "45r6F8xmalbeZEQ21837Vh": {
+    "name": "Martin Quinn & Angelina Carberry",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/45r6F8xmalbeZEQ21837Vh"
+  },
+  "2z6etk4eZUXOks5dz909zI": {
+    "name": "Oubliette",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/2z6etk4eZUXOks5dz909zI"
+  },
+  "7hnuqAM6PGxtCvGUFO7aBm": {
+    "name": "The Blue Bloods",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/7hnuqAM6PGxtCvGUFO7aBm"
+  },
+  "6COQggpngIskPf1zAQ8Txs": {
+    "name": "Frankie & The Heartstrings",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/6COQggpngIskPf1zAQ8Txs"
+  },
+  "25VoPjFx405WzNspA0BDw9": {
+    "name": "Valentin",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9"
+  },
+  "1oWk7khBPwxNPCGfGBxaOK": {
+    "name": "C-Tec",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/1oWk7khBPwxNPCGfGBxaOK"
+  },
+  "7fMiZ2VnPj2scsXoWkJI0R": {
+    "name": "Joe Burke",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/7fMiZ2VnPj2scsXoWkJI0R"
+  },
+  "2I6NcAZDOhHl3B50ykrSsi": {
+    "name": "Cabru\u00eara",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/2I6NcAZDOhHl3B50ykrSsi"
+  },
+  "1iyCgLwjC23mOjuDxY9sLu": {
+    "name": "Navicula",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/1iyCgLwjC23mOjuDxY9sLu"
+  },
+  "0Efm6O4zn2uSklFoUP7P8x": {
+    "name": "Irm\u00e3o Victor",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/0Efm6O4zn2uSklFoUP7P8x"
+  },
+  "3BwaOVX2JNeQKsPwlnIhh9": {
+    "name": "The Excellos",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3BwaOVX2JNeQKsPwlnIhh9"
+  },
+  "3gUcKxYK532hXeuze5uXDg": {
+    "name": "Nidingr",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/3gUcKxYK532hXeuze5uXDg"
+  },
+  "7EzgLlkOiFicNIH2B6yCSA": {
+    "name": "Dasta & The Smokin\u2019 Snakes",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7EzgLlkOiFicNIH2B6yCSA"
+  },
+  "6MM8Voxv9nalBzpN0DsQBV": {
+    "name": "Di Fun\u00e7\u00e3o",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6MM8Voxv9nalBzpN0DsQBV"
+  },
+  "2oeivUrgtGlM9jwIOUcPpk": {
+    "name": "Cageb\u00ea",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/2oeivUrgtGlM9jwIOUcPpk"
+  },
+  "4Mo8GfiVvYIMJUjuwdGeza": {
+    "name": "Jimmy Lee Prow",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4Mo8GfiVvYIMJUjuwdGeza"
+  },
+  "0WdciyxHafY734qPBRTSyh": {
+    "name": "Randy Spangler",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0WdciyxHafY734qPBRTSyh"
+  },
+  "71uoeCdbaDrvkNememMid1": {
+    "name": "Jimmy Wolford",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/71uoeCdbaDrvkNememMid1"
+  },
+  "0IpnrlPCjkMy36ioq7yxKX": {
+    "name": "Hal Andrews",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0IpnrlPCjkMy36ioq7yxKX"
+  },
+  "5gGHX0lFV1ITT7Uk14nOj2": {
+    "name": "KNIFEFIGHT",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5gGHX0lFV1ITT7Uk14nOj2"
+  },
+  "228cuXBxuAsCppurZPEdEC": {
+    "name": "Al Oster",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/228cuXBxuAsCppurZPEdEC"
+  },
+  "6gTXPFisPVoSZLMACykPwd": {
+    "name": "Bob Hicks",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6gTXPFisPVoSZLMACykPwd"
+  },
+  "0vRQeuEMnr1wwL6hCnveEK": {
+    "name": "S\u00e5gverk",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0vRQeuEMnr1wwL6hCnveEK"
+  },
+  "2rVtcc5TUXbZj2AV9Ny3Z5": {
+    "name": "Sonny Wallace",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2rVtcc5TUXbZj2AV9Ny3Z5"
+  },
+  "4dFOSGkRMSKCduvO59Jezm": {
+    "name": "Hammr",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4dFOSGkRMSKCduvO59Jezm"
+  },
+  "4eZAxXf2XqwCCGEowxCSyQ": {
+    "name": "Cliff Davis",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4eZAxXf2XqwCCGEowxCSyQ"
+  },
+  "7zf1KqziW01AOwefTmjI5T": {
+    "name": "Rudy Hansen",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7zf1KqziW01AOwefTmjI5T"
+  },
+  "3pJB0N9qq4nu9Qngx4HxFy": {
+    "name": "Nem Liminha Ouviu",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/3pJB0N9qq4nu9Qngx4HxFy"
+  },
+  "79k2XGYnFlKzmammuyenaU": {
+    "name": "Rex Qual",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/79k2XGYnFlKzmammuyenaU"
+  },
+  "3dTZZy2Cx13JZtiv9UfZl6": {
+    "name": "Fausto Fawcett e Os Rob\u00f4s Ef\u00eameros",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6"
+  },
+  "0FoPm1Xe2tBEbk0ld1Zx25": {
+    "name": "Vulgaris",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0FoPm1Xe2tBEbk0ld1Zx25"
+  },
+  "19hRm5ZJzdn4V1UvFxyJ9M": {
+    "name": "Vargsheim",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/19hRm5ZJzdn4V1UvFxyJ9M"
+  },
+  "1ttRaUiRVf3LFVi7kbEkcc": {
+    "name": "Obsessor",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1ttRaUiRVf3LFVi7kbEkcc"
+  },
+  "1xNPMD1rGCNs3w61JChKJi": {
+    "name": "Jim Thornton",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1xNPMD1rGCNs3w61JChKJi"
+  },
+  "0i6vLggnPOTJqfQRdy6Zyu": {
+    "name": "Perdidos na Selva",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/0i6vLggnPOTJqfQRdy6Zyu"
+  },
+  "3jZCZ2CHQTYZM1HIwJwIAQ": {
+    "name": "Everett Carpenter",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3jZCZ2CHQTYZM1HIwJwIAQ"
+  },
+  "3BoKfaE0ZQmvf91FCRe66s": {
+    "name": "OPHICVS",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3BoKfaE0ZQmvf91FCRe66s"
+  },
+  "2lCOZlILm2abPOGuQhALHf": {
+    "name": "Crooked Horns",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2lCOZlILm2abPOGuQhALHf"
+  },
+  "6QI2vvJIGF7xA5a6TCa248": {
+    "name": "Whitey Pullen",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6QI2vvJIGF7xA5a6TCa248"
+  },
+  "302sGcm8yesoWcVxR5KucX": {
+    "name": "Bubba Ford",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/302sGcm8yesoWcVxR5KucX"
+  },
+  "63XlUW3wmwrKg00gDsFgSU": {
+    "name": "John Worthan",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/63XlUW3wmwrKg00gDsFgSU"
+  },
+  "583My0QDBcbktWQsMWFjCJ": {
+    "name": "Gang 90 e as Absurdetes",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/583My0QDBcbktWQsMWFjCJ"
+  },
+  "5y0XwiO1VjmeSgYqCnOR8Q": {
+    "name": "Benny Ingram",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/5y0XwiO1VjmeSgYqCnOR8Q"
+  },
+  "4v72aTvpvH9rYe3PV3VqDx": {
+    "name": "Vatican",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4v72aTvpvH9rYe3PV3VqDx"
+  },
+  "6J296KlpSJ5tjLeyWrytKp": {
+    "name": "Don Head",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6J296KlpSJ5tjLeyWrytKp"
+  },
+  "4ahZcSBRnJIkpLq8khXx86": {
+    "name": "Gene Wyatt",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4ahZcSBRnJIkpLq8khXx86"
+  },
+  "0KXd4xYMVSkjRbuQXUONkB": {
+    "name": "Vince Maloy",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0KXd4xYMVSkjRbuQXUONkB"
+  },
+  "1RA9bc3UEEJ0E86MRZy2Hd": {
+    "name": "Norman Witcher",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1RA9bc3UEEJ0E86MRZy2Hd"
+  },
+  "44zZwUq5aMytUpHW50j7cR": {
+    "name": "Tiny Topsy",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/44zZwUq5aMytUpHW50j7cR"
+  },
+  "1UedlcCVqk3Zjq2UQocScS": {
+    "name": "Larry Darnell",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS"
+  },
+  "1qH06U3f3AMfIpmRuG2fT2": {
+    "name": "Kuoleman Galleria",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1qH06U3f3AMfIpmRuG2fT2"
+  },
+  "0rPQsFs6Xboo5VaqrZYRkz": {
+    "name": "Terry Timmons",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0rPQsFs6Xboo5VaqrZYRkz"
+  },
+  "3atd4dMCiTxkLDCl7MChxb": {
+    "name": "The Four Blazes",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3atd4dMCiTxkLDCl7MChxb"
+  },
+  "2THcfzHk2EaJ6sIotXIUuG": {
+    "name": "Heretic",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2THcfzHk2EaJ6sIotXIUuG"
+  },
+  "3ISUva36663YvbTZVduBan": {
+    "name": "Jo\u00e3o Penca E Seus Miquinhos Amestrados",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/3ISUva36663YvbTZVduBan"
+  },
+  "1HDwUhiO73SuiTRz4IxnxT": {
+    "name": "Gang 90 & Absurdetes",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/1HDwUhiO73SuiTRz4IxnxT"
+  },
+  "4yvnbMXuSZZCqzUy1QvEM1": {
+    "name": "Video Nasties",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/4yvnbMXuSZZCqzUy1QvEM1"
+  },
+  "5a1SYaE5FrBtVfarX0vto0": {
+    "name": "Jack King",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/5a1SYaE5FrBtVfarX0vto0"
+  },
+  "3Ci6U3XndPJuzhscowKTdq": {
+    "name": "The Jiants",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3Ci6U3XndPJuzhscowKTdq"
+  },
+  "0EYDVlKrfLbNTZlrVqib91": {
+    "name": "Picassos Falsos",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/0EYDVlKrfLbNTZlrVqib91"
+  },
+  "0DhxBb7HKgksv0K7p3cIFj": {
+    "name": "Alfahanne",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/0DhxBb7HKgksv0K7p3cIFj"
+  },
+  "0g6BzRfQfl8Rr6HJNPalSx": {
+    "name": "Depressive Witches",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/0g6BzRfQfl8Rr6HJNPalSx"
+  },
+  "7w4imfif9uHQa2iPA4RScM": {
+    "name": "The Griffin Brothers",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/7w4imfif9uHQa2iPA4RScM"
+  },
+  "0IoQWIyjPedwzskfHYa5AT": {
+    "name": "Jerry Arnold",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0IoQWIyjPedwzskfHYa5AT"
+  },
+  "5lMrO2NhLP88nyh1yy2AHi": {
+    "name": "Rocking Martin",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5lMrO2NhLP88nyh1yy2AHi"
+  },
+  "0PwSxZgoigM45NYHZLTAAC": {
+    "name": "Billy Barton",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0PwSxZgoigM45NYHZLTAAC"
+  },
+  "25RceCO7oRHXf7RFeE99y0": {
+    "name": "Kvlthammer",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/25RceCO7oRHXf7RFeE99y0"
+  },
+  "2HmZdjlDimqtP7ZC2xesRw": {
+    "name": "Piney Brown",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2HmZdjlDimqtP7ZC2xesRw"
+  },
+  "0e6bC97lKZflJIG6ezck8U": {
+    "name": "Ugly Deadman",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0e6bC97lKZflJIG6ezck8U"
+  },
+  "5TyhnSJMMuwSgw8nHCXucf": {
+    "name": "Kenny Loran",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5TyhnSJMMuwSgw8nHCXucf"
+  },
+  "6mHouauh24antOU5kE7dj1": {
+    "name": "Hojerizah",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/6mHouauh24antOU5kE7dj1"
+  },
+  "0Zxulua3wDMZIH37UHxZzD": {
+    "name": "Cliff Blakley",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0Zxulua3wDMZIH37UHxZzD"
+  },
+  "1HnZ3eCX9uX05Y0H6hisvs": {
+    "name": "Billy Barrix",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1HnZ3eCX9uX05Y0H6hisvs"
+  },
+  "4geX6rb0qcTnQciErZNZbI": {
+    "name": "King Porter & His Orchestra",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4geX6rb0qcTnQciErZNZbI"
+  },
+  "1NL2N25zWc4cTacQTntwi4": {
+    "name": "Annisteen Allen",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+  },
+  "2vCKWcSs7UIURovCQ9NvNy": {
+    "name": "Machiavel",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/2vCKWcSs7UIURovCQ9NvNy"
+  },
+  "1dNYVSWsYhn8jrIfCMq2tx": {
+    "name": "The Machines",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/1dNYVSWsYhn8jrIfCMq2tx"
+  },
+  "6KF1RvwQeKqcjrg1RhJ71F": {
+    "name": "Moldragon",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6KF1RvwQeKqcjrg1RhJ71F"
+  },
+  "1BrunhZeYEINNJh9rP2KzY": {
+    "name": "Ac\u00e2rash",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/1BrunhZeYEINNJh9rP2KzY"
+  },
+  "78RO0kh8OAJf6vMKVs6FB2": {
+    "name": "Afonso Nigro",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/78RO0kh8OAJf6vMKVs6FB2"
+  },
+  "0uHxKtSV7cjggX0zaxl0g4": {
+    "name": "Fenriz Red Planet",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0uHxKtSV7cjggX0zaxl0g4"
+  },
+  "7pxCrLh43flDN5VCB4UoJq": {
+    "name": "Slegest",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/7pxCrLh43flDN5VCB4UoJq"
+  },
+  "5QcPG0phrsozdcUHSagoZT": {
+    "name": "Cintia Savoli",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/5QcPG0phrsozdcUHSagoZT"
+  },
+  "2iiIiebCQqwrwCqARl4Q3A": {
+    "name": "T\u00f3paz",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/2iiIiebCQqwrwCqARl4Q3A"
+  },
+  "1gbcHztkZp0R5VfHKHxBMe": {
+    "name": "Os Virgul\u00f3ides",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/1gbcHztkZp0R5VfHKHxBMe"
+  },
+  "3DHVqqLBXA0dtRkBT2UGrP": {
+    "name": "Jonnata Doll e os Garotos Solventes",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/3DHVqqLBXA0dtRkBT2UGrP"
+  },
+  "5N2Wlh7eknhGq5N3g9FxBc": {
+    "name": "Luna Twist",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/5N2Wlh7eknhGq5N3g9FxBc"
+  },
+  "1JsvCKthJK8HHFRwiGXKfX": {
+    "name": "Mung",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1JsvCKthJK8HHFRwiGXKfX"
+  },
+  "11fmKZ9ffAhZeKK0CBGrd4": {
+    "name": "Joe Silhueta",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/11fmKZ9ffAhZeKK0CBGrd4"
+  },
+  "4RSRiccbutyX0OVVc4py7Z": {
+    "name": "Trabalhos Espaciais Manuais",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/4RSRiccbutyX0OVVc4py7Z"
+  },
+  "0hrY0xM7tSUIAF3SXDUl6m": {
+    "name": "Monstro Amigo",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0hrY0xM7tSUIAF3SXDUl6m"
+  },
+  "0eM0MkOkl0pU19In6r3KkY": {
+    "name": "A 25\u00aa Experi\u00eancia",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0eM0MkOkl0pU19In6r3KkY"
+  },
+  "6RpZEt6H2jd1PFSfo4jfSf": {
+    "name": "La Leuca",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6RpZEt6H2jd1PFSfo4jfSf"
+  },
+  "4ISjhuZrV967lrAZ8gs3Qc": {
+    "name": "Quadr\u00fapede Orquestra",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/4ISjhuZrV967lrAZ8gs3Qc"
+  },
+  "1DH4gHbJ2Mk9ksEIJzRdc5": {
+    "name": "Rios Voadores",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1DH4gHbJ2Mk9ksEIJzRdc5"
+  },
+  "3y8WUeAKBmEFCkDCeO8ZBe": {
+    "name": "Blind Horse",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/3y8WUeAKBmEFCkDCeO8ZBe"
+  },
+  "59T87MeS2GJqNaLntU8bWG": {
+    "name": "Tony Campello",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/59T87MeS2GJqNaLntU8bWG"
+  },
+  "28BjOrIYRRrqbxk6umSQEz": {
+    "name": "Ventre",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/28BjOrIYRRrqbxk6umSQEz"
+  },
+  "2gI5zHnGC8HAGhKMGeUCyt": {
+    "name": "Quarto \u00c1cido",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/2gI5zHnGC8HAGhKMGeUCyt"
+  },
+  "4NVjIjAWxBpz1asm7P8Vsg": {
+    "name": "Ab The Audicrat",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4NVjIjAWxBpz1asm7P8Vsg"
+  },
+  "67HEXQpQHNTCY4TQoblxnn": {
+    "name": "The Outs",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/67HEXQpQHNTCY4TQoblxnn"
+  },
+  "5elpOdqIVwZkJBiyzmXBng": {
+    "name": "Ema Stoned",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/5elpOdqIVwZkJBiyzmXBng"
+  },
+  "2X1SQEK81waxekQ8tFdkDB": {
+    "name": "Kj Balla",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2X1SQEK81waxekQ8tFdkDB"
+  },
+  "4eRcXWwpvnvherFpNsL2y1": {
+    "name": "Richie Stearns",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4eRcXWwpvnvherFpNsL2y1"
+  },
+  "0Ow3u7upUsqBVCKjEDYWBs": {
+    "name": "Pajarito Zaguri",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/0Ow3u7upUsqBVCKjEDYWBs"
+  },
+  "27Nd3Cc5myGAchCaru52Uz": {
+    "name": "Rolling Thunder",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/27Nd3Cc5myGAchCaru52Uz"
+  },
+  "1dw5Didi5MMkiOHS5VmYMI": {
+    "name": "Blood Cult",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1dw5Didi5MMkiOHS5VmYMI"
+  },
+  "5TZgpw6T3nZFj9lqSGT9Lj": {
+    "name": "Secondtime",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/5TZgpw6T3nZFj9lqSGT9Lj"
+  },
+  "5DnmDscnuGQNc4gRY5p0DK": {
+    "name": "TCPunters",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/5DnmDscnuGQNc4gRY5p0DK"
+  },
+  "0q63eLJqqrDG5y7STQd2IG": {
+    "name": "OSteve",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/0q63eLJqqrDG5y7STQd2IG"
+  },
+  "1XSVGwcOBIdSrcGp4gRSgL": {
+    "name": "Claudio Gabis",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/1XSVGwcOBIdSrcGp4gRSgL"
+  },
+  "0hXFJVIeduP8fbaEmVKlDn": {
+    "name": "Blacanblus",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/0hXFJVIeduP8fbaEmVKlDn"
+  },
+  "5nrbae3MuYXmS2Fx5oUgVE": {
+    "name": "2l No Beat",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/5nrbae3MuYXmS2Fx5oUgVE"
+  },
+  "4rtGF9EsMgFSdpSP2OG53N": {
+    "name": "Durazno De Gala",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/4rtGF9EsMgFSdpSP2OG53N"
+  },
+  "2LHhyQMZpyAKja3217IhWD": {
+    "name": "Mississippi Blues Band",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/2LHhyQMZpyAKja3217IhWD"
+  },
+  "74iLgy7TMiwthOGMfGob53": {
+    "name": "Don Vilanova Botafogo",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/74iLgy7TMiwthOGMfGob53"
+  },
+  "2coqEx4sNUGaEw9BssNYTV": {
+    "name": "DK Zoom",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/2coqEx4sNUGaEw9BssNYTV"
+  },
+  "3oLANiNTf5qyrciZmnPyYU": {
+    "name": "Alambre Gonzalez",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU"
+  },
+  "2tJcFAV8R4lMEBSxUcZ4Er": {
+    "name": "Rainbreakers",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/2tJcFAV8R4lMEBSxUcZ4Er"
+  },
+  "1UuFRYPMp8wxqiEbYhFc1I": {
+    "name": "Las Blacanblus",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I"
+  },
+  "3nrGmQxOjmhzs8oliKkQsS": {
+    "name": "Okkultokrati",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/3nrGmQxOjmhzs8oliKkQsS"
+  },
+  "1N6gqcItuPuWL8NYjKodhl": {
+    "name": "Haust",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1N6gqcItuPuWL8NYjKodhl"
+  },
+  "7nQdFHndpx8Hi9shy4v2XW": {
+    "name": "Quarto Sensorial",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7nQdFHndpx8Hi9shy4v2XW"
+  },
+  "2glTbXSJa8SlXfr3wjKOPl": {
+    "name": "Hipercubo",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2glTbXSJa8SlXfr3wjKOPl"
+  },
+  "0RZvJL3AicNni7cisqcIxC": {
+    "name": "Adri\u00e1n Otero",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/0RZvJL3AicNni7cisqcIxC"
+  },
+  "1QNQRVuiMsLUCSrSpnZUMd": {
+    "name": "Bolhazul",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/1QNQRVuiMsLUCSrSpnZUMd"
+  },
+  "56e4MO5T3DIhBHG0mXFbu7": {
+    "name": "Pergal\u00e9",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/56e4MO5T3DIhBHG0mXFbu7"
+  },
+  "6B6XTWbbmPnDafMD7UI5qn": {
+    "name": "Jo Lemaire",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/6B6XTWbbmPnDafMD7UI5qn"
+  },
+  "2rdsSi61RnxDxubs7YiiIJ": {
+    "name": "Arbeid Adelt!",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/2rdsSi61RnxDxubs7YiiIJ"
+  },
+  "7914wQVYEuUYFCJKr4rBkx": {
+    "name": "Belgian Asociality",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/7914wQVYEuUYFCJKr4rBkx"
+  },
+  "3MfRmtrqF1iq8uwon8ffuT": {
+    "name": "Bonifrate",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3MfRmtrqF1iq8uwon8ffuT"
+  },
+  "79Qpt374N7SZv7vwu2vHws": {
+    "name": "Diego Xavier",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/79Qpt374N7SZv7vwu2vHws"
+  },
+  "56kwMoAQwzwMSEXlk6ASi3": {
+    "name": "Thesyre",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/56kwMoAQwzwMSEXlk6ASi3"
+  },
+  "0RP8drU4tt9t8fB93TLvzg": {
+    "name": "Tjolgtjar",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/0RP8drU4tt9t8fB93TLvzg"
+  },
+  "2gh3qTCBKZ5LwVj5zQha9e": {
+    "name": "Lau e Eu",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/2gh3qTCBKZ5LwVj5zQha9e"
+  },
+  "7DcDGgfEuF6ofIRDBbnL5a": {
+    "name": "Noisetape",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7DcDGgfEuF6ofIRDBbnL5a"
+  },
+  "3O6uLxv660esSW51cWp0FB": {
+    "name": "Listing Ships",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3O6uLxv660esSW51cWp0FB"
+  },
+  "2RohbcA5b6Etn6bkYF2PBc": {
+    "name": "Nebulosa",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2RohbcA5b6Etn6bkYF2PBc"
+  },
+  "54zxkwDlE0sgKxaWdIBiXe": {
+    "name": "Vir GO",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/54zxkwDlE0sgKxaWdIBiXe"
+  },
+  "72FvQyfW5uFas756aaBzAE": {
+    "name": "Terceiro Olho de Marte",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/72FvQyfW5uFas756aaBzAE"
+  },
+  "6eUXFI8btnw1WJCh0TSCCE": {
+    "name": "Trem Fantasma",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/6eUXFI8btnw1WJCh0TSCCE"
+  },
+  "3rRp5qZcrXn2Ol41MFpMx0": {
+    "name": "Living Shields",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/3rRp5qZcrXn2Ol41MFpMx0"
+  },
+  "1BRJELiXXlMAYTIy98ycUW": {
+    "name": "Os Gringos",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/1BRJELiXXlMAYTIy98ycUW"
+  },
+  "75N6Yqy7Bb2LhBCyxsQ7cm": {
+    "name": "Kubichek!",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/75N6Yqy7Bb2LhBCyxsQ7cm"
+  },
+  "314VcIXtmbnRYl5jRkmFs9": {
+    "name": "Verk",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/314VcIXtmbnRYl5jRkmFs9"
+  },
+  "5OOlAI46InPUwh7XPN4pfn": {
+    "name": "Damaris Woods",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/5OOlAI46InPUwh7XPN4pfn"
+  },
+  "1E8qnbf6EUBWy4I9TrPI7C": {
+    "name": "Hugo dos Santos",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/1E8qnbf6EUBWy4I9TrPI7C"
+  },
+  "3V7zdLPf0ENoaFO4Lvl0m6": {
+    "name": "Mopho",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/3V7zdLPf0ENoaFO4Lvl0m6"
+  },
+  "6D29o6apKFtpaXa2kT5VFN": {
+    "name": "Ch\u00e1 de Gim",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6D29o6apKFtpaXa2kT5VFN"
+  },
+  "6YX2cAjRmBLQYusVXGweQg": {
+    "name": "Stress",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/6YX2cAjRmBLQYusVXGweQg"
+  },
+  "46rTlVEDFs6bC3oclXb5bB": {
+    "name": "Simon Alejandro",
+    "genre": "r-n-b",
+    "popularity": 12,
+    "spotify": "https://open.spotify.com/artist/46rTlVEDFs6bC3oclXb5bB"
+  },
+  "0JWTMqmVMYHPeMJXK0w8zF": {
+    "name": "Death Motif",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0JWTMqmVMYHPeMJXK0w8zF"
+  },
+  "2vZnrW5COAICtdeiVjARkp": {
+    "name": "Rap Plus Size",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/2vZnrW5COAICtdeiVjARkp"
+  },
+  "5rfjqdNCEUIUafY0JQ6Hgl": {
+    "name": "Feral Light",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5rfjqdNCEUIUafY0JQ6Hgl"
+  },
+  "7JP9tFnawKMqk72G3HHwok": {
+    "name": "Skrotes",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/7JP9tFnawKMqk72G3HHwok"
+  },
+  "6qbVfPrZTwf2qrFSjOH9Iy": {
+    "name": "Helio Flanders",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/6qbVfPrZTwf2qrFSjOH9Iy"
+  },
+  "3MZGnvk57LIOX2ycouRyVw": {
+    "name": "Boy Jumps Ship",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3MZGnvk57LIOX2ycouRyVw"
+  },
+  "3gWJH7p3FZStBMhzCs9DnE": {
+    "name": "Goat Rider",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/3gWJH7p3FZStBMhzCs9DnE"
+  },
+  "47MoxJgbBwXK39pUimRzeS": {
+    "name": "Piratas Siderais",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/47MoxJgbBwXK39pUimRzeS"
+  },
+  "4sYLoFKSNyXhV2oBW6tyeA": {
+    "name": "Dennehy",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/4sYLoFKSNyXhV2oBW6tyeA"
+  },
+  "7poFAqF0Ove6OahLDApWt2": {
+    "name": "Johan de Wal",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/7poFAqF0Ove6OahLDApWt2"
+  },
+  "4QkTrpyRbw4mWMtO3unfQO": {
+    "name": "Haney",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/4QkTrpyRbw4mWMtO3unfQO"
+  },
+  "2b5Zsiyq4e7KChx1x9gZuj": {
+    "name": "Brian Friel",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/2b5Zsiyq4e7KChx1x9gZuj"
+  },
+  "5QTksGpRsgrYaFe1Gnf2AH": {
+    "name": "Pavilh\u00e3o 9",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH"
+  },
+  "34pslHUmJcR1jUeI7gvOOG": {
+    "name": "Bark",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/34pslHUmJcR1jUeI7gvOOG"
+  },
+  "1w1SjJqwZ7VqgI5f0MdhM6": {
+    "name": "Karst",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1w1SjJqwZ7VqgI5f0MdhM6"
+  },
+  "0YDFxDvKUTA62XfOAyq2Gj": {
+    "name": "The Meads Of Asphodel",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/0YDFxDvKUTA62XfOAyq2Gj"
+  },
+  "7A4tmjpzuSNb8ROGfGupBt": {
+    "name": "Amandinho",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/7A4tmjpzuSNb8ROGfGupBt"
+  },
+  "6Rr92cOUJEcDgIpO1MQJ4J": {
+    "name": "Scarlet Leaves",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6Rr92cOUJEcDgIpO1MQJ4J"
+  },
+  "7eQKpZlY4A3fynoiLXIvjF": {
+    "name": "Marrakesh",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF"
+  },
+  "4Xp9pfjXi7jFlGmcoeUYJz": {
+    "name": "Professor Tip Top",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/4Xp9pfjXi7jFlGmcoeUYJz"
+  },
+  "3BsGMZHoIcDTLtElPgYf0t": {
+    "name": "L\u00edvia Cruz",
+    "genre": "r-n-b",
+    "popularity": 24,
+    "spotify": "https://open.spotify.com/artist/3BsGMZHoIcDTLtElPgYf0t"
+  },
+  "1qh9QMTpZIU19QNr5YayMF": {
+    "name": "Spite Extreme Wing",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/1qh9QMTpZIU19QNr5YayMF"
+  },
+  "5O3w7pxVcw8sdJRCsb9o6l": {
+    "name": "Demoniah",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5O3w7pxVcw8sdJRCsb9o6l"
+  },
+  "5BVe6zMKspyP3EP5ceYJU2": {
+    "name": "Maur\u00edcio DTS",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2"
+  },
+  "4Si7TiXmSA3LaESL8YIdaM": {
+    "name": "Nic Dias",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM"
+  },
+  "7gO64PWPgbNFkRvaweVHG8": {
+    "name": "Voz Sem Medo",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/7gO64PWPgbNFkRvaweVHG8"
+  },
+  "6gZUWrHqmD9prtRkqsQfdN": {
+    "name": "Cirurgia Moral",
+    "genre": "r-n-b",
+    "popularity": 32,
+    "spotify": "https://open.spotify.com/artist/6gZUWrHqmD9prtRkqsQfdN"
+  },
+  "40ZCmglLKmBM6SN0sbUFv0": {
+    "name": "Baseado Nas Ruas",
+    "genre": "r-n-b",
+    "popularity": 5,
+    "spotify": "https://open.spotify.com/artist/40ZCmglLKmBM6SN0sbUFv0"
+  },
+  "28o2c9sYFKdXaKBwWF8VzF": {
+    "name": "Viela 17",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/28o2c9sYFKdXaKBwWF8VzF"
+  },
+  "0LNGLBBQhktv8eSxBbT71H": {
+    "name": "Os Aquamans",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/0LNGLBBQhktv8eSxBbT71H"
+  },
+  "5R06aNT13YBRhwmUf3gLNh": {
+    "name": "Endigna",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/5R06aNT13YBRhwmUf3gLNh"
+  },
+  "4BuHjHqwsxzlpxLIxP7O4O": {
+    "name": "Marcela Veiga",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4BuHjHqwsxzlpxLIxP7O4O"
+  },
+  "71iaGBE5TFWxjqJe51QeNM": {
+    "name": "In Case Of Fire",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/71iaGBE5TFWxjqJe51QeNM"
+  },
+  "4Vaxb77sF92LF9z8ODEYzD": {
+    "name": "Vis\u00e1o De Rua",
+    "genre": "r-n-b",
+    "popularity": 14,
+    "spotify": "https://open.spotify.com/artist/4Vaxb77sF92LF9z8ODEYzD"
+  },
+  "3Deto26wjooiLPQmPGlZ0E": {
+    "name": "Final Disaster",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3Deto26wjooiLPQmPGlZ0E"
+  },
+  "7I4mImzzonEeDHIT7IvfJr": {
+    "name": "Big Da Godoy",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/7I4mImzzonEeDHIT7IvfJr"
+  },
+  "6GX7bPbMorfnW9fpxPEZ9s": {
+    "name": "Mojo Fury",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/6GX7bPbMorfnW9fpxPEZ9s"
+  },
+  "5yCfyHZ3AMfe8ioDG0Vp1q": {
+    "name": "Dina Di",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/5yCfyHZ3AMfe8ioDG0Vp1q"
+  },
+  "59Qd6eGeoYipNLTz0Oe9Xh": {
+    "name": "Tribunal MCs",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/59Qd6eGeoYipNLTz0Oe9Xh"
+  },
+  "3uieEHo9AZjblerG9vwWFY": {
+    "name": "Athalyba E A Firma",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/3uieEHo9AZjblerG9vwWFY"
+  },
+  "3uyCb9gtdnzyXxdActGeJN": {
+    "name": "DMN",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/3uyCb9gtdnzyXxdActGeJN"
+  },
+  "6jXPqaCexpo7b4JHeFsmSV": {
+    "name": "Possemente Zulu",
+    "genre": "r-n-b",
+    "popularity": 15,
+    "spotify": "https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV"
+  },
+  "5f0RRsSxksES2IXVJxMz58": {
+    "name": "Evil City String Band",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/5f0RRsSxksES2IXVJxMz58"
+  },
+  "5tHjOt4JaY81Rze0BsQwdE": {
+    "name": "Quinto Andar",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/5tHjOt4JaY81Rze0BsQwdE"
+  },
+  "7p1y4uvdgBCZsqkVs8Mczw": {
+    "name": "A Banda de Joseph Tourton",
+    "genre": "r-n-b",
+    "popularity": 4,
+    "spotify": "https://open.spotify.com/artist/7p1y4uvdgBCZsqkVs8Mczw"
+  },
+  "54h4XpZb0mixxf6y4CfVlE": {
+    "name": "Z'\u00c1frica Brasil",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/54h4XpZb0mixxf6y4CfVlE"
+  },
+  "3Pzt3Ns9MKrapVAtxIJlsV": {
+    "name": "Clyde Stacy",
+    "genre": "r-n-b",
+    "popularity": 2,
+    "spotify": "https://open.spotify.com/artist/3Pzt3Ns9MKrapVAtxIJlsV"
+  },
+  "5Wb0tbl65WNfFlIjGMY7CV": {
+    "name": "C\u00e2mbio Negro",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/5Wb0tbl65WNfFlIjGMY7CV"
+  },
+  "27pumfcMxQX5qxsQ0j2fsd": {
+    "name": "Scheitan",
+    "genre": "r-n-b",
+    "popularity": 7,
+    "spotify": "https://open.spotify.com/artist/27pumfcMxQX5qxsQ0j2fsd"
+  },
+  "1GAr8ezRyMWcW3bdizeBmU": {
+    "name": "Imp\u00e9rio Z/O",
+    "genre": "r-n-b",
+    "popularity": 21,
+    "spotify": "https://open.spotify.com/artist/1GAr8ezRyMWcW3bdizeBmU"
+  },
+  "7iKyMwkLI6jiNQlUQMHq6a": {
+    "name": "Negredo",
+    "genre": "r-n-b",
+    "popularity": 18,
+    "spotify": "https://open.spotify.com/artist/7iKyMwkLI6jiNQlUQMHq6a"
+  },
+  "4WELyrcl29LZhemUKihfB4": {
+    "name": "Souto MC",
+    "genre": "r-n-b",
+    "popularity": 28,
+    "spotify": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
+  },
+  "6nZg0XOctvjji1pPvsOjNH": {
+    "name": "Potencial 3",
+    "genre": "r-n-b",
+    "popularity": 9,
+    "spotify": "https://open.spotify.com/artist/6nZg0XOctvjji1pPvsOjNH"
+  },
+  "7rwCXuDiu5DR1oLOmTBOLz": {
+    "name": "Filosofia de Rua",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz"
+  },
+  "7D5k7gIhmwvpg98Vz4NXrQ": {
+    "name": "Mzuri Sana",
+    "genre": "r-n-b",
+    "popularity": 8,
+    "spotify": "https://open.spotify.com/artist/7D5k7gIhmwvpg98Vz4NXrQ"
+  },
+  "3B6Dwh2BxsN9YjhDgBlg1V": {
+    "name": "Egotrip",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3B6Dwh2BxsN9YjhDgBlg1V"
+  },
+  "7rtewsbZDDw2iy0GcqYs8e": {
+    "name": "Max B.O.",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/7rtewsbZDDw2iy0GcqYs8e"
+  },
+  "0CiJdtQPJ9l3Mn56sYDDQv": {
+    "name": "Tio Fresh",
+    "genre": "r-n-b",
+    "popularity": 16,
+    "spotify": "https://open.spotify.com/artist/0CiJdtQPJ9l3Mn56sYDDQv"
+  },
+  "0gTfX03fj7QzSbBTCRbpPI": {
+    "name": "Sistema Negro",
+    "genre": "r-n-b",
+    "popularity": 23,
+    "spotify": "https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI"
+  },
+  "7BUfNHoRQsXyJrIP1iIrAI": {
+    "name": "Detentos do Rap",
+    "genre": "r-n-b",
+    "popularity": 30,
+    "spotify": "https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI"
+  },
+  "3Jj7NIBaqFSHmcsO33ilwh": {
+    "name": "Doctor MC's",
+    "genre": "r-n-b",
+    "popularity": 27,
+    "spotify": "https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh"
+  },
+  "208xLawVEQeZUnQe2FKrZe": {
+    "name": "Elo Da Corrente",
+    "genre": "r-n-b",
+    "popularity": 20,
+    "spotify": "https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe"
+  },
+  "5fjd8UuuZAAHiMHu9McnlU": {
+    "name": "Jigaboo",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/5fjd8UuuZAAHiMHu9McnlU"
+  },
+  "6K8fb3jm7TaamprQYVZ3o5": {
+    "name": "Conex\u00e3o do Morro",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/6K8fb3jm7TaamprQYVZ3o5"
+  },
+  "0MihNWp86Psp4ss7Evogvv": {
+    "name": "De Menos Crime",
+    "genre": "r-n-b",
+    "popularity": 29,
+    "spotify": "https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv"
+  },
+  "2aviRhQEgTGivuJtSueMh9": {
+    "name": "Sombra e Bastardo",
+    "genre": "r-n-b",
+    "popularity": 19,
+    "spotify": "https://open.spotify.com/artist/2aviRhQEgTGivuJtSueMh9"
+  },
+  "6gOXHHfszKFFvIaKUe2aTN": {
+    "name": "Sp Funk",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN"
+  },
+  "69qkC8x2DGT4yjuwXNFQPf": {
+    "name": "Cris SNJ",
+    "genre": "r-n-b",
+    "popularity": 26,
+    "spotify": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
+  },
+  "0dlGv8TUPAeu9nFIMIdLn4": {
+    "name": "Baixo Cal\u00e3o",
+    "genre": "r-n-b",
+    "popularity": 6,
+    "spotify": "https://open.spotify.com/artist/0dlGv8TUPAeu9nFIMIdLn4"
+  },
+  "1gmMKi0rOXKnBW2lVU4wwt": {
+    "name": "De Brassers",
+    "genre": "r-n-b",
+    "popularity": 10,
+    "spotify": "https://open.spotify.com/artist/1gmMKi0rOXKnBW2lVU4wwt"
+  },
+  "4xl8d0jW1A7GBZ7w6Wm9VZ": {
+    "name": "Bloco da Laje",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/4xl8d0jW1A7GBZ7w6Wm9VZ"
+  },
+  "3MLvHfCCGFQqX0XMV8KVAS": {
+    "name": "Pekinska patka",
+    "genre": "r-n-b",
+    "popularity": 13,
+    "spotify": "https://open.spotify.com/artist/3MLvHfCCGFQqX0XMV8KVAS"
+  },
+  "3pRRuE5iLd6Itecb1GbAUx": {
+    "name": "Les H\u00f4tesses D' Hilaire",
+    "genre": "r-n-b",
+    "popularity": 17,
+    "spotify": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+  },
+  "6RaRPRrUnOwLbXI5q0nvFj": {
+    "name": "Superv\u00e3o",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj"
+  },
+  "7zBD3u7aYHxNPlLWc5CAdh": {
+    "name": "Tuomari Nurmio",
+    "genre": "r-n-b",
+    "popularity": 34,
+    "spotify": "https://open.spotify.com/artist/7zBD3u7aYHxNPlLWc5CAdh"
+  },
+  "3U7XDjbMZWVbis1wAUzjMq": {
+    "name": "Wynona Bleach",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq"
+  },
+  "5DaJBK8fiklaix4rtw4xKD": {
+    "name": "Os Playmobils",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/5DaJBK8fiklaix4rtw4xKD"
+  },
+  "1a4wr0jSkeTappBVXFlnJI": {
+    "name": "Daedalean Complex",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/1a4wr0jSkeTappBVXFlnJI"
+  },
+  "6cfAPNNvQ4O9yqZ7cWf2Fh": {
+    "name": "Antiga Roll",
+    "genre": "r-n-b",
+    "popularity": 0,
+    "spotify": "https://open.spotify.com/artist/6cfAPNNvQ4O9yqZ7cWf2Fh"
+  },
+  "7gCywz9aTTmZIL3u9ULiWG": {
+    "name": "The Departure",
+    "genre": "r-n-b",
+    "popularity": 11,
+    "spotify": "https://open.spotify.com/artist/7gCywz9aTTmZIL3u9ULiWG"
+  },
+  "1oQx7H437iFRCuhv4HOsNR": {
+    "name": "J\u00e9f",
+    "genre": "r-n-b",
+    "popularity": 22,
+    "spotify": "https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR"
+  },
+  "4yb0J6O042C9plii8fNxZx": {
+    "name": "Ashtray Navigations",
+    "genre": "r-n-b",
+    "popularity": 1,
+    "spotify": "https://open.spotify.com/artist/4yb0J6O042C9plii8fNxZx"
+  },
+  "33NnGPFKLGWP61VcfcR71s": {
+    "name": "Pagan Reign",
+    "genre": "r-n-b",
+    "popularity": 3,
+    "spotify": "https://open.spotify.com/artist/33NnGPFKLGWP61VcfcR71s"
+  }
+}
