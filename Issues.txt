@@ -7,5 +7,12 @@
 - Investigate the tag:hipster filter for searching artists.  Can only be used to search for albums
 but it searches the lower level popularity
 
-- Put in a condition to prevent email duplicates
+- Sort the artist dicts by popularity
 
+- Add Soundcloud to the list of websites to scrape for emails
+
+- Could add email regex to get email from Spotify bio
+
+- Add Instagram for scraping emails
+
+- Change emails to lowercase to prevent duplicates
