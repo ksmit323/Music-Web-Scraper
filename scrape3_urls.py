@@ -27,13 +27,14 @@ if (len(sys.argv) < 2):
     sys.exit(1)
 
 # Load in JSON file
-print("Loading file...")
 artists = import_json_files(sys.argv[1]) # File is returned as a list
+print("File loaded...")
 
 # Track artists who failed to produce links
 failed_log = []
 
 # Add URLs for each artist
+print("Finding URLs...")
 driver = set_up_selenium_driver() # set up Selenium WebDriver
 for artist in tqdm(artists):
     artists[artist]['facebook'] = ""
@@ -56,8 +57,8 @@ for artist in tqdm(artists):
 driver.quit() # Close the driver
 
 # Export new JSON file with updated URLs. File name remains the same
-print(f"Exporting {sys.argv[1]} file...")
-export_to_json_file(sys.argv[1], artists)    
+print(f"Exporting 'urls_' + {sys.argv[1]} file...")
+export_to_json_file(f'urls_{sys.argv[1]}', artists)    
 
 # Export file for failed log
 if len(failed_log) > 0:

@@ -25,42 +25,54 @@ if (len(sys.argv) < 2):
     sys.exit(1)
 
 # Load in JSON file
-print("Loading file...")
 artists = import_json_files(sys.argv[1])
+print("File loaded...")
 
 # Tracking data
 failed_log = []
 
 # Scrape for emails for each artist
+print("Finding emails...")
 driver = set_up_selenium_driver() # set up Selenium WebDriver
 for artist in tqdm(artists):
-    artists[artist]['email'] = []
 
-    # Scrape from Twitter
-    try:
-        email = scrape_email_from_twitter(artists[artist]['twitter'], driver)
-    except:
-        continue
-    for info in email:
-        artists[artist]['email'].append(info)
+    if artists[artist]['genre'] == 'hyperpop': #! DELETE THIS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-    # Scrape from Facebook
-    try:
-        email = scrape_email_from_facebook(artists[artist]['facebook'], driver)
-    except:
-        continue
-    for info in email:
-        artists[artist]['email'].append(info)
-    
-    # Track failed retrieval of emails
-    if len(artists[artist]['email']) == 0:
-        failed_log.append(artist)
-driver.quit() # Close the driver
+        # Scrape from Twitter
+        try:
+            twitter_handle = artists[artist]['twitter']
+            if twitter_handle != "":
+                email = scrape_email_from_twitter(twitter_handle, driver)
+            else:
+                email = []
+        except Exception as e:
+            email = []
+            print(f'Error scraping from Twitter: {e}')
+        artists[artist]['email'].extend([addr for addr in email if addr not in artists[artist]['email']])
+        time.sleep(0.5)
+
+        # Scrape from Facebook
+        try:
+            facebook_handle = artists[artist]['facebook']
+            if facebook_handle != "":
+                email = scrape_email_from_facebook(facebook_handle, driver)
+            else:
+                email = []
+        except Exception as e:
+            print(f'Error scraping facebook: {e}')
+            continue
+        artists[artist]['email'].extend([addr for addr in email if addr not in artists[artist]['email']])
+        time.sleep(0.5)
+        
+        # Track failed retrieval of emails
+        if len(artists[artist]['email']) == 0:
+            failed_log.append(artist)
+
+driver.quit()
 
 # Export new JSON file with updated emails. File name remains the same
-print(f"Found {len(artists)-len(failed_log)} emails")
-print(f"Exporting {sys.argv[1]} files...")
-export_to_json_file(sys.argv[1], artists)
+print(f"Exporting {'emails_' + sys.argv[1]} file...")
+export_to_json_file(f'emails_{sys.argv[1]}', artists)
 
 # Export file for failed log
-# export_to_json_file(f"failed_email_{sys.argv[1]}_log.json", failed_log)
+export_to_json_file(f"failed_email_{sys.argv[1]}_log.json", failed_log)

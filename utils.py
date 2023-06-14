@@ -1,5 +1,6 @@
 import json
 import openpyxl
+import pandas as pd
 
 
 
@@ -12,25 +13,44 @@ def import_json_files(file_name):
     return data
 
 
-def export_to_json_file(file_name, artists):
+def export_to_json_file(file_name:str, data:list):
     """Exports artists to a JSON file"""
 
     with open(file_name, "w") as file:
-        json.dump(artists, file, indent=2)
+        json.dump(data, file, indent=2)
 
 
-def upload_to_excel(data_list, file_name):
-    # Create a new Excel workbook
-    workbook = openpyxl.Workbook()
+def export_to_excel(artists, excel_file_name):
 
-    # Select an active sheet
-    sheet = workbook.active
+    # Create an empty DataFrame
+    df = pd.DataFrame()
 
-    # Iterate over the data list and write each entry to excel
-    for index, url in enumerate(data_list, start=1):
-        cell = sheet.cell(row=index, column=1)
-        cell.value = url
-        # cell.hyperlink = url
+    # Iterate over each key-value pair in the JSON data
+    for key, value in artists.items():
+        # Create a new column with the key as the name
+        df[key] = pd.Series(value)
 
-    # Save the workbook
-    workbook.save(file_name)
+        # Remove unnecessary characters from the email and replace links with Spotify link
+        for key2 in df[key].keys():
+            if key2 == 'email':
+                df[key]['email'] = ', '.join(df[key]['email'])            
+
+    # Transpose the DF to have keys as columns and values as rows
+    df = df.transpose()
+
+    # Export the DF to an Excel file
+    df.to_excel(f'{excel_file_name}.xlsx', index=False)
+
+
+
+def import_from_excel(excel_file):
+
+    # Read the Excel file into a pandas DataFrame
+    df = pd.read_excel(excel_file)
+
+    # Convert the DataFrame to a dictionary
+    data = df.to_dict(orient='index')
+
+    # Export the dictionary to a JSON file
+    with open('output.json', 'w') as json_file:
+        json.dump(data, json_file, indent=2)

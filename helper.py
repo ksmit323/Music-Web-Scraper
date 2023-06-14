@@ -115,13 +115,11 @@ def handle_rate_limit(response):
 
 def search_for_artists(token, genre):
     """
-    Searches for artists on Spotify based on genre, country, and a maximum number of followers.
+    Searches for artists on Spotify based on genre and popularity.
     
     Args:
         token (str): A valid access token for the Spotify API.
-        max_followers (int): The maximum number of followers an artist can have to be included in the result.
         genre (str): The genre of the artists to search for.
-        country (str): The country to limit the search to.
 
     Returns:
         dict: A dictionary containing information about the artists found. The keys are the artist IDs, and the values 
@@ -137,6 +135,7 @@ def search_for_artists(token, genre):
         "q": f"genre:{genre}",
         "type": "artist",
         "limit": 50,
+        "country": "US"
     }
 
     # Dict to store artists
@@ -156,6 +155,7 @@ def search_for_artists(token, genre):
 
         # Retry the same page if rate limit is hit
         if response.status_code == 429:
+            print("Rate limit exceeded. Calling handle rate limit function")
             handle_rate_limit(response)
             retry_count += 1
             if retry_count < 2:
@@ -169,12 +169,13 @@ def search_for_artists(token, genre):
         # Add artists to the result if their popularity rating is low enough
         if "artists" in data and "items" in data["artists"]:
             for artist in data["artists"]["items"]:
-                pop = artist["popularity"]
-                if pop < 60:
+                popularity = artist["popularity"]
+                if popularity <= 60:
                     artists[artist['id']] = {
                         'name': artist["name"],
                         'genre': genre,
-                        'popularity': pop,
+                        'popularity': popularity,
+                        'email':[],
                         'spotify': artist['external_urls']['spotify']
                     }
         count_pages += 1
@@ -210,20 +211,28 @@ def has_recent_track(token, artist_id, release_year):
         bool: True if the artist has released a track in the specified release year,
             False otherwise.
     """
+    try:
+        tracks = get_songs_by_artist(token, artist_id)
+    except:
+        return False
 
-    tracks = get_songs_by_artist(token, artist_id)
     latest_track = None
     latest_release_date = None
 
     for track in tracks:
-        release_date = track["album"]["release_date"]
-        if not latest_release_date or release_date > latest_release_date:
-            latest_release_date = release_date
-            latest_track = track
-
-    if latest_track['album']['release_date'][:4] == release_year:
-        time.sleep(0.5)
-        return latest_track
+        try:
+            release_date = track["album"]["release_date"]
+            if not latest_release_date or release_date > latest_release_date:
+                latest_release_date = release_date
+                latest_track = track
+        except:
+            return False
+    try:
+        if latest_track['album']['release_date'][:4] == release_year:
+            time.sleep(0.5)
+            return latest_track
+    except:
+        return False
     
     time.sleep(0.5)
     return False
@@ -296,12 +305,12 @@ def scrape_email_from_twitter(link, driver):
         link (url string): A string containing the URL for artist's twitter profile.
 
     Returns:
-        email (string): A string containing the email address of the artist if there is one. 
+        emails (list): A list containing the email addresses of the artist if there are any.
 
     """
     # Load the page
     driver.get(link)
-    time.sleep(2)
+    time.sleep(1)
 
     # Set path to find element (Only for Twitter)
     xpath1 = '//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[3]/div/div/span'
@@ -332,8 +341,8 @@ def scrape_email_from_twitter(link, driver):
             email_regex = re.compile(r'[\w\.-]+@[\w\.-]+')
             email = email_regex.findall(contact_info) # Returns a list
             if len(email) > 0:
-                for info in email:
-                    emails.append(info)
+                for addr in email:
+                    emails.append(addr.lower())
 
     return emails
 
@@ -346,12 +355,12 @@ def scrape_email_from_facebook(link, driver):
         link (url string): A string containing the URL for artist's Facebook profile.
 
     Returns:
-        email (string): A string containing the email address of the artist if there is one. 
+        email (list): A list containing any email addresses found. 
     
     """
     # Load the page
     driver.get(link)
-    time.sleep(2)
+    time.sleep(1)
 
     # Simulate pressing the Escape key
     actions = ActionChains(driver)
@@ -368,93 +377,96 @@ def scrape_email_from_facebook(link, driver):
 
     # Find email with the regular expression
     email_regex = re.compile(r'[\w\.-]+@[\w\.-]+')
-    email = email_regex.findall(text) # Returns a list
+    emails = email_regex.findall(text) # Returns a list        
 
-    return email
-    
+    # Convert emails to lowercase
+    emails = [addr.lower() for addr in emails]
 
-def create_spreadsheet(list_of_all_artists):
+    return emails
+
+
+def get_genres(data, previous_genres):
     """
-    Creates an excel spreadsheet from a list of dictionaries of artists.
-
     Args:
-        list_of_all_artists (list): A list of dictionaries of artists.
+        data (dict): Long list of many dictionaries containing all the info Spotify will give on the artists
+        previous_genres (list): List of previous genres that have already been searched 
     """
-    # Create a Pandas dataframe from the list of dictionaries of artists
-    df = pd.DataFrame(list_of_all_artists)
 
-    # Write the dataframe to an excel spreadsheet
-    df.to_excel('artists.xlsx', index=False)
+    genres = []
+    for page in data:
+        for artist in page["artists"]["items"]:
+            for genre in artist['genres']:
+                if genre not in genres and genre not in previous_genres:
+                    genres.append(genre)
+
+    return genres    
+
+
+def get_all_artists_from_one_genre(token, genre):
+    """
+    Searches for artists on Spotify based on one genre.
     
+    Args:
+        token (str): A valid access token for the Spotify API.
+        genre (str): The genre of the artists to search for.
 
-if __name__ == '__main__':
+    Returns:
+        dict: A dictionary containing information about the artists found. 
+    """
+    
+    # URL and headers for making the API request
+    url = "https://api.spotify.com/v1/search"
+    headers = get_auth_header(token)
 
-    # Set up Spotify API credentials
-    load_dotenv()
-    client_id = os.getenv("CLIENT_ID")
-    client_secret = os.getenv("CLIENT_SECRET")
-    token = get_token(client_id, client_secret)
+    # Parameters for the search query
+    params = {
+        "q": f"genre:{genre}",
+        "type": "artist",
+        "limit": 50,
+        "country": "US"
+    }
 
-    # Set up search criteria
-    max_followers = 5e5
-    release_year = '2023'
-    # genre_list = ['pop', 'hip hop', 'country', 'r&b', 'metal', 'punk', 'indie', 'alternative', 'rap', 'latin', 'christian']
-    genre_list = ['rap']
-    country_codes = ['US']
+    # List to store artists
+    artists = []
 
-    # Instantiate variables
-    total_artists = 0
-    delay = 0
-    list_of_all_artists = []
+    count_pages = 0
+    retry_count = 0
 
-    # Generate a compiled list of all artists and their dict info
-    for genre in genre_list:
-        for country in country_codes:
+    # Loop until all pages of artists are retrieved
+    while True:
 
-            artists = search_for_artists(token, max_followers, genre, country)
-            total_artists += len(artists)
-            list_of_all_artists.append(artists)
-            time.sleep(1)
-            print("Going to the next country")
-        print("Going to the next genere")
+        # Call on Spotify API
+        response = make_request(url, headers, params)
+        if count_pages == 20:
+            print("Reached 20 page limit.")
+            break
 
-        # Delay to try to avoid exceeding rate limit
-        delay += 1
-        if delay == 3:
-            time.sleep(60)
-            delay = 0
+        # Retry the same page if rate limit is hit
+        if response.status_code == 429:
+            print("Rate limit exceeded. Calling handle rate limit function")
+            handle_rate_limit(response)
+            retry_count += 1
+            if retry_count < 2:
+                params["offset"] = data["artists"]["offset"] - params["limit"]
+            continue
+        retry_count = 0
+
+        # Parse the response and add to list
+        data = response.json()
+        artists.append(data)
+
+        # Go to the next page of artists if available
+        count_pages += 1
+        print(f"{genre} page: {count_pages}/20")
+        try:
+            if "next" in data["artists"]:
+                params["offset"] = data["artists"]["offset"] + params["limit"]
+            else:
+                print("Finished looping through all artists")
+                break
+        except Exception as e:
+            print("Exception has been caught: ", e)
+            break
         time.sleep(1)
 
-    for artist_by_country in list_of_all_artists:
-        print(f"Total artists for this country: {len(artist_by_country)}")
-
-
-    # Remove all artists who do not have recent tracks
-    print("Going to filter out artists by recent tracks")
-    for all_artists_in_each_country in list_of_all_artists:
-        artists_to_delete = []
-        for artist_id in all_artists_in_each_country:
-            if not has_recent_track(token, artist_id, release_year, all_artists_in_each_country[artist_id]['country']):
-                artists_to_delete.append(artist_id)
-        print(f"Removing {len(artists_to_delete)} artists")    
-        for artist in artists_to_delete:
-            del all_artists_in_each_country[artist]
-    
-    # Print to console number of artists
-    for artist_by_country in list_of_all_artists:
-        print(f"Remaining artists for this country: {len(artist_by_country)}")
-    
-    print(list_of_all_artists)
-    
-    # Scrape social media links from each artist
-    # print("Going to scrape emails")
-    # for all_artists_in_each_country in list_of_all_artists:
-    #     for artist_id in all_artists_in_each_country:
-    #         links = scrape_social_media_links(artist_id)
-    #         emails = scrape_email_addresses(links)
-    #         all_artists_in_each_country[artist_id]['emails'] = emails
-    #     print("Scraped social media links for this country")
-
-    # Create an excel spreadsheet
-    # create_spreadsheet(list_of_all_artists)
-    # print("Spreadsheet created")
+    return artists

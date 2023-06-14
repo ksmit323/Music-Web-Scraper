@@ -7,7 +7,8 @@ It retrieves artists who have recent tracks available and a popularity rating be
 Usage:
     python3 scrape_names.py <country_codes> <genre_list>
 
-    Replace <country_codes> and <genre_list> with JSON files of countries and genres, respectively
+    Replace <country_codes> and <genre_list> with JSON files of countries and genres, respectively.
+    Genres is a dictionary containing a list of genres.
 
 API Credentials:
     You need to provide your own Spotify API credentials in order to use this script. 
@@ -24,7 +25,6 @@ from helper import get_token, search_for_artists
 from utils import export_to_json_file, import_json_files
 import time
 import sys
-
 
 
 # Check for correct usage
@@ -48,31 +48,25 @@ for i in range(2):
 # Set up Spotify API credentials
 token = get_token()
 
-# Instantiate variables
-max_followers = 5e5
-total_artists_by_genre = 0
+genres_total = []
+count = 0
 
 # Iterate over each country and genre
 for country in countries:
 
-    for genre in genres:
+    for i, genre in enumerate(genres):
         
         # Add artists to the list
         artists = search_for_artists(token, genre)
         print(f"Total artists in {genre}: {len(artists)}")
         print("------------------------")
 
-        # Export each country to JSON file
-        export_to_json_file(f"artists_in_{genre}.json", artists)
-        time.sleep(2)
+        genres_total.append(artists)
+        count += 1
+        if count == 15:
+            count = 0
+            # Export each country to JSON file
+            export_to_json_file(f"artists_genres_many_rap_{i}.json", genres_total)
+
+        time.sleep(5)
     
-
-
-
-
-
-
-    
-
-
-

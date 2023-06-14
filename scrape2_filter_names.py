@@ -25,7 +25,7 @@ import time
 token = get_token()
 
 # Check for correct usage
-if (len(sys.argv) < 3):
+if len(sys.argv) < 3:
     print("Don't forgot to include the sent and artists files!")
     print("Usage: python3 scrape2_filter_names.py <json file> <json file>")
     sys.exit(1)
@@ -70,12 +70,13 @@ print("...")
 
 # for artist in tqdm(artists_rap, desc="Processing", unit="item"):
 for artist in tqdm(artists):
-    latest_track = has_recent_track(token, artist, release_year)
-    if not latest_track:
+
+    recent_track = has_recent_track(token, artist, release_year)
+    if not recent_track:
         artists_to_remove.append(artist)
     else:
-        artists[artist]["Top Track"] = latest_track['name']
-        artists[artist]["Track URL"] = latest_track['external_urls']['spotify']
+        artists[artist]["Top Track"] = recent_track["name"]
+        artists[artist]["Track URL"] = recent_track["external_urls"]["spotify"]
 
 # Remove artists on the list
 print(f"Removing {len(artists_to_remove)} artists...")
@@ -88,17 +89,17 @@ for artist in artists_to_remove:
 # time.sleep(10)
 
 
-""" NEXT STEP IS TO EXPORT JSON FILE """
+""" LAST STEP IS TO EXPORT JSON FILE """
 
-# Create new JSON file with filtered list 
+# Create new JSON file with filtered list
 print(f"{len(artists)} artists remaining.")
 print("Downloading new file...")
-export_to_json_file(artists_file_name, artists)
+export_to_json_file('filtered_' + artists_file_name, artists)
 
 
 """ LAST STEP IS ADD THESE NAMES TO THE SENT LIST """
 
-for artist in artists:
-    sent.append(artist)
+# for artist in artists:
+#     sent.append(artist)
 
-export_to_json_file(sent_file_name, sent)
+# export_to_json_file(sent_file_name, sent)
